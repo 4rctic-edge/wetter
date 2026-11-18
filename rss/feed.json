@@ -1,8 +1,35 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-18T12:29:39Z",
+ "checked": "2026-11-18T12:33:34Z",
  "items": [
+  {
+   "title": "WhatsApp-Betrug: Betrüger übernehmen Konten mit Fake-Abstimmungen",
+   "prefix": "POL-HS",
+   "place": "Kreis Heinsberg",
+   "teaser": "Im Kreis Heinsberg sind zuletzt mehrere Fälle einer WhatsApp-Betrugsmasche bekannt geworden. Betrüger erlangten Zugriff auf bestehende WhatsApp-Konten und baten unter dem Namen der Kontoinhaber um Geldüberweisungen von …",
+   "source": "Kreispolizeibehörde Heinsberg",
+   "published": "2026-11-18T12:00:12Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65845/6393148"
+  },
+  {
+   "title": "Was ist Cybergrooming und wie gehen die Täter vor?",
+   "prefix": "POL-HS",
+   "place": "Kreis Heinsberg",
+   "teaser": "Heute ist der Europäische Tag zum Schutz von Kindern vor sexueller Ausbeutung und sexuellem Missbrauch. Der Aktionstag macht auf illegale, jugendgefährdende und entwicklungsbeeinträchtigende Inhalte im Bereich des Kinder- …",
+   "source": "Kreispolizeibehörde Heinsberg",
+   "published": "2026-11-18T12:00:09Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65845/6393147"
+  },
+  {
+   "title": "Einbruch in Einfamilienhaus",
+   "prefix": "POL-HS",
+   "place": "Heinsberg-Eschweiler",
+   "teaser": "Zwischen Samstag (14. November), 12 Uhr und Dienstag (17. November), 15.45 Uhr, drangen Einbrecher an der Kelsterbacher Straße gewaltsam in ein Einfamilienhaus ein. Nach ersten Erkenntnissen durchsuchten sie mehrere …",
+   "source": "Kreispolizeibehörde Heinsberg",
+   "published": "2026-11-18T12:00:06Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65845/6393146"
+  },
   {
    "title": "Betrüger am Telefon erfolgreich - Konto der Opfer geplündert - Polizei warnt vor Betrügern und gibt Tipps",
    "prefix": "POL-NE",
@@ -110,33 +137,6 @@
    "source": "Polizei Münster",
    "published": "2026-11-18T11:22:35Z",
    "link": "https://www.presseportal.de/blaulicht/pm/11187/6393105"
-  },
-  {
-   "title": "Zwei Kellerbrände in der nördlichen Innenstadt - Polizei sucht Zeugen",
-   "prefix": "POL-DO",
-   "place": "Dortmund",
-   "teaser": "In der Nacht zu Mittwoch (18.11.2026) brannten in der Mallinckrodtstraße und in der Östermärsch zwei Keller und ein Kinderwagen im Treppenhaus. Die Polizei sucht Zeugen. Nach ersten Erkenntnissen meldete ein Zeuge …",
-   "source": "Polizei Dortmund",
-   "published": "2026-11-18T11:18:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/4971/6393101"
-  },
-  {
-   "title": "Altenberge, Steinfurt, Schockanrufe Betrüger erbeuten in einem Fall Bargeld",
-   "prefix": "POL-ST",
-   "place": "Steinfurt",
-   "teaser": "Am Dienstag (17.11.) waren zwei Seniorinnen aus Altenberge und Steinfurt Opfer von Schockanrufen. In einem Fall erbeuteten die Unbekannten Bargeld. In Altenberge erhielt eine Seniorin am Morgen einen Anruf, in dem ihr mitgeteilt …",
-   "source": "Polizei Steinfurt",
-   "published": "2026-11-18T11:14:43Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43526/6393092"
-  },
-  {
-   "title": "\"Frag den Cop\": Polizei informiert in Hösel über E-Scooter",
-   "prefix": "POL-ME",
-   "place": "Ratingen",
-   "teaser": "E-Scooter gehören inzwischen ganz selbstverständlich zum Straßenbild. Gerade bei Jugendlichen erfreuen sich die elektrisch betriebenen Tretroller großer Beliebtheit. Gleichzeitig sorgen sie immer wieder für Fragen und …",
-   "source": "Polizei Mettmann",
-   "published": "2026-11-18T11:11:32Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43777/6393088"
   }
  ]
 }
