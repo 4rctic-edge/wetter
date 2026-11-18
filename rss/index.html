@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Polizeimeldungen NRW</title>
+<style>
+/* ===== Farben & Grundmaß (wie Wetter-Kachel) ===== */
+:root {
+  --bg: #11171d;
+  --tile: #1b242d;
+  --tile-bd: #2c3842;
+  --box: #24313c;
+  --box-bd: #33424f;
+  --line: #2c3842;
+  --t1: #eff5f8;
+  --t2: #b4c0c9;
+  --lab: #8a99a6;
+  --green: #5bce70;
+  --red: #f35c51;
+  --orange: #e2b46a;
+  --wtile: #2c3a46;
+
+  --k: 1;
+  --u: min(calc(100vw / 80), calc(100vh / 70));
+  --s: calc(var(--u) * var(--k));
+  color-scheme: dark;
+}
+@media (min-aspect-ratio: 2/1) {
+  :root { --u: min(calc(100vw / 120), calc(100vh / 40)); }
+}
+@media (max-aspect-ratio: 3/4) {
+  :root { --u: min(calc(100vw / 46), calc(100vh / 90)); }
+}
+@media (max-width: 299px), (max-height: 199px) {
+  :root { --u: min(calc(100vw / 40), calc(100vh / 24)); }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0; width: 100%; height: 100%;
+  overflow: hidden; background: var(--bg);
+}
+body {
+  font-family: Inter, "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  color: var(--t1);
+  -webkit-font-smoothing: antialiased;
+}
+svg {
+  display: block; fill: none; stroke: currentColor; stroke-width: 2;
+  stroke-linecap: round; stroke-linejoin: round;
+}
+
+/* ===== Kachel ===== */
+.tile {
+  position: fixed; inset: 0;
+  display: flex; flex-direction: column;
+  gap: calc(var(--s) * 1.8);
+  padding: calc(var(--s) * 2.4) calc(var(--s) * 2.8) calc(var(--s) * 1.8);
+  background: var(--tile);
+  border: 1px solid var(--tile-bd);
+  border-radius: max(6px, calc(var(--s) * 0.85));
+  overflow: hidden;
+}
+
+/* ===== Kopfzeile ===== */
+.hd { display: flex; align-items: center; gap: calc(var(--s) * 1.2); min-width: 0; white-space: nowrap; }
+.pill {
+  flex: none; display: inline-flex; align-items: center; gap: calc(var(--s) * 0.6);
+  padding: calc(var(--s) * 0.45) calc(var(--s) * 1);
+  border-radius: 999px;
+  font-size: max(9px, calc(var(--s) * 1.35)); font-weight: 800; letter-spacing: 0.08em; line-height: 1.2;
+  color: var(--green); background: rgba(91, 206, 112, 0.13);
+}
+.dot {
+  flex: none; display: inline-block;
+  width: max(5px, calc(var(--s) * 0.7)); height: max(5px, calc(var(--s) * 0.7));
+  border-radius: 50%; background: currentColor;
+  box-shadow: 0 0 calc(var(--s) * 0.8) currentColor;
+}
+.stamp {
+  min-width: 0; overflow: hidden; text-overflow: ellipsis;
+  font-size: max(9px, calc(var(--s) * 1.45)); font-weight: 600; color: var(--t2);
+}
+.stamp .warn { color: var(--orange); }
+.tile[data-status="warn"] .pill { color: var(--orange); background: rgba(226, 180, 106, 0.14); }
+.tile[data-status="err"] .pill { color: var(--red); background: rgba(243, 92, 81, 0.14); }
+.tile[data-status="err"] .stamp .warn { color: var(--red); }
+.tile[data-status="load"] .pill { color: var(--lab); background: rgba(138, 153, 166, 0.13); }
+
+/* ===== Titelzeile (nur bei genug Höhe) ===== */
+.ttl { display: none; align-items: center; gap: calc(var(--s) * 1.6); }
+.itile {
+  flex: none; width: calc(var(--s) * 6.4); height: calc(var(--s) * 6.4);
+  border-radius: calc(var(--s) * 1.4);
+  display: grid; place-items: center;
+  background: linear-gradient(150deg, #ff7d71, #e2463b);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08),
+              0 calc(var(--s) * 0.6) calc(var(--s) * 1.8) calc(var(--s) * -0.6) #e2463b;
+  color: #fff;
+}
+.itile svg { width: 56%; height: 56%; }
+.kicker {
+  font-size: max(9px, calc(var(--s) * 1.35)); font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase; color: #ff7d71;
+}
+.ttl h1 {
+  margin: calc(var(--s) * 0.2) 0 0;
+  font-size: calc(var(--s) * 4.2); font-weight: 800; line-height: 1; letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+@media (min-height: 480px) and (max-aspect-ratio: 2/1) {
+  .ttl { display: flex; }
+}
+
+/* ===== Meldungsliste ===== */
+.list {
+  flex: 1; min-height: 0; min-width: 0;
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 1), minmax(0, 1fr));
+  grid-template-rows: repeat(var(--rows, 1), minmax(0, 1fr));
+  gap: calc(var(--s) * 1.2);
+  overflow: hidden;
+  transition: opacity 0.35s ease;
+}
+.list.fade { opacity: 0; }
+
+.it {
+  display: flex; gap: calc(var(--s) * 1.6);
+  min-width: 0; min-height: 0; overflow: hidden;
+  padding: calc(var(--s) * 1.6) calc(var(--s) * 1.8);
+  background: var(--box);
+  border: 1px solid var(--box-bd);
+  border-radius: calc(var(--s) * 0.7);
+}
+.tt {
+  flex: none; align-self: flex-start;
+  width: calc(var(--s) * 8.4);
+  padding: calc(var(--s) * 0.9) calc(var(--s) * 0.4);
+  border-radius: calc(var(--s) * 0.7);
+  background: var(--wtile);
+  display: flex; flex-direction: column; align-items: center; gap: calc(var(--s) * 0.2);
+}
+.tt b { font-size: calc(var(--s) * 2.2); font-weight: 800; color: var(--t1); font-variant-numeric: tabular-nums; line-height: 1.1; }
+.tt span {
+  font-size: max(8px, calc(var(--s) * 1.1)); font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; color: var(--lab); white-space: nowrap;
+}
+.ib { flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; gap: calc(var(--s) * 0.6); }
+.im {
+  flex: none; display: flex; align-items: center; gap: calc(var(--s) * 0.8); min-width: 0;
+  font-size: max(9px, calc(var(--s) * 1.3)); font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; color: var(--lab); white-space: nowrap;
+}
+.bdg {
+  flex: none; padding: 0.2em 0.55em; border-radius: 0.4em;
+  background: var(--orange); color: #1b242d; font-weight: 800; letter-spacing: 0.04em;
+}
+.im .tin { display: none; flex: none; color: var(--t1); }
+.im .src { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+/* Wrapper nötig: als Flex-Element würde -webkit-box (Zeilenbegrenzung) nicht greifen */
+.ihw {
+  flex: none;
+  font-size: max(11px, calc(var(--s) * 2.5)); font-weight: 800; line-height: 1.2; color: var(--t1);
+}
+.ixw {
+  flex: 1 1 0; min-height: 0; overflow: hidden;
+  font-size: max(10px, calc(var(--s) * 1.9)); font-weight: 500; line-height: 1.35; color: var(--t2);
+}
+.ih, .ix {
+  margin: 0; font: inherit;
+  display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden;
+  overflow-wrap: anywhere;
+}
+.ih { -webkit-line-clamp: 2; }
+/* Messmodus: schlimmster Fall (2 Zeilen Titel, mind. 2 Zeilen Teaser) */
+.list.measure .ihw { min-height: 2.4em; }
+.list.measure .ixw { flex: none; height: 2.7em; }
+
+/* schmale Karten: Uhrzeit in die Meta-Zeile statt eigener Kachel */
+.list.compact .tt { display: none; }
+.list.compact .im .tin { display: inline; }
+
+.empty {
+  grid-column: 1 / -1; grid-row: 1 / -1;
+  display: flex; align-items: center; justify-content: center;
+  font-size: max(10px, calc(var(--s) * 1.8)); font-weight: 600; color: var(--lab);
+}
+
+/* ===== Fußzeile ===== */
+.ft {
+  position: relative;
+  display: flex; align-items: center; justify-content: space-between; gap: calc(var(--s) * 2);
+  padding-top: calc(var(--s) * 1.2);
+  border-top: 1px solid var(--line);
+  font-size: max(8px, calc(var(--s) * 1.25)); font-weight: 600; color: var(--lab); white-space: nowrap;
+}
+.prog {
+  position: absolute; top: -1px; left: 0; height: 1px; width: 0;
+  background: var(--lab); opacity: 0.8;
+}
+@keyframes prog { from { width: 0; } to { width: 100%; } }
+.pager { display: inline-flex; align-items: center; gap: calc(var(--s) * 0.8); color: var(--t2); }
+.pager svg { width: 1.2em; height: 1.2em; color: var(--lab); }
+.ft-dot { display: none; color: var(--green); }
+.ft-dot .dot { width: 6px; height: 6px; }
+.tile[data-status="warn"] .ft-dot { color: var(--orange); }
+.tile[data-status="err"] .ft-dot { color: var(--red); }
+.src-s { display: none; }
+
+/* ===== Ladezustand ===== */
+.loader {
+  display: none; position: absolute; inset: 0;
+  align-items: center; justify-content: center; gap: calc(var(--s) * 1);
+  font-size: max(10px, calc(var(--s) * 1.8)); font-weight: 600; color: var(--lab);
+  pointer-events: none;
+}
+.loader .dot { color: var(--lab); animation: pulse 1.4s ease-in-out infinite; }
+@keyframes pulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+.tile[data-state="loading"] .loader { display: flex; }
+.tile[data-state="loading"] .list,
+.tile[data-state="loading"] .pager { visibility: hidden; }
+
+/* ===== Sehr klein: eine Schlagzeile im Wechsel ===== */
+@media (max-width: 299px), (max-height: 199px) {
+  .tile { padding: calc(var(--s) * 1.6) calc(var(--s) * 1.8) calc(var(--s) * 1.2); gap: calc(var(--s) * 1); }
+  .hd, .ttl, .tt, .ixw { display: none !important; }
+  .im .tin { display: inline; }
+  .it { padding: 0; background: none; border: 0; align-items: center; }
+  .ib { justify-content: center; gap: calc(var(--s) * 1); }
+  .ihw { font-size: max(11px, calc(var(--s) * 2.6)); }
+  .list.measure .ihw { min-height: 3.6em; }
+  .ih { -webkit-line-clamp: 3; }
+  .ft { padding-top: calc(var(--s) * 0.8); }
+  .ft-dot { display: inline-flex; }
+  .src-l { display: none; }
+  .src-s { display: inline; }
+}
+</style>
+</head>
+<body>
+<div class="tile" id="tile" data-state="loading" data-status="load">
+  <header class="hd">
+    <span class="pill"><i class="dot"></i><span id="pillTxt">LÄDT</span></span>
+    <span class="stamp">Polizei NRW · Stand <span id="stand">--:--</span><span class="warn" id="stWarn"></span></span>
+  </header>
+
+  <div class="ttl">
+    <div class="itile" id="ttlIcon"></div>
+    <div>
+      <div class="kicker">Blaulicht · NRW</div>
+      <h1>Polizeimeldungen</h1>
+    </div>
+  </div>
+
+  <main class="list" id="list"></main>
+
+  <footer class="ft">
+    <i class="prog" id="prog"></i>
+    <span class="pager"><span class="ft-dot"><i class="dot"></i></span><span id="pchev"></span><span id="pager">1 von 1</span><span id="nchev"></span></span>
+    <span><span class="src-l">Quelle: presseportal.de · news aktuell</span><span class="src-s">presseportal.de</span></span>
+  </footer>
+
+  <div class="loader"><i class="dot"></i><span id="ldTxt">Meldungen werden geladen …</span></div>
+  <div id="probe" style="position:absolute;visibility:hidden;width:calc(var(--s) * 100);height:0"></div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  /* ===== Konfiguration ===== */
+  var DATA_URL = 'feed.json';          // wird per GitHub Action aus dem RSS-Feed erzeugt
+  var TZ = 'Europe/Berlin';
+  var REFRESH_MS = 5 * 60 * 1000;      // eigene Datei alle 5 Minuten neu laden
+  var RETRY_MS = 2 * 60 * 1000;
+  var PAGE_MS = 12 * 1000;             // Blättern
+  var WARN_MS = 90 * 60 * 1000;        // Feed-Stand älter: orange
+  var STALE_MS = 3 * 60 * 60 * 1000;   // Feed-Stand älter: rot
+  var CACHE_KEY = 'rss-polizei-nrw-v1';
+  var MAX_ROWS = 6, MAX_COLS = 3;
+
+  var ICONS = {
+    siren: '<path d="M7 18v-6a5 5 0 1 1 10 0v6"/><path d="M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z"/><path d="M21 12h1"/><path d="M18.5 4.5 18 5"/><path d="M2 12h1"/><path d="M12 2v1"/><path d="m4.929 4.929.707.707"/><path d="M12 12v6"/>',
+    left: '<path d="m15 18-6-6 6-6"/>',
+    right: '<path d="m9 18 6-6-6-6"/>'
+  };
+  function svg(n) { return '<svg viewBox="0 0 24 24" aria-hidden="true">' + ICONS[n] + '</svg>'; }
+
+  var $ = function (id) { return document.getElementById(id); };
+  var tile = $('tile'), list = $('list'), prog = $('prog');
+  $('ttlIcon').innerHTML = svg('siren');
+  $('pchev').innerHTML = svg('left');
+  $('nchev').innerHTML = svg('right');
+  var mqMini = window.matchMedia('(max-width: 299px), (max-height: 199px)');
+
+  /* ===== Zeit ===== */
+  var DTF = new Intl.DateTimeFormat('de-DE', {
+    timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', weekday: 'short', hourCycle: 'h23'
+  });
+  function berlin(ts) {
+    var o = {};
+    DTF.formatToParts(new Date(ts)).forEach(function (p) { o[p.type] = p.value; });
+    if (o.hour === '24') o.hour = '00';
+    return {
+      date: o.year + '-' + o.month + '-' + o.day,
+      hm: o.hour + ':' + o.minute,
+      dm: o.day + '.' + o.month + '.',
+      wd: (o.weekday || '').replace('.', '')
+    };
+  }
+  function dayLabel(ts) {
+    var d = berlin(ts).date;
+    if (d === berlin(Date.now()).date) return 'Heute';
+    if (d === berlin(Date.now() - 864e5).date) return 'Gestern';
+    var b = berlin(ts);
+    return b.wd + ' ' + b.dm;
+  }
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  /* ===== Zustand ===== */
+  var items = [], itemsKey = '', checked = 0, lastAttemptOk = true, attempts = 0;
+  var cols = 1, rows = 1, perPage = 1, pages = 1, page = 0, pageTimer = 0;
+
+  try {
+    var cached = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
+    if (cached && cached.items && cached.items.length) {
+      items = cached.items; checked = cached.checked || 0; itemsKey = JSON.stringify(items);
+    }
+  } catch (e) { /* Speicher nicht verfügbar – egal */ }
+
+  function status() {
+    if (!itemsKey) return { key: lastAttemptOk ? 'load' : 'err', label: lastAttemptOk ? 'LÄDT' : 'OFFLINE' };
+    var age = Date.now() - checked;
+    if (lastAttemptOk && age < WARN_MS) return { key: 'ok', label: 'LIVE' };
+    if (!lastAttemptOk && age < WARN_MS) return { key: 'warn', label: 'VERZÖGERT', msg: ' · keine Verbindung' };
+    return age < STALE_MS
+      ? { key: 'warn', label: 'VERZÖGERT', msg: ' · keine aktuellen Daten' }
+      : { key: 'err', label: 'OFFLINE', msg: ' · keine aktuellen Daten' };
+  }
+
+  function updateStatus() {
+    var st = status();
+    tile.setAttribute('data-status', st.key);
+    $('pillTxt').textContent = st.label;
+    var stand = '--:--';
+    if (checked) {
+      var b = berlin(checked);
+      stand = (b.date === berlin(Date.now()).date ? '' : b.dm + ' ') + b.hm;
+    }
+    $('stand').textContent = stand;
+    $('stWarn').textContent = st.msg || '';
+    if (!itemsKey) {
+      tile.setAttribute('data-state', 'loading');
+      $('ldTxt').textContent = (attempts > 0 && !lastAttemptOk)
+        ? 'Keine Verbindung – neuer Versuch läuft …'
+        : 'Meldungen werden geladen …';
+    } else {
+      tile.setAttribute('data-state', 'ready');
+    }
+  }
+
+  /* ===== Karten ===== */
+  function card(it) {
+    var ts = it.published ? Date.parse(it.published) : NaN;
+    var hm = isNaN(ts) ? '' : berlin(ts).hm;
+    var day = isNaN(ts) ? '' : dayLabel(ts);
+    var meta = [it.place, it.source].filter(Boolean).map(esc).join(' · ');
+    var tin = hm ? (day === 'Heute' ? hm : day + ' ' + hm) : '';
+    return '<article class="it">'
+      + (hm ? '<div class="tt"><b>' + hm + '</b><span>' + esc(day) + '</span></div>' : '')
+      + '<div class="ib">'
+      + '<div class="im">'
+      + (tin ? '<span class="tin">' + esc(tin) + '</span>' : '')
+      + (it.prefix ? '<span class="bdg">' + esc(it.prefix) + '</span>' : '')
+      + '<span class="src">' + meta + '</span></div>'
+      + '<div class="ihw"><h3 class="ih">' + esc(it.title) + '</h3></div>'
+      + '<div class="ixw">' + (it.teaser ? '<p class="ix">' + esc(it.teaser) + '</p>' : '') + '</div>'
+      + '</div></article>';
+  }
+
+  // Teaser so viele ganze Zeilen zeigen, wie in die Karte passen
+  function clampTeasers() {
+    var els = list.querySelectorAll('.ixw');
+    for (var i = 0; i < els.length; i++) {
+      var w = els[i], p = w.firstElementChild;
+      if (!p) continue;
+      var lh = parseFloat(getComputedStyle(w).fontSize) * 1.35;
+      var n = Math.floor((w.clientHeight + 1) / lh);
+      if (n < 1) p.style.display = 'none';
+      else { p.style.display = ''; p.style.webkitLineClamp = String(n); }
+    }
+  }
+
+  function renderPage() {
+    if (!items.length) {
+      list.innerHTML = '<div class="empty">Aktuell keine Meldungen</div>';
+      $('pager').textContent = '0 von 0';
+      return;
+    }
+    var start = page * perPage;
+    list.innerHTML = items.slice(start, start + perPage).map(card).join('');
+    clampTeasers();
+    $('pager').textContent = (page + 1) + ' von ' + pages;
+  }
+
+  /* ===== Einpassen ===== */
+  function setK(k) { document.documentElement.style.setProperty('--k', k.toFixed(3)); }
+  function over(el) { return el.scrollHeight > el.clientHeight || el.scrollWidth > el.clientWidth; }
+  function anyCardOver() {
+    if (over(list) || over(tile)) return true;
+    var cs = list.children;
+    for (var i = 0; i < cs.length; i++) if (over(cs[i])) return true;
+    return false;
+  }
+  function measure(r, c) {
+    list.style.setProperty('--cols', c);
+    list.style.setProperty('--rows', r);
+    var html = '';
+    for (var i = 0; i < r * c; i++) html += card(items[i % items.length]);
+    list.innerHTML = html;
+    return !anyCardOver();
+  }
+
+  function fit() {
+    if (!itemsKey) return;
+    if (!items.length) { list.style.setProperty('--cols', 1); list.style.setProperty('--rows', 1); renderPage(); return; }
+    var mini = mqMini.matches, k = 1, found = false, r, c;
+    list.classList.add('measure');
+    while (!found) {
+      setK(k);
+      var s = $('probe').offsetWidth / 100 || 1;
+      var gap = s * 1.2, w = list.clientWidth;
+      c = mini ? 1 : Math.max(1, Math.min(MAX_COLS, Math.floor((w + gap) / (s * 46 + gap))));
+      list.classList.toggle('compact', !mini && (w - (c - 1) * gap) / c < s * 48);
+      for (r = mini ? 1 : MAX_ROWS; r >= 1; r--) {
+        if (measure(r, c)) { found = true; break; }
+      }
+      if (!found) {
+        if (k < 0.5) { r = 1; break; }
+        k *= 0.92;
+      }
+    }
+    list.classList.remove('measure');
+    cols = c;
+    rows = Math.min(r, Math.ceil(items.length / cols));
+    perPage = rows * cols;
+    pages = Math.max(1, Math.ceil(items.length / perPage));
+    if (page >= pages) page = 0;
+    list.style.setProperty('--cols', cols);
+    list.style.setProperty('--rows', rows);
+    renderPage();
+    startRotation();
+  }
+
+  /* ===== Blättern ===== */
+  function startProgress() {
+    prog.style.animation = 'none';
+    void prog.offsetWidth;
+    prog.style.animation = pages > 1 ? 'prog ' + PAGE_MS + 'ms linear forwards' : 'none';
+  }
+  function startRotation() {
+    clearTimeout(pageTimer);
+    startProgress();
+    if (pages > 1) pageTimer = setTimeout(nextPage, PAGE_MS);
+  }
+  function nextPage() {
+    list.classList.add('fade');
+    setTimeout(function () {
+      page = (page + 1) % pages;
+      renderPage();
+      list.classList.remove('fade');
+      startRotation();
+    }, 350);
+  }
+
+  /* ===== Laden ===== */
+  function load() {
+    attempts++;
+    var ctl = window.AbortController ? new AbortController() : null;
+    var to = setTimeout(function () { if (ctl) ctl.abort(); }, 20000);
+    fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store', signal: ctl ? ctl.signal : undefined })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (j) {
+        if (!j || !Array.isArray(j.items)) throw new Error('Ungültige Daten');
+        lastAttemptOk = true;
+        checked = Date.parse(j.checked) || Date.now();
+        var key = JSON.stringify(j.items);
+        if (key !== itemsKey) {
+          items = j.items; itemsKey = key; page = 0;
+          try { localStorage.setItem(CACHE_KEY, JSON.stringify({ items: items, checked: checked })); } catch (e) { /* egal */ }
+          updateStatus();
+          fit();
+        } else {
+          try { localStorage.setItem(CACHE_KEY, JSON.stringify({ items: items, checked: checked })); } catch (e) { /* egal */ }
+        }
+      })
+      .catch(function () { lastAttemptOk = false; })
+      .then(function () {
+        clearTimeout(to);
+        updateStatus();
+        setTimeout(load, lastAttemptOk ? REFRESH_MS : RETRY_MS);
+      });
+  }
+
+  // Größenänderung: neu einpassen, nicht neu laden
+  var lastSize = '', pending = 0;
+  function onResize() {
+    clearTimeout(pending);
+    pending = setTimeout(function () {
+      var sz = window.innerWidth + 'x' + window.innerHeight;
+      if (sz === lastSize) return;
+      lastSize = sz;
+      fit();
+    }, 50);
+  }
+  window.addEventListener('resize', onResize);
+  if (window.ResizeObserver) new ResizeObserver(onResize).observe(document.documentElement);
+
+  // Status jede Minute aktualisieren (Alter der Daten)
+  setInterval(updateStatus, 60000);
+
+  updateStatus();
+  fit();
+  load();
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+})();
+</script>
+</body>
+</html>
