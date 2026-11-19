@@ -82,7 +82,7 @@ svg { display: block; fill: none; stroke: currentColor; stroke-width: 2; stroke-
 .cd {
   flex: 1; min-height: 0;
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: calc(var(--s) * 1.4);
 }
 .bx {
@@ -105,7 +105,8 @@ svg { display: block; fill: none; stroke: currentColor; stroke-width: 2; stroke-
 .bx.sec .n { color: var(--teal-l); }
 .tile.done .bx .n { color: var(--lab); }
 
-.cd.g2 { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); }
+/* Hochformat: Stunden, Minuten, Sekunden untereinander */
+.cd.g2 { grid-template-columns: minmax(0, 1fr); grid-template-rows: repeat(3, minmax(0, 1fr)); }
 
 /* ===== Breit & flach: Titel links, Zahlen rechts ===== */
 @media (min-aspect-ratio: 5/2) {
@@ -169,7 +170,6 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
     </div>
 
     <div class="cd" id="cd">
-      <div class="bx"><div class="n" id="d">0</div><div class="l"><span class="lf">Tage</span><span class="ls">T</span></div></div>
       <div class="bx"><div class="n" id="h">00</div><div class="l"><span class="lf">Stunden</span><span class="ls">Std</span></div></div>
       <div class="bx"><div class="n" id="m">00</div><div class="l"><span class="lf">Minuten</span><span class="ls">Min</span></div></div>
       <div class="bx sec"><div class="n" id="s">00</div><div class="l"><span class="lf">Sekunden</span><span class="ls">Sek</span></div></div>
@@ -212,19 +212,20 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
   document.title = TITLE + ' · ' + targetText;
 
   function pad(n) { return n < 10 ? '0' + n : String(n); }
-  var lastDays = -1;
+  var lastLen = -1;
 
   function tick() {
     var diff = Math.max(0, TARGET - Date.now());
     var sec = Math.floor(diff / 1000);
-    var d = Math.floor(sec / 86400), h = Math.floor(sec % 86400 / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
-    $('d').textContent = d; $('h').textContent = pad(h); $('m').textContent = pad(m); $('s').textContent = pad(s);
+    // ohne Tage: Stunden laufen durch (z. B. 146 Std)
+    var h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
+    $('h').textContent = pad(h); $('m').textContent = pad(m); $('s').textContent = pad(s);
     var done = diff === 0;
     tile.classList.toggle('done', done);
     $('pillTxt').textContent = done ? 'ERREICHT' : 'LÄUFT';
     $('sub').textContent = (done ? 'seit ' : 'bis ') + targetText;
-    if (String(d).length !== String(lastDays).length) { lastDays = d; fit(); }
-    lastDays = d;
+    // Stellenzahl der Stunden ändert sich (z. B. 100 -> 99): neu einpassen
+    if (pad(h).length !== lastLen) { lastLen = pad(h).length; fit(); }
     // auf die nächste volle Sekunde ausrichten
     setTimeout(tick, 1000 - (Date.now() % 1000) + 15);
   }
