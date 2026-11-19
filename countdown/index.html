@@ -71,7 +71,11 @@ svg { display: block; fill: none; stroke: currentColor; stroke-width: 2; stroke-
 .itile svg { width: 56%; height: 56%; }
 .tt { min-width: 0; }
 .kicker { font-size: max(9px, calc(var(--s) * 1.4)); font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-l); white-space: nowrap; }
-.h1 { margin-top: calc(var(--s) * 0.2); font-size: calc(var(--s) * 4.6); font-weight: 800; line-height: 1; letter-spacing: -0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.h1 { margin-top: calc(var(--s) * 0.2); font-size: calc(var(--s) * 4.6); font-weight: 800; line-height: 1.1; letter-spacing: -0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* Bier-Emoji hinter dem Titel, prostet alle paar Sekunden kurz zu */
+.emo { display: inline-block; margin-left: 0.25em; font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif; font-weight: 400; letter-spacing: 0; transform-origin: 30% 90%; animation: prost 6s ease-in-out infinite; }
+@keyframes prost { 0%, 80%, 100% { transform: rotate(0); } 85% { transform: rotate(-14deg); } 90% { transform: rotate(10deg); } 95% { transform: rotate(-6deg); } }
+@media (prefers-reduced-motion: reduce) { .emo { animation: none; } }
 .sub { margin-top: calc(var(--s) * 0.8); font-size: max(10px, calc(var(--s) * 2)); font-weight: 500; line-height: 1.25; color: var(--t2); }
 
 /* ===== Zahlen ===== */
@@ -159,7 +163,7 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
     <div class="ttl">
       <div class="itile"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2h4"/><path d="M12 14l3-3"/><circle cx="12" cy="14" r="8"/></svg></div>
       <div class="tt">
-        <div class="h1" id="title">Countdown</div>
+        <div class="h1"><span id="title">Countdown</span><span class="emo" id="emo" aria-hidden="true">🍺</span></div>
         <div class="sub" id="sub"></div>
       </div>
     </div>
@@ -181,10 +185,12 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
      Optional per URL: ?ziel=2026-11-25T13:00:00%2B01:00  und  ?titel=Text */
   var TARGET_ISO = '2026-11-25T13:00:00+01:00';
   var TITLE = 'Countdown';
+  var EMOJI = '🍺';  // per ?emoji=… änderbar, ?emoji= leer blendet es aus
   try {
     var p = new URLSearchParams(location.search);
     if (p.get('ziel') && !isNaN(Date.parse(p.get('ziel')))) TARGET_ISO = p.get('ziel');
     if (p.get('titel')) TITLE = p.get('titel').slice(0, 60);
+    if (p.has('emoji')) EMOJI = p.get('emoji').slice(0, 8);
   } catch (e) { /* Standard verwenden */ }
   var TARGET = Date.parse(TARGET_ISO);
 
@@ -200,6 +206,8 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
   fmt.formatToParts(new Date(TARGET)).forEach(function (x) { parts[x.type] = x.value; });
   var targetText = parts.weekday + ', ' + parts.day + '. ' + parts.month + ' ' + parts.year + ' · ' + parts.hour + ':' + parts.minute + ' Uhr';
   $('title').textContent = TITLE;
+  $('emo').textContent = EMOJI;
+  $('emo').style.display = EMOJI ? '' : 'none';
   $('sub').textContent = 'bis ' + targetText;
   document.title = TITLE + ' · ' + targetText;
 
@@ -227,6 +235,9 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
   function overflows() {
     if (over(tile)) return true;
     var bx = document.querySelectorAll('.bx, .tt');
+    // Titel und Bier müssen nebeneinander in die Zeile passen
+    var h1 = document.querySelector('.h1'), emo = $('emo');
+    if (h1.getClientRects().length && $('title').offsetWidth + (emo.offsetWidth ? emo.offsetWidth * 1.35 : 0) > h1.clientWidth) return true;
     for (var i = 0; i < bx.length; i++) if (over(bx[i])) return true;
     // Zahlen sollen Luft zum Kartenrand behalten
     var ns = document.querySelectorAll('.n');
