@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Countdown</title>
+<style>
+/* ===== Farben (wie Wetter- und RSS-Kachel) & Grundmaß ===== */
+:root {
+  --bg: #11171d; --tile: #1b242d; --tile-bd: #2c3842;
+  --box: #24313c; --box-bd: #33424f; --line: #2c3842;
+  --t1: #eff5f8; --t2: #b4c0c9; --lab: #8a99a6;
+  --green: #5bce70; --teal: #16879b; --teal-l: #4fc0d0;
+
+  --k: 1;
+  --u: min(calc(100vw / 86), calc(100vh / 50));
+  --s: calc(var(--u) * var(--k));
+  color-scheme: dark;
+}
+@media (min-aspect-ratio: 5/2) { :root { --u: min(calc(100vw / 110), calc(100vh / 38)); } }
+@media (max-aspect-ratio: 3/4) { :root { --u: min(calc(100vw / 46), calc(100vh / 80)); } }
+@media (max-width: 299px), (max-height: 199px) { :root { --u: min(calc(100vw / 48), calc(100vh / 22)); } }
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: var(--bg); }
+body { font-family: Inter, "Segoe UI", system-ui, -apple-system, Roboto, sans-serif; color: var(--t1); -webkit-font-smoothing: antialiased; }
+svg { display: block; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ===== Kachel ===== */
+.tile {
+  position: fixed; inset: 0;
+  display: flex; flex-direction: column;
+  gap: calc(var(--s) * 2);
+  padding: calc(var(--s) * 2.4) calc(var(--s) * 2.8);
+  background: var(--tile);
+  border: 1px solid var(--tile-bd);
+  border-radius: max(6px, calc(var(--s) * 0.85));
+  overflow: hidden;
+}
+
+/* ===== Kopfzeile ===== */
+.hd { display: flex; align-items: center; gap: calc(var(--s) * 1.2); white-space: nowrap; min-width: 0; }
+.pill {
+  flex: none; display: inline-flex; align-items: center; gap: calc(var(--s) * 0.6);
+  padding: calc(var(--s) * 0.45) calc(var(--s) * 1);
+  border-radius: 999px;
+  font-size: max(9px, calc(var(--s) * 1.35)); font-weight: 800; letter-spacing: 0.08em; line-height: 1.2;
+  color: var(--teal-l); background: rgba(79, 192, 208, 0.13);
+}
+.dot {
+  flex: none; display: inline-block;
+  width: max(5px, calc(var(--s) * 0.7)); height: max(5px, calc(var(--s) * 0.7));
+  border-radius: 50%; background: currentColor; box-shadow: 0 0 calc(var(--s) * 0.8) currentColor;
+  animation: blink 2s ease-in-out infinite;
+}
+@keyframes blink { 50% { opacity: 0.35; } }
+.stamp { min-width: 0; overflow: hidden; text-overflow: ellipsis; font-size: max(9px, calc(var(--s) * 1.45)); font-weight: 600; color: var(--t2); }
+.tile.done .pill { color: var(--green); background: rgba(91, 206, 112, 0.13); }
+
+/* ===== Titel ===== */
+.ttl { display: flex; align-items: center; gap: calc(var(--s) * 1.8); min-width: 0; }
+.itile {
+  flex: none; width: calc(var(--s) * 7.2); height: calc(var(--s) * 7.2);
+  border-radius: calc(var(--s) * 1.5);
+  display: grid; place-items: center;
+  background: linear-gradient(150deg, #5fc6d4, #16879b);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08),
+              0 calc(var(--s) * 0.7) calc(var(--s) * 2) calc(var(--s) * -0.7) #16879b;
+  color: #fff;
+}
+.itile svg { width: 56%; height: 56%; }
+.tt { min-width: 0; }
+.kicker { font-size: max(9px, calc(var(--s) * 1.4)); font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--teal-l); white-space: nowrap; }
+.h1 { margin-top: calc(var(--s) * 0.2); font-size: calc(var(--s) * 4.6); font-weight: 800; line-height: 1; letter-spacing: -0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sub { margin-top: calc(var(--s) * 0.8); font-size: max(10px, calc(var(--s) * 2)); font-weight: 500; line-height: 1.25; color: var(--t2); }
+
+/* ===== Zahlen ===== */
+.cd {
+  flex: 1; min-height: 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: calc(var(--s) * 1.4);
+}
+.bx {
+  min-width: 0; min-height: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: calc(var(--s) * 0.6);
+  background: var(--box);
+  border: 1px solid var(--box-bd);
+  border-radius: calc(var(--s) * 0.7);
+  padding: calc(var(--s) * 1.2) calc(var(--s) * 2.2);
+}
+.n {
+  font-size: calc(var(--s) * 11 * var(--nk, 1));
+  font-weight: 800; line-height: 1; letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.l { font-size: max(9px, calc(var(--s) * 1.5)); font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--lab); white-space: nowrap; }
+.l .ls { display: none; }
+.bx.sec .n { color: var(--teal-l); }
+.tile.done .bx .n { color: var(--lab); }
+
+.cd.g2 { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); }
+
+/* ===== Breit & flach: Titel links, Zahlen rechts ===== */
+@media (min-aspect-ratio: 5/2) {
+  .main { flex: 1; min-height: 0; display: flex; align-items: stretch; gap: calc(var(--s) * 3); }
+  .ttl { flex: none; align-self: center; }
+  .cd { flex: 1; }
+}
+@media (max-aspect-ratio: 5/2) {
+  .main { flex: 1; min-height: 0; display: flex; flex-direction: column; gap: calc(var(--s) * 2); }
+}
+
+/* ===== Hoch & schmal: Zahlen 2 × 2 ===== */
+@media (max-aspect-ratio: 3/4) {
+}
+
+/* ===== Sehr klein: nur die Zahlen ===== */
+@media (max-width: 299px), (max-height: 199px) {
+  .tile { padding: calc(var(--s) * 1.4) calc(var(--s) * 1.6); gap: calc(var(--s) * 1); }
+  .hd, .ttl { display: none; }
+  .cd { gap: calc(var(--s) * 0.8); }
+  .bx { padding: calc(var(--s) * 0.6) calc(var(--s) * 0.3); gap: calc(var(--s) * 0.3); }
+  .n { font-size: calc(var(--s) * 7 * var(--nk, 1)); }
+  .l .lf { display: none; }
+  .l .ls { display: inline; }
+}
+
+/* ===== Einbettung ohne eigenen Rahmen (?rahmen=aus) ===== */
+html.embed { color-scheme: normal; }
+html.embed, html.embed body { background: transparent; }
+html.embed .tile { background: transparent; border: 0; border-radius: 0; }
+
+@media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+</style>
+<script>
+  // ?rahmen=aus  ->  ohne eigenen Hintergrund und Rahmen einbetten
+  (function () {
+    try {
+      if (new URLSearchParams(location.search).get('rahmen') === 'aus') document.documentElement.classList.add('embed');
+    } catch (e) { /* alte Browser: normale Darstellung */ }
+  })();
+</script>
+</head>
+<body>
+<div class="tile" id="tile">
+  <header class="hd">
+    <span class="pill"><i class="dot"></i><span id="pillTxt">LÄUFT</span></span>
+    <span class="stamp">Ortszeit Köln</span>
+  </header>
+
+  <div class="main">
+    <div class="ttl">
+      <div class="itile"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2h4"/><path d="M12 14l3-3"/><circle cx="12" cy="14" r="8"/></svg></div>
+      <div class="tt">
+        <div class="h1" id="title">Countdown</div>
+        <div class="sub" id="sub"></div>
+      </div>
+    </div>
+
+    <div class="cd" id="cd">
+      <div class="bx"><div class="n" id="d">0</div><div class="l"><span class="lf">Tage</span><span class="ls">T</span></div></div>
+      <div class="bx"><div class="n" id="h">00</div><div class="l"><span class="lf">Stunden</span><span class="ls">Std</span></div></div>
+      <div class="bx"><div class="n" id="m">00</div><div class="l"><span class="lf">Minuten</span><span class="ls">Min</span></div></div>
+      <div class="bx sec"><div class="n" id="s">00</div><div class="l"><span class="lf">Sekunden</span><span class="ls">Sek</span></div></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  /* ===== Ziel: Mittwoch, 25.11.2026, 13:00 Uhr Köln (MEZ = UTC+1) =====
+     Optional per URL: ?ziel=2026-11-25T13:00:00%2B01:00  und  ?titel=Text */
+  var TARGET_ISO = '2026-11-25T13:00:00+01:00';
+  var TITLE = 'Countdown';
+  try {
+    var p = new URLSearchParams(location.search);
+    if (p.get('ziel') && !isNaN(Date.parse(p.get('ziel')))) TARGET_ISO = p.get('ziel');
+    if (p.get('titel')) TITLE = p.get('titel').slice(0, 60);
+  } catch (e) { /* Standard verwenden */ }
+  var TARGET = Date.parse(TARGET_ISO);
+
+  var $ = function (id) { return document.getElementById(id); };
+  var tile = $('tile');
+
+  // Zieltermin auf Deutsch in Berliner Zeit
+  var fmt = new Intl.DateTimeFormat('de-DE', {
+    timeZone: 'Europe/Berlin', weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
+  });
+  var parts = {};
+  fmt.formatToParts(new Date(TARGET)).forEach(function (x) { parts[x.type] = x.value; });
+  var targetText = parts.weekday + ', ' + parts.day + '. ' + parts.month + ' ' + parts.year + ' · ' + parts.hour + ':' + parts.minute + ' Uhr';
+  $('title').textContent = TITLE;
+  $('sub').textContent = 'bis ' + targetText;
+  document.title = TITLE + ' · ' + targetText;
+
+  function pad(n) { return n < 10 ? '0' + n : String(n); }
+  var lastDays = -1;
+
+  function tick() {
+    var diff = Math.max(0, TARGET - Date.now());
+    var sec = Math.floor(diff / 1000);
+    var d = Math.floor(sec / 86400), h = Math.floor(sec % 86400 / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
+    $('d').textContent = d; $('h').textContent = pad(h); $('m').textContent = pad(m); $('s').textContent = pad(s);
+    var done = diff === 0;
+    tile.classList.toggle('done', done);
+    $('pillTxt').textContent = done ? 'ERREICHT' : 'LÄUFT';
+    $('sub').textContent = (done ? 'seit ' : 'bis ') + targetText;
+    if (String(d).length !== String(lastDays).length) { lastDays = d; fit(); }
+    lastDays = d;
+    // auf die nächste volle Sekunde ausrichten
+    setTimeout(tick, 1000 - (Date.now() % 1000) + 15);
+  }
+
+  /* ===== Einpassen: nichts abschneiden ===== */
+  function setK(k) { document.documentElement.style.setProperty('--k', k.toFixed(3)); }
+  function over(el) { return el.scrollHeight > el.clientHeight || el.scrollWidth > el.clientWidth; }
+  function overflows() {
+    if (over(tile)) return true;
+    var bx = document.querySelectorAll('.bx, .tt');
+    for (var i = 0; i < bx.length; i++) if (over(bx[i])) return true;
+    // Zahlen sollen Luft zum Kartenrand behalten
+    var ns = document.querySelectorAll('.n');
+    for (i = 0; i < ns.length; i++) if (ns[i].offsetWidth > ns[i].parentNode.clientWidth * 0.8) return true;
+    return false;
+  }
+  function setNK(v) { document.documentElement.style.setProperty('--nk', v.toFixed(3)); }
+  function shrink() {
+    var k = 1; setK(k);
+    while (overflows() && k > 0.3) { k *= 0.94; setK(k); }
+    return k;
+  }
+  // Zahlen so weit vergrößern, wie die Karten es zulassen (Binärsuche)
+  function grow() {
+    var lo = 1, hi = 2.6;
+    setNK(hi);
+    if (!overflows()) return hi;
+    for (var i = 0; i < 8; i++) {
+      var mid = (lo + hi) / 2; setNK(mid);
+      if (overflows()) hi = mid; else lo = mid;
+    }
+    setNK(lo); return lo;
+  }
+  var mqMini = window.matchMedia('(max-width: 299px), (max-height: 199px)');
+  // Anordnung 4 nebeneinander oder 2 x 2 – gewählt wird die mit den größten Zahlen
+  function fit() {
+    var cd = $('cd'), opts = mqMini.matches ? [false] : [false, true], best = null;
+    for (var i = 0; i < opts.length; i++) {
+      cd.classList.toggle('g2', opts[i]);
+      setNK(1);
+      var k = shrink(), nk = grow(), score = k * nk;
+      if (!best || score > best.score * 1.05) best = { g2: opts[i], k: k, nk: nk, score: score };
+    }
+    cd.classList.toggle('g2', best.g2);
+    setK(best.k); setNK(best.nk);
+    if (overflows()) { setNK(1); shrink(); }
+  }
+
+  var pending = 0, lastSize = '';
+  function onResize() {
+    clearTimeout(pending);
+    pending = setTimeout(function () {
+      var sz = window.innerWidth + 'x' + window.innerHeight;
+      if (sz === lastSize) return;
+      lastSize = sz; fit();
+    }, 50);
+  }
+  window.addEventListener('resize', onResize);
+  if (window.ResizeObserver) new ResizeObserver(onResize).observe(document.documentElement);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+
+  tick();
+  fit();
+})();
+</script>
+</body>
+</html>
