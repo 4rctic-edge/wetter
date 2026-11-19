@@ -239,8 +239,8 @@ svg {
 
 /* ===== Einbettung ohne eigenen Rahmen (?rahmen=aus) =====
    Kachel zeichnet keinen Hintergrund/Rahmen, die Fläche der Anzeige scheint durch. */
-html.embed { color-scheme: normal; }
-html.embed, html.embed body { background: transparent; }
+/* Farbschema bleibt dunkel: weicht es von der Anzeige ab, malt der Browser sonst einen deckenden (weißen) Hintergrund */
+html.embed, html.embed body { background: var(--embed-bg, transparent); }
 html.embed .tile { background: transparent; border: 0; border-radius: 0; }
 </style>
 <script>
@@ -249,6 +249,9 @@ html.embed .tile { background: transparent; border: 0; border-radius: 0; }
     try {
       var p = new URLSearchParams(location.search);
       if (p.get('rahmen') === 'aus') document.documentElement.classList.add('embed');
+      // optional feste Hintergrundfarbe, z. B. ?rahmen=aus&hg=1b242d
+      var hg = p.get('hg');
+      if (hg && /^[0-9a-f]{3,8}$/i.test(hg)) document.documentElement.style.setProperty('--embed-bg', '#' + hg);
     } catch (e) { /* alte Browser: normale Darstellung */ }
   })();
 </script>
