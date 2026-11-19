@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-19T10:14:09Z",
+ "checked": "2026-11-19T18:58:55Z",
  "items": [
   {
-   "title": "Bottrop: Junge auf E-Scooter von Auto erfasst - Fahrerin gesucht",
+   "title": "FW Hünxe: Ausgelöste Brandmeldeanlage in Schermbeck",
+   "prefix": "",
+   "place": "Hünxe",
+   "teaser": "Die Einheit Drevenack und die Freiwillige Feuerwehr Schermbeck wurden am 14.November 2026 um 11:07 Uhr mit dem Einsatzstichwort \"Ausgelöste Brandmeldeanlage\" zur Marienthaler Straße im Ortsteil Schermbeck-Weselerwald alarmiert. …",
+   "source": "Freiwillige Feuerwehr Hünxe",
+   "published": "2026-11-19T17:26:09Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/133631/6394236"
+  },
+  {
+   "title": "PKW kommt von der Fahrbahn ab - Fahrerin verletzt sich schwer",
+   "prefix": "POL-KLE",
+   "place": "Goch - Asperden",
+   "teaser": "Am Mittwoch, 18.11.2026 gegen 17:40 Uhr befuhr eine 37jährige Frau aus den Niederlanden mit ihrem PKW die Hassumer Straße aus Richtung Hassum, in Richtung Goch. Zwischen dem Grote Laarweg und dem Pfälzer Weg kam sie aus …",
+   "source": "Kreispolizeibehörde Kleve",
+   "published": "2026-11-19T16:37:42Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65849/6394231"
+  },
+  {
+   "title": "Verkehrsunfall und Vollsperrung auf der A1",
+   "prefix": "FW-RS",
+   "place": "Remscheid",
+   "teaser": "Am Donnerstagmittag, gegen 14:00 Uhr, wurde die Feuerwehr Remscheid zu einem Verkehrsunfall auf die BAB 1 in Fahrtrichtung Dortmund gerufen. Kurz vor der Autobahnabfahrt Remscheid Lüttringhausen ist ein PKW aus bisher unbekannter …",
+   "source": "Feuerwehr Remscheid",
+   "published": "2026-11-19T15:30:05Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115882/6394215"
+  },
+  {
+   "title": "Verkehrsunfallfluchten aus dem Kreisgebiet",
+   "prefix": "POL-ME",
+   "place": "Haan / Hilden",
+   "teaser": "In den vergangenen Tagen registrierte die Polizei im Kreis Mettmann folgende Verkehrsunfallfluchten: - Eine Verkehrsunfallflucht ist kein Kavaliersdelikt, sondern eine Straftat! - Melden Sie Verkehrsunfallfluchten …",
+   "source": "Polizei Mettmann",
+   "published": "2026-11-19T14:50:44Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43777/6394200"
+  },
+  {
+   "title": "Marl/Dorsten: Polizei bittet nach Einbrüchen um Hinweise",
    "prefix": "POL-RE",
    "place": "Recklinghausen",
-   "teaser": "Die Polizei sucht nach einer Frau, die am Mittwochmittag an einem Verkehrsunfall auf der Aegidistraße beteiligt war. Ein 14-jähriger E-Scooter-Fahrer wurde bei dem Unfall verletzt. Die Autofahrerin soll nach dem …",
+   "teaser": "Marl: Drei bislang unbekannte Männer sind am Mittwochabend in ein Einfamilienhaus am Breewiesenweg eingebrochen. Eine Kamera erfasste die Männer gegen 19:00 Uhr. Die Einbrecher hebelten die Schiebetür zum Wintergarten auf …",
    "source": "Polizeipräsidium Recklinghausen",
-   "published": "2026-11-19T09:44:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/42900/6393808"
+   "published": "2026-11-19T14:47:07Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/42900/6394195"
   },
   {
-   "title": "Bocholt - Unfallflucht an Kindertagesstätte",
-   "prefix": "POL-BOR",
-   "place": "Bocholt",
-   "teaser": "Unfallort: Bocholt, Lowicker Straße; Unfallzeit: 18.11.2026, zwischen 14.00 Uhr und 15.15 Uhr; Einen geparkten Opel Astra beschädigt hat ein bislang unbekannter Unfallverursacher am Mittwoch in Bocholt. Der Unfall ereignete sich …",
-   "source": "Kreispolizeibehörde Borken",
-   "published": "2026-11-19T09:43:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/24843/6393807"
+   "title": "E-Bike-Fahrer prallt gegen geparkten Pkw und entfernt sich von der Unfallstelle",
+   "prefix": "POL-NE",
+   "place": "Korschenbroich",
+   "teaser": "Am Dienstagabend (17.11.) kam es auf der Johannes-Büchner-Straße in Glehn zu einem Verkehrsunfall, bei dem ein geparktes Auto beschädigt wurde. Die Polizei sucht nun nach dem Fahrer eines schwarzen E-Bikes. Gegen 18:35 Uhr …",
+   "source": "Kreispolizeibehörde Rhein-Kreis Neuss",
+   "published": "2026-11-19T14:31:14Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65851/6394188"
   },
   {
-   "title": "Zeugen zu Diebstahl einer Rüttelplatte gesucht",
-   "prefix": "POL-PB",
-   "place": "Salzkotten-Scharmede",
-   "teaser": "(ivdh) Unbekannte stahlen im Zeitraum von Freitag, 13. November, 12.00 Uhr, bis Mittwoch, 18. November, 7.30 Uhr, eine Rüttelplatte von dem Friedhof an der Hoppenhofstraße in Salzkotten-Scharmede. Die Tatverdächtigen …",
-   "source": "Polizei Paderborn",
-   "published": "2026-11-19T09:38:40Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/55625/6393799"
+   "title": "Zusammenstoß zwischen E-Scooter und Fußgänger - Ermittler suchen E-Scooter-Fahrerin",
+   "prefix": "POL-NE",
+   "place": "Grevenbroich",
+   "teaser": "Am Mittwoch erhielt die Polizei Kenntnis von einem Zusammenstoß einer E-Scooter-Fahrerin und einem Kind. Bei der Kollision wurde das sechsjährige Kind leicht verletzt. Nach ersten Erkenntnissen stießen die E-Scooter-Fahrerin …",
+   "source": "Kreispolizeibehörde Rhein-Kreis Neuss",
+   "published": "2026-11-19T14:30:15Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65851/6394186"
   },
   {
-   "title": "Dank an Bielefelderin - Führerschein eines Unfallflüchtigen sichergestellt",
-   "prefix": "POL-BI",
-   "place": "Bielefeld",
-   "teaser": "HC/ Bielefeld - Senne- Ein SUV-Fahrer fuhr am Freitag, 13.11.2026, nach einem Unfall einfach weiter. Dank einer Zeugin konnte das Kennzeichen des PKW ermittelt werden. Polizisten stellten den Führerschein des Fahrers sicher. Gegen …",
-   "source": "Polizei Bielefeld",
-   "published": "2026-11-19T09:38:01Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12522/6393796"
+   "title": "Versammlung am Freitag (20.11.) - Polizei informiert über mögliche Verkehrsbeeinträchtigungen",
+   "prefix": "POL-MS",
+   "place": "Münster",
+   "teaser": "Für den kommenden Freitag (20.11.) liegen der Polizei Münster die Anmeldungen zweier Versammlungen mit den Themen \"Schulstreik gegen die Wehrpflicht\" und \"Nein zur Wehrpflicht\" vor. Angezeigt sind zwei Aufzüge mit insgesamt rund …",
+   "source": "Polizei Münster",
+   "published": "2026-11-19T14:26:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11187/6394182"
   },
   {
-   "title": "Zeugen zu Einbruch in Einfamilienhaus gesucht",
-   "prefix": "POL-PB",
-   "place": "Büren-Steinhausen",
-   "teaser": "(md) Unbekannte brachen am Mittwoch, 18. November, zwischen 15.45 Uhr und 19.10 Uhr in ein Einfamilienhaus an der Anschrift Am Fettpott in Büren-Steinhausen ein und flohen in unbekannte Richtung. Die Polizei sucht Zeugen. …",
-   "source": "Polizei Paderborn",
-   "published": "2026-11-19T09:37:28Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/55625/6393795"
+   "title": "Friedrichstadt - Transporter streift Mann - Unfallfahrer fährt weiter - Polizei sucht Zeugen",
+   "prefix": "POL-D",
+   "place": "Düsseldorf",
+   "teaser": "Unfallzeit: Donnerstag, 05. November 2026, 08:20 Uhr Die Polizei sucht Zeugen eines Verkehrsunfalls, der sich Anfang November in Friedrichstadt ereignet hat. Der Fahrer flüchtete von der Unfallstelle, obwohl er den Unfall …",
+   "source": "Polizei Düsseldorf",
+   "published": "2026-11-19T14:26:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/13248/6394181"
   },
   {
-   "title": "Kevelaer - Verkehrsunfallflucht / Ford Puma auf Basilika-Parkplatz beschädigt",
-   "prefix": "POL-KLE",
-   "place": "Kevelaer",
-   "teaser": "Zwischen Mittwochvormittag (11. November 2026) und Freitagmittag (13. November 2026) hat ein unbekannter Autofahrer einen Ford Puma beschädigt, der auf dem Parkplatz an der Basilikastraße abgestellt war. Der Wagen erlitt einen …",
-   "source": "Kreispolizeibehörde Kleve",
-   "published": "2026-11-19T09:34:15Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65849/6393789"
+   "title": "Mutmaßliches Ansprechen von Kindern - Polizei ist informiert",
+   "prefix": "POL-BO",
+   "place": "Herne",
+   "teaser": "Seit gestern Abend (Mittwoch, 18. November) kursiert eine Nachricht eines besorgten Vaters, welcher über eine verdächtige Situation im Zusammenhang mit einem weißen Transporter berichtet. Demnach wurde sein Sohn Anfang des Monats …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-19T14:23:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6394178"
   },
   {
-   "title": "Kriminalprävention stellt Handzeichen vor: Signal for help",
-   "prefix": "POL-HSK",
-   "place": "Hochsauerlandkreis",
-   "teaser": "Gewalt gegen Frauen ist nach wie vor ein ernst zu nehmendes gesellschaftliches Problem. Trotz zahlreicher Präventionsmaßnahmen und Hilfsangebote kommt es weiterhin auch im Hochsauerlandkreis zu Übergriffen, Bedrohungen …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-19T09:33:41Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6393787"
+   "title": "Vier Festnahmen - Verdacht auf unerlaubten Handel von Betäubungsmittel | Gemeinsame Pressemitteilung von Polizei und Staatsanwaltschaft Krefeld",
+   "prefix": "POL-KR",
+   "place": "Krefeld",
+   "teaser": "Im Rahmen der Vollstreckung eines Durchsuchungsbeschlusses auf der Roßstraße in Krefeld am Mittwoch, 28. November 2026, konnten Heroin in nicht geringer Menge, Kokain, Bargeld in Hoher dreistelliger Summe und Diebesgut in …",
+   "source": "Polizeipräsidium Krefeld",
+   "published": "2026-11-19T14:23:03Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50667/6394177"
   },
   {
-   "title": "Einbrüche aus dem Kreisgebiet",
-   "prefix": "POL-ME",
-   "place": "Kreis Mettmann",
-   "teaser": "In den vergangenen Tagen registrierte die Polizei folgende Einbrüche im Kreis Mettmann: Am Mittwoch (18. November 2026) sind bislang noch unbekannte Täter in die Hochparterre-Wohnung eines Mehrfamilienhauses am Ringweg …",
-   "source": "Polizei Mettmann",
-   "published": "2026-11-19T09:29:26Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43777/6393779"
+   "title": "Fußgängerin weicht Auto aus und verletzt sich - Polizei sucht Zeugen",
+   "prefix": "POL-DO",
+   "place": "Dortmund",
+   "teaser": "Eine 21-Jährige hat sich beim Ausweichen vor einem Auto an der Haberlandstraße in Dortmund-Bodelschwingh verletzt. Nach ihren Angaben missachtete der Autofahrer eine rote Ampel und setzte seine Fahrt fort. Die …",
+   "source": "Polizei Dortmund",
+   "published": "2026-11-19T14:19:29Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/4971/6394174"
   },
   {
-   "title": "Kleve - Versuchter Einbruch / Bewohnerin sieht zwei Täter an Haustür",
-   "prefix": "POL-KLE",
-   "place": "Kleve-Materborn",
-   "teaser": "Am Mittwoch (18. November 2026) gegen 09:50 Uhr hörte die Bewohnerin eines Hauses an der Schweizer Straße verdächtige Geräusche aus Richtung ihrer Haustür. Als sie nachschaute, sah sie durch das Glas der Tür zwei …",
-   "source": "Kreispolizeibehörde Kleve",
-   "published": "2026-11-19T09:13:55Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65849/6393757"
+   "title": "Kreis Viersen: Polizei informiert über Schutz vor Taschendiebstahl",
+   "prefix": "POL-VIE",
+   "place": "Kreis Viersen",
+   "teaser": "Aktuell kommt es im Kreis Viersen vermehrt zu Taschendiebstählen. Um die Bürgerinnen und Bürger für dieses Thema zu sensibilisieren und sie vor möglichen Diebstählen zu schützen, sind die Bezirksdienstbeamten heute …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-19T14:15:24Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6394173"
   },
   {
-   "title": "Polizei sucht flüchtigen Unfallfahrer",
-   "prefix": "POL-GE",
-   "place": "Gelsenkirchen",
-   "teaser": "Die Polizei Gelsenkirchen sucht nach einem Verkehrsunfall mit einem Leichtverletzten in Schalke nach Zeugen und dem flüchtigen Autofahrer. Ein 21 Jahre alter Fußgänger aus Gelsenkirchen betrat am Dienstagnachmittag, 17. …",
-   "source": "Polizei Gelsenkirchen",
-   "published": "2026-11-19T09:13:36Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/51056/6393756"
+   "title": "Vermisstensuche beendet: Mann (54) tot aufgefunden",
+   "prefix": "POL-MI",
+   "place": "Kreis Minden-Lübbecke",
+   "teaser": "(SN) Die Suche nach dem vermissten Mann aus Bad Oeynhausen ist beendet. Nach einem Hinweis wurde der 54-Jährige im Raum Bad Oeynhausen leblos aufgefunden. Hinweise auf ein Fremdverschulden liegen den Ermittlern nicht …",
+   "source": "Polizei Minden-Lübbecke",
+   "published": "2026-11-19T14:10:05Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43553/6394166"
   },
   {
-   "title": "BPOL NRW: Während Bundespolizei-Kontrolle greift Mann nach Messer",
-   "prefix": "",
-   "place": "Essen - Velbert",
-   "teaser": "Am gestrigen Abend (18. November) überprüften Bundespolizisten im Essener Hauptbahnhof einen Mann. Dieser hatte in seiner Jackentasche griffbereit ein Messer und leistete Widerstand gegen die Einsatzkräfte. Gegen 18:20 Uhr …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-19T09:09:37Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6393751"
-  },
-  {
-   "title": "Zeugenaufruf nach Unfallflucht",
-   "prefix": "POL-MK",
-   "place": "Neuenrade",
-   "teaser": "Nach einer Unfallflucht am Montagmorgen an der B229 / Haller Weg sucht die Polizei Zeugen. Gegen 7.20 Uhr befuhr ein vollbesetzter Omnibus die Werdohler Straße in Fahrtrichtung Werdohl. Kurz hinter der Bushaltestelle …",
-   "source": "Kreispolizeibehörde Märkischer Kreis",
-   "published": "2026-11-19T09:08:52Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65850/6393748"
-  },
-  {
-   "title": "W - Trickdiebstahl in Restaurant - Unbekannte stehlen Handtasche mit hoher Bargeldsumme - Polizei sucht Zeugen",
-   "prefix": "POL-W",
-   "place": "Wuppertal",
-   "teaser": "Am Mittwoch, dem 18.11.2026, kam es gegen 12:40 Uhr in einem Restaurant in der Elberfelder Innenstadt zu einem Trickdiebstahl, bei dem ein älteres Ehepaar bestohlen wurde. Nach bisherigen Erkenntnissen hatten ein 78-jähriger Mann …",
-   "source": "Polizei Wuppertal",
-   "published": "2026-11-19T09:02:45Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11811/6393730"
-  },
-  {
-   "title": "Auffahrunfall - Zwei Personen verletzt, vier Autos beschädigt",
-   "prefix": "POL-SU",
-   "place": "Troisdorf",
-   "teaser": "Bei einem Auffahrunfall in Troisdorf wurden am Mittwoch (18. November) zwei Personen verletzt und vier Autos beschädigt. Gegen 12:10 Uhr war eine 18 Jahre alte Frau aus Sinzig mit ihrem VW aus Richtung Spich kommend auf der …",
-   "source": "Kreispolizeibehörde Rhein-Sieg-Kreis",
-   "published": "2026-11-19T09:01:07Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65853/6393722"
-  },
-  {
-   "title": "Substanz bei Einbruch in Schnellrestaurant verschüttet - Polizei sucht Zeugen",
+   "title": "Erneute Fahndung nach Alina T. - Wer hat die vermisste 12-Jährige gesehen?",
    "prefix": "POL-HA",
-   "place": "Hagen-Haspe",
-   "teaser": "Bislang unbekannte Täter drangen zwischen Dienstag (17.11.2026) und Mittwoch (18.11.2026) in ein Schnellrestaurant ein und brachten eine chemische Substanz aus. Einer Spaziergängerin fielen gegen 12.15 Uhr Einbruchspuren an der …",
+   "place": "Hagen",
+   "teaser": "Seit Sonntagnachmittag (15.11.2026) wird die 12-jährige Alina T. vermisst. Gegen 13 Uhr hat sie eine Wohngruppe in Bochum verlassen und ist bislang nicht dorthin zurückgekehrt. Am Dienstag (17.11.2026) bestand letztmals telefonischer …",
    "source": "Polizei Hagen",
-   "published": "2026-11-19T09:00:12Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30835/6393718"
+   "published": "2026-11-19T13:58:26Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/30835/6394153"
   }
  ]
 }
