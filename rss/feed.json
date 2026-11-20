@@ -1,8 +1,35 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-19T18:58:55Z",
+ "checked": "2026-11-20T01:00:33Z",
  "items": [
+  {
+   "title": "Gemeldeter Kellerbrand in der Lilienthalstraße",
+   "prefix": "FW-DT",
+   "place": "Detmold",
+   "teaser": "Am Donnerstagabend wurde die Feuerwehr Detmold um 21:45 Uhr zu einem gemeldeten Kellerbrand in die Lilienthalstraße alarmiert. Bereits auf der Anfahrt wurde das Einsatzstichwort von \"Feuer 3\" auf \"Feuer MiG\" (Menschenleben in …",
+   "source": "Feuerwehr Detmold",
+   "published": "2026-11-19T21:43:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116239/6394256"
+  },
+  {
+   "title": "261119-2-K Polizei passt Einsatzplanung nach Gerichtsentscheid an - Versammlung von \"Gen Z regelt Köln\" führt durch die Innenstadt",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Nachtrag zur Pressemeldung: https://www.presseportal.de/blaulicht/pm/12415/6393559 Nach einer Entscheidung des Verwaltungsgerichts Köln kann die Initiative \"Gen Z regelt Köln\" mit bis zu 10.000 angemeldeten Teilnehmenden am Freitag …",
+   "source": "Polizei Köln",
+   "published": "2026-11-19T19:37:37Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6394250"
+  },
+  {
+   "title": "Essen: SEK nimmt Mann nach Einsatz in Mehrfamilienhaus fest",
+   "prefix": "POL-E",
+   "place": "Essen",
+   "teaser": "45149 E.-Margarethenhöhe: Am Donnerstagmittag (19. November) kam es in einem Mehrfamilienhaus an der Sommerburgstraße zu einem Einsatz, bei dem auch ein Spezialeinsatzkommando (SEK) eingesetzt wurde. Zuvor hatte ein 53-jähriger …",
+   "source": "Polizei Essen",
+   "published": "2026-11-19T19:12:51Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11562/6394248"
+  },
   {
    "title": "FW Hünxe: Ausgelöste Brandmeldeanlage in Schermbeck",
    "prefix": "",
@@ -110,33 +137,6 @@
    "source": "Polizei Dortmund",
    "published": "2026-11-19T14:19:29Z",
    "link": "https://www.presseportal.de/blaulicht/pm/4971/6394174"
-  },
-  {
-   "title": "Kreis Viersen: Polizei informiert über Schutz vor Taschendiebstahl",
-   "prefix": "POL-VIE",
-   "place": "Kreis Viersen",
-   "teaser": "Aktuell kommt es im Kreis Viersen vermehrt zu Taschendiebstählen. Um die Bürgerinnen und Bürger für dieses Thema zu sensibilisieren und sie vor möglichen Diebstählen zu schützen, sind die Bezirksdienstbeamten heute …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-19T14:15:24Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6394173"
-  },
-  {
-   "title": "Vermisstensuche beendet: Mann (54) tot aufgefunden",
-   "prefix": "POL-MI",
-   "place": "Kreis Minden-Lübbecke",
-   "teaser": "(SN) Die Suche nach dem vermissten Mann aus Bad Oeynhausen ist beendet. Nach einem Hinweis wurde der 54-Jährige im Raum Bad Oeynhausen leblos aufgefunden. Hinweise auf ein Fremdverschulden liegen den Ermittlern nicht …",
-   "source": "Polizei Minden-Lübbecke",
-   "published": "2026-11-19T14:10:05Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43553/6394166"
-  },
-  {
-   "title": "Erneute Fahndung nach Alina T. - Wer hat die vermisste 12-Jährige gesehen?",
-   "prefix": "POL-HA",
-   "place": "Hagen",
-   "teaser": "Seit Sonntagnachmittag (15.11.2026) wird die 12-jährige Alina T. vermisst. Gegen 13 Uhr hat sie eine Wohngruppe in Bochum verlassen und ist bislang nicht dorthin zurückgekehrt. Am Dienstag (17.11.2026) bestand letztmals telefonischer …",
-   "source": "Polizei Hagen",
-   "published": "2026-11-19T13:58:26Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30835/6394153"
   }
  ]
 }
