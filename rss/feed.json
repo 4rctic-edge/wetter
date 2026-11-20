@@ -1,8 +1,89 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-20T17:06:33Z",
+ "checked": "2026-11-20T23:03:36Z",
  "items": [
+  {
+   "title": "Garath - Größerer Polizeieinsatz - Spezialeinheiten lösen Bedrohungslage",
+   "prefix": "POL-D",
+   "place": "Düsseldorf",
+   "teaser": "Freitag, 20. November 2026, 16:11 Uhr Heute Nachmittag wurde die Polizei zu einer Bedrohungslage in einem Mehrfamilienhaus im Bereich der Güstrower Straße gerufen. Mehrere Dutzend Streifenwagen sowie Spezialeinheiten waren am …",
+   "source": "Polizei Düsseldorf",
+   "published": "2026-11-20T20:44:39Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/13248/6395096"
+  },
+  {
+   "title": "Nicht angezeigte Versammlung in der Bonner Innenstadt am 20.11.2026 - Vorläufige Einsatzbilanz (Stand 20:30 Uhr)",
+   "prefix": "POL-BN",
+   "place": "Bonn",
+   "teaser": "In den zurückliegenden Wochen wurde im Internet zu Versammlungen im Kontext der Initiative \"Gen Z regelt\" für den heutigen Freitag (20.11.2026) aufgerufen. Obwohl online auch zu einer Versammlung in Bonn aufgerufen wurde, war bei der …",
+   "source": "Polizei Bonn",
+   "published": "2026-11-20T20:05:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/7304/6395089"
+  },
+  {
+   "title": "Gesuchter 13-Jähriger stellt sich auf Wache",
+   "prefix": "POL-BI",
+   "place": "Bielefeld",
+   "teaser": "FR / Bielefeld / Herford - Der gesuchte 13-jährige Herforder, der im dringenden Verdacht steht, auf Geschäfte geschossen zu haben, hat sich am Freitagabend, 20.11.2026, gestellt. Am Freitag war der 13-Jährige aus einer Kinder- …",
+   "source": "Polizei Bielefeld",
+   "published": "2026-11-20T19:24:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12522/6395080"
+  },
+  {
+   "title": "W Versammlung mit Aufzug in der Elberfelder Innenstadt",
+   "prefix": "POL-W",
+   "place": "Wuppertal",
+   "teaser": "Heute (20.11.2026) kam es zu einer Versammlung in der Elberfelder Innenstadt. Eine Privatperson zeigte die Versammlung mit einer Auftaktveranstaltung an der Kluse für den Zeitraum ab 17:30 Uhr an. Im Anschluss zogen die …",
+   "source": "Polizei Wuppertal",
+   "published": "2026-11-20T19:09:09Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11811/6395079"
+  },
+  {
+   "title": "Essen: Mehrere Versammlungen im Stadtgebiet verliefen ohne besondere Vorkommnisse",
+   "prefix": "POL-E",
+   "place": "Essen",
+   "teaser": "45117 E.-Stadtgebiete: Am heutigen Freitag (20. November) fanden drei Versammlungen im Essener Stadtgebiet statt. Alle verliefen friedlich und es kam zu keinen besonderen Vorkommnissen. Die erste Versammlung begann um 09:30 Uhr und …",
+   "source": "Polizei Essen",
+   "published": "2026-11-20T18:29:28Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11562/6395074"
+  },
+  {
+   "title": "Drensteinfurt. Vier Verletzte bei einem Verkehrsunfall",
+   "prefix": "POL-WAF",
+   "place": "Warendorf",
+   "teaser": "Bei einem Abbiegeunfall in Drensteinfurt an der Kreuzung der Bundesstraßen 58 und 63 wurden am Freitag (20.11.2026, 16:30 Uhr) vier Personen verletzt. Ein 74-jähriger aus Ascheberg bog aus Drensteinfurt kommend mit seinem Pkw …",
+   "source": "Polizei Warendorf",
+   "published": "2026-11-20T18:26:40Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/52656/6395072"
+  },
+  {
+   "title": "261120-5-K Versammlungen in Köln beendet - Friedliche Kundgebungen trotz einzelner Zwischenfälle",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Die für Freitag (20. November) angezeigten Demonstrationen in Köln sind überwiegend friedlich beendet worden. Mehrere hundert Versammlungsteilnehmer waren unter dem Motto \"Schulstreik gegen die Wehrpflicht\" von den Uniwiesen bis zum …",
+   "source": "Polizei Köln",
+   "published": "2026-11-20T18:12:26Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6395070"
+  },
+  {
+   "title": "Friedliche Versammlungslage: \"Gen Z regelt\" läuft störungsfrei mit in der Spitze 350 Teilnehmenden ab",
+   "prefix": "POL-DO",
+   "place": "Dortmund",
+   "teaser": "Im Rahmen der angezeigten Versammlungslage mit dem Titel \"Gen Z regelt\" am Freitagnachmittag ab ca. 16 Uhr fand ein Aufzug in der Dortmunder Innenstadt statt. Die gesamte Veranstaltung verlief störungsfrei und …",
+   "source": "Polizei Dortmund",
+   "published": "2026-11-20T17:44:31Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/4971/6395065"
+  },
+  {
+   "title": "Kellerbrand in einem Einfamilienreihenhaus | Keine Verletzten",
+   "prefix": "FW-NE",
+   "place": "Neuss",
+   "teaser": "Am 20. November 2026 um 11:49 Uhr wurde die Feuerwehr Neuss zu einem gemeldeten Kellerbrand an der Dycker Straße in Grefrath alarmiert. Beim Eintreffen der Einsatzkräfte bestätigte sich die Meldung. In einem Büroraum im Keller …",
+   "source": "Feuerwehr Neuss",
+   "published": "2026-11-20T17:14:55Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/122045/6395062"
+  },
   {
    "title": "Die \"LöschKids\" der Feuerwehr Kirchhundem zeigen wie interkommunales Zusammen- wirken funktioniert. Abnahme der Kinderflamme in Bronze & Silber in Heinsberg",
    "prefix": "FW-OE",
@@ -56,87 +137,6 @@
    "source": "Kreispolizeibehörde Viersen",
    "published": "2026-11-20T15:21:35Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65857/6395027"
-  },
-  {
-   "title": "Brennender Wäschetrockner sorgt für Feuerwehreinsatz",
-   "prefix": "FW-MG",
-   "place": "Mönchengladbach-Rheindahlen-Land, Voosener Straße, 20.11.2026, 12:30 Uhr",
-   "teaser": "In den Mittagsstunden bemerkten Nachbarn eine Rauchentwicklung aus dem Anbau eines Einfamilienhauses und alarmierten die Feuerwehr. Vor Ort stellten die ersten …",
-   "source": "Feuerwehr Mönchengladbach",
-   "published": "2026-11-20T15:07:29Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395025"
-  },
-  {
-   "title": "Castrop-Rauxel: Mehrere Waffen bei Kontrollen sichergestellt",
-   "prefix": "POL-RE",
-   "place": "Recklinghausen",
-   "teaser": "Die Polizei Recklinghausen war am Donnerstag (19. November) zusammen mit dem Ordnungsamt, dem Gewerbeamt aus Castrop-Rauxel sowie der Siko Ruhr im Einsatz. Bis in die späten Abendstunden kontrollierten die Behörden mehrere …",
-   "source": "Polizeipräsidium Recklinghausen",
-   "published": "2026-11-20T15:03:08Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/42900/6395021"
-  },
-  {
-   "title": "Geschichten vorlesen, Vertrauen schaffen: Polizei Düren besucht drei Einrichtungen am bundesweiten Vorlesetag",
-   "prefix": "POL-DN",
-   "place": "Kreis Düren",
-   "teaser": "Geschichten entdecken, neugierig sein und die Polizei einmal von einer ganz anderen Seite kennenlernen: Unter dem Motto \"Ich lese vor - Du auch?\" fand am Freitag (20.11.2026) der diesjährige bundesweite Vorlesetag statt. Auch …",
-   "source": "Polizei Düren",
-   "published": "2026-11-20T15:01:13Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/8/6395020"
-  },
-  {
-   "title": "Jugendliche stürzt in Schacht",
-   "prefix": "FW-MG",
-   "place": "Mönchengladbach-Schmölderpark, Espenstraße, 20.11.2026, 10:47 Uhr",
-   "teaser": "Am heutigen Vormittag erreicht die Feuerwehr Mönchengladbach ein Notruf über eine Jugendliche, die in einen etwa zwei Meter tiefen Schacht gestürzt war. Die ersten …",
-   "source": "Feuerwehr Mönchengladbach",
-   "published": "2026-11-20T14:59:59Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395017"
-  },
-  {
-   "title": "Zwei blinde Alarme im Krankenhaus und blockierte Zufahrt an der Feuerwache",
-   "prefix": "FW-EN",
-   "place": "Herdecke",
-   "teaser": "Die Feuerwehr Herdecke war am Freitag zweimal gefordert. Um 9:24 Uhr ging ein Alarm der Brandmeldeanlage aus dem Gemeinschaftskrankenhaus Herdecke ein. Vor Ort stellten die Einsatzkräfte fest, dass eine Patientin der …",
-   "source": "Feuerwehr Herdecke",
-   "published": "2026-11-20T14:13:34Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/69790/6394999"
-  },
-  {
-   "title": "Straelen - 1. Folgemeldung nach Verkehrsunfall: Verkehrsteilnehmer zieht sich schwere Verletzungen zu",
-   "prefix": "POL-KLE",
-   "place": "Straelen-Louisenburg",
-   "teaser": "Am heutigen Freitag (20. November 2026) kam es gegen 10:00 Uhr im Kreuzungsbereich Leuther Landstraße (B221) / Herscheler Weg in Straelen zu einem Verkehrsunfall mit zwei beteiligten Lastkraftwagen (die Erstmeldung …",
-   "source": "Kreispolizeibehörde Kleve",
-   "published": "2026-11-20T14:08:33Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65849/6394994"
-  },
-  {
-   "title": "Staatsschutz ermittelt nach Vorfällen an mehreren Aachener Schulen",
-   "prefix": "POL-AC",
-   "place": "Aachen",
-   "teaser": "Am Freitagmorgen (20.11.26) hat es im Stadtgebiet innerhalb weniger Stunden Sachbeschädigungen an Schulen gegeben. An mehreren Schulen wurden unter anderem Schlösser durch Klebstoff beschädigt. Ob zwischen den einzelnen Taten ein …",
-   "source": "Polizei Aachen",
-   "published": "2026-11-20T14:07:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11559/6394993"
-  },
-  {
-   "title": "Geschwindigkeitskontrolle: Mit 69 km/h durch die 30er Zone",
-   "prefix": "POL-ME",
-   "place": "Erkrath",
-   "teaser": "Der Verkehrsdienst der Kreispolizeibehörde Mettmann kontrollierte am Donnerstag, 19. November 2026, die Geschwindigkeit auf der innerörtlichen Beckhauser Straße in Erkrath, um hier die Einhaltung der maximal zulässigen …",
-   "source": "Polizei Mettmann",
-   "published": "2026-11-20T14:06:30Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43777/6394991"
-  },
-  {
-   "title": "261120-3-K/REK Mutmaßliche Raubserie nach Verabredungen über Dating-Plattform - Polizei nimmt zwei Männer fest",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "Nachtrag zur Pressemeldung vom 16. November 2026, Ziffer 4: https://www.presseportal.de/blaulicht/pm/12415/6391702 Ermittler und Einsatzkräfte der Polizei Köln haben im Zusammenhang mit drei mutmaßlichen Raubtaten nach Verabredungen …",
-   "source": "Polizei Köln",
-   "published": "2026-11-20T14:03:35Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6394989"
   }
  ]
 }
