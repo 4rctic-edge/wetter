@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-20T08:29:05Z",
+ "checked": "2026-11-20T17:06:33Z",
  "items": [
   {
-   "title": "Fahrradprüfung an der Grundschule Steinhagen",
-   "prefix": "POL-GT",
-   "place": "Gütersloh",
-   "teaser": "Steinhagen (MK) - Montag (23.11., 09:00 Uhr - 11:00 Uhr) findet für die Schülerinnen und Schüler der Grundschule Steinhagen die diesjährige Radfahrprüfung statt. Die Viertklässler werden selbständig im Umfeld der Schule an …",
-   "source": "Polizei Gütersloh",
-   "published": "2026-11-20T07:57:17Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6394366"
+   "title": "Die \"LöschKids\" der Feuerwehr Kirchhundem zeigen wie interkommunales Zusammen- wirken funktioniert. Abnahme der Kinderflamme in Bronze & Silber in Heinsberg",
+   "prefix": "FW-OE",
+   "place": "Kirchhundem/Heinsberg",
+   "teaser": "46 Mädchen und Jungs der Kinderfeuerwehren aus Heinsberg, Brachthausen und Wirme trafen sich am 7. November, zur Abnahme der Kinderflamme in Heinsberg . Auch eine Gruppe der Kinderfeuerwehr des Löschzug Hilchenbach, …",
+   "source": "Feuerwehr Kirchhundem",
+   "published": "2026-11-20T15:57:29Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116945/6395042"
   },
   {
-   "title": "Blendende Scheinwerfer: Polizei HSK warnt vor gefährlichen Situationen im Dunkeln",
-   "prefix": "POL-HSK",
-   "place": "Hochsauerlandkreis",
-   "teaser": "Dunkle Landstraßen, enge Kurven und unübersichtliche Kuppen: Wer im Herbst und Winter unterwegs ist, braucht eine funktionierende Fahrzeugbeleuchtung. Doch helles Licht kann auch zur Gefahr werden. Die …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-20T07:55:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6394365"
+   "title": "Viersen-Dülken: 77-jähriger Radfahrer bei Unfall lebensgefährlich verletzt",
+   "prefix": "POL-VIE",
+   "place": "Viersen-Dülken",
+   "teaser": "Ein 77-Jähriger aus Schwalmtal ist bei einem Unfall auf dem Amerner Weg am Freitagnachmittag lebensgefährlich verletzt worden. Der Mann war auf seinem Fahrrad auf dem Geh- und Radweg des Amerner Wegs ortsauswärts in …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-20T15:33:24Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395034"
   },
   {
-   "title": "BPOL NRW: Parfüm in Höhe von 528 Euro gestohlen - Bundespolizei stellt Tatverdächtigen",
-   "prefix": "",
-   "place": "Gelsenkirchen",
-   "teaser": "Gestern Nachmittag (19. November) entwendete ein junger Mann in einer Filiale Ware und flüchtete anschließend in den Gelsenkirchener Hauptbahnhof. Bundespolizisten ergriffen diesen im U-Bahnbereich. Gegen die Mitnahme zur …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-20T07:46:48Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6394358"
-  },
-  {
-   "title": "Ahlen. Feuer in Restaurant - Hinweise erbeten",
-   "prefix": "POL-WAF",
-   "place": "Warendorf",
-   "teaser": "Feuerwehr und Polizei sind am Freitagmorgen (20.11.2026, 02.21 Uhr) zu einem Feuer an der Straße Markt in Ahlen gerufen worden - in einem Restaurant würde es brennen. Vor Ort stellten die Einsatzkräfte Flammen vor der …",
-   "source": "Polizei Warendorf",
-   "published": "2026-11-20T07:37:54Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6394356"
-  },
-  {
-   "title": "Hünxe - Mehrere Einbrüche in Hünxe - Zeugen gesucht",
-   "prefix": "POL-WES",
-   "place": "Hünxe",
-   "teaser": "Am Donnerstag, in der Zeit von 13 Uhr bis 19:30 Uhr, kam es nach derzeitigem Erkenntnisstand zu drei Einbrüchen in Einfamilienhäuser. In zwei Fällen blieb es beim Versuch. Auf der Straße zum Aansberg hebelten die unbekannten …",
-   "source": "Kreispolizeibehörde Wesel",
-   "published": "2026-11-20T07:28:47Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65858/6394353"
-  },
-  {
-   "title": "Jugendlicher entwendet Auto und fährt damit über Bahnschienen",
-   "prefix": "POL-HSK",
-   "place": "Sundern",
-   "teaser": "Im Zeitraum vom 19.11.2026 20:00 Uhr bis zum 20.11.2026 00:50 Uhr entwendete ein 14-Jähriger ein Auto von einem Parkplatz eines Restaurants in der Hauptstraße in Sundern. Gegen 00:50 Uhr wurde durch die Polizei ein Fahrzeug auf den …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-20T07:25:42Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6394352"
-  },
-  {
-   "title": "Pkw im Altrhein - Feuerwehr leuchtet Einsatzstelle aus und unterstützt Bergung",
-   "prefix": "FW-KLE",
-   "place": "Kleve-Düffelward",
-   "teaser": "Die Löschgruppe Düffelward wurde in der Nacht zum 19. November kurz vor Mitternacht mit dem Stichwort \"Amtshilfe - Ausleuchten Polizei\" zur Röstendaalstraße alarmiert. Am dortigen Fähranleger sollte sich aus bislang …",
-   "source": "Feuerwehr Kleve",
-   "published": "2026-11-20T07:18:08Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/126799/6394348"
-  },
-  {
-   "title": "Unfall in Espelkamp, 40-Jährige leicht verletzt",
-   "prefix": "POL-MI",
-   "place": "Espelkamp",
-   "teaser": "(FW) Bei einem Verkehrsunfall auf der Hauptstraße (L 766) in Espelkamp ist am Donnerstag eine 40-jährige Frau leicht verletzt worden. Ein 59-jähriger Lübbecker war gegen 17:15 Uhr mit einem Iveco Lkw auf der Landstraße aus …",
-   "source": "Polizei Minden-Lübbecke",
-   "published": "2026-11-20T07:17:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43553/6394347"
-  },
-  {
-   "title": "Ennepetal: Drei Einbrüche im Mehrfamilienhaus- Täter gefasst- aufmerksamer Zeuge meldet verdächtige Person und Pkw",
-   "prefix": "POL-EN",
-   "place": "Ennepetal",
-   "teaser": "Ein aufmerksamer Zeuge meldete am 18.11., gegen 10:20 Uhr auf dem Wanderparkplatz in der Nähe des Spreeler Wegs ein verdächtiges Fahrzeug der Marke VW. In dem Fahrzeug schienen augenscheinlich Personen zu warten. Zusätzlich …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-20T07:06:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6394342"
-  },
-  {
-   "title": "Bocholt - Kreispolizeibehörde Borken und DEKRA bieten kostenlose Lichtkontrolle an",
+   "title": "Velen - Rücknahme der Öffentlichkeitsfahndung nach 88-jähriger Vermisster",
    "prefix": "POL-BOR",
-   "place": "Bocholt",
-   "teaser": "Gerade zu Beginn der dunklen Jahreszeit ist eine funktionierende und richtig eingestellte Beleuchtung bei Fahrzeugen wichtig. Um die Verkehrssicherheit zu erhöhen und die Sichtbarkeit im Straßenverkehr zu verbessern, führt die …",
+   "place": "Velen",
+   "teaser": "Die am 18.11.2026 als vermisst gemeldete Frau wurde im Außenbereich von Velen leblos aufgefunden. Es liegen aktuell keine Hinweise auf ein Fremdverschulden vor. Die Ermittlungen dauern an. Es ergeht in diesem Zusammenhang die …",
    "source": "Kreispolizeibehörde Borken",
-   "published": "2026-11-20T07:00:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/24843/6394326"
+   "published": "2026-11-20T15:29:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/24843/6395032"
   },
   {
-   "title": "Lkw auf der Alexanderstraße umgestürzt - Fahrer aus Fahrerkabine befreit",
-   "prefix": "FW-MH",
-   "place": "Mülheim an der Ruhr",
-   "teaser": "Am frühen Freitagmorgen, den 20.11.2026, wurde die Feuerwehr Mülheim an der Ruhr um 04:02 Uhr zu einem Verkehrsunfall auf der Alexanderstraße im Stadtteil Heißen alarmiert. Gemeldet war ein Lkw, in dem eine Person …",
-   "source": "Feuerwehr Mülheim an der Ruhr",
-   "published": "2026-11-20T06:56:59Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115880/6394324"
+   "title": "261120-4-K Kastenwagen fährt auf geparkten Lastwagen auf - Vier Verletzte bei Unfall auf Rastplatz bei Bergisch Gladbach",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Bei einem schweren Unfall auf dem Rastplatz Röttgesberg-Nord bei Bergisch Gladbach an der Autobahn 4 sind am Freitagmittag (20. November) vier Menschen verletzt worden. Nach bisherigen Erkenntnissen war der Fahrer (36) eines …",
+   "source": "Polizei Köln",
+   "published": "2026-11-20T15:24:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6395030"
   },
   {
-   "title": "FW Paderborn: Verkehrsunfall mit drei Verletzten nach Alleinunfall",
-   "prefix": "",
-   "place": "Paderborn",
-   "teaser": "(sw) Am späten Donnerstagabend (19. November) wurde die Feuerwehr Paderborn zu einem Verkehrsunfall auf der Strecke zwischen Paderborn-Marienloh und Bad Lippspringe alarmiert. Ein Pkw war aus bislang ungeklärter Ursache von der …",
-   "source": "Feuerwehr Paderborn",
-   "published": "2026-11-20T06:51:58Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/173646/6394322"
+   "title": "Kempen: Pfefferspray gesprüht? Die Polizei sucht nach Zeugen",
+   "prefix": "POL-VIE",
+   "place": "Kempen",
+   "teaser": "Am Freitag gegen 15 Uhr wurden Feuerwehr und Polizei zum Berufskolleg in Kempen in der Kleinbahnstraße gerufen. Eine Frau hatte dort einen nicht identifizierbaren Geruch festgestellt. Zum Zeitpunkt des Geschehens befanden sich noch …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-20T15:23:05Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395028"
   },
   {
-   "title": "Weißer Mercedes aus Werkstatt gestohlen - Zeugen gesucht",
-   "prefix": "POL-HSK",
-   "place": "Meschede",
-   "teaser": "Am gestrigen Donnerstag, den 19.11.2026, zwischen 23:29 Uhr und 23:36 Uhr entwenden bislang unbekannte Täter einen weißen Mercedes von dem Parkplatz einer Autowerkstatt in der Arpestraße in Meschede-Grevenstein. Auf der …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-20T06:31:33Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6394301"
+   "title": "Tönisvorst-Vorst: Unfall beim Überholen - Alkoholeinfluss festgestellt",
+   "prefix": "POL-VIE",
+   "place": "Tönisvorst-Vorst",
+   "teaser": "Gegen 7.30 Uhr am Freitagmorgen ist ein Autofahrer, der eine Kehrmaschine überholt hatte, zu früh wieder eingeschert und hat dadurch einen Unfall verursacht. Geschehen ist das auf der Kehner Heide in Vorst. Dunkelheit, …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-20T15:21:35Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395027"
   },
   {
-   "title": "Rücknahme der Fahndung nach Alina T. - 12-Jährige wohlbehalten zurück",
-   "prefix": "POL-HA",
-   "place": "Hagen",
-   "teaser": "Die Vermisstenfahndung nach der 12-jährigen Alina T. vom Donnerstag, den 19.11.2026, wird hiermit zurückgenommen. Polizeibeamte trafen die Vermisste noch am selben Tag wohlbehalten in der Hagener Innenstadt an. Danke für Ihre …",
-   "source": "Polizei Hagen",
-   "published": "2026-11-20T06:31:19Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30835/6394300"
+   "title": "Brennender Wäschetrockner sorgt für Feuerwehreinsatz",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach-Rheindahlen-Land, Voosener Straße, 20.11.2026, 12:30 Uhr",
+   "teaser": "In den Mittagsstunden bemerkten Nachbarn eine Rauchentwicklung aus dem Anbau eines Einfamilienhauses und alarmierten die Feuerwehr. Vor Ort stellten die ersten …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-20T15:07:29Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395025"
   },
   {
-   "title": "Kreis Warendorf. Gemeinsam das Schweigen brechen. Die Kreispolizeibehörde Warendorf macht auf das Hilfetelefon \"Gewalt gegen Frauen\" aufmerksam.",
-   "prefix": "POL-WAF",
-   "place": "Warendorf",
-   "teaser": "Unter der kostenfreien Rufnummer 116 016 finden von Gewalt betroffene Frauen rund um die Uhr anonyme und vertrauliche Unterstützung. Anlässlich der bundesweiten Mitmachaktion rund um den internationalen Tag gegen Gewalt an Frauen …",
-   "source": "Polizei Warendorf",
-   "published": "2026-11-20T05:00:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6394271"
+   "title": "Castrop-Rauxel: Mehrere Waffen bei Kontrollen sichergestellt",
+   "prefix": "POL-RE",
+   "place": "Recklinghausen",
+   "teaser": "Die Polizei Recklinghausen war am Donnerstag (19. November) zusammen mit dem Ordnungsamt, dem Gewerbeamt aus Castrop-Rauxel sowie der Siko Ruhr im Einsatz. Bis in die späten Abendstunden kontrollierten die Behörden mehrere …",
+   "source": "Polizeipräsidium Recklinghausen",
+   "published": "2026-11-20T15:03:08Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/42900/6395021"
+  },
+  {
+   "title": "Geschichten vorlesen, Vertrauen schaffen: Polizei Düren besucht drei Einrichtungen am bundesweiten Vorlesetag",
+   "prefix": "POL-DN",
+   "place": "Kreis Düren",
+   "teaser": "Geschichten entdecken, neugierig sein und die Polizei einmal von einer ganz anderen Seite kennenlernen: Unter dem Motto \"Ich lese vor - Du auch?\" fand am Freitag (20.11.2026) der diesjährige bundesweite Vorlesetag statt. Auch …",
+   "source": "Polizei Düren",
+   "published": "2026-11-20T15:01:13Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/8/6395020"
+  },
+  {
+   "title": "Jugendliche stürzt in Schacht",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach-Schmölderpark, Espenstraße, 20.11.2026, 10:47 Uhr",
+   "teaser": "Am heutigen Vormittag erreicht die Feuerwehr Mönchengladbach ein Notruf über eine Jugendliche, die in einen etwa zwei Meter tiefen Schacht gestürzt war. Die ersten …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-20T14:59:59Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395017"
+  },
+  {
+   "title": "Zwei blinde Alarme im Krankenhaus und blockierte Zufahrt an der Feuerwache",
+   "prefix": "FW-EN",
+   "place": "Herdecke",
+   "teaser": "Die Feuerwehr Herdecke war am Freitag zweimal gefordert. Um 9:24 Uhr ging ein Alarm der Brandmeldeanlage aus dem Gemeinschaftskrankenhaus Herdecke ein. Vor Ort stellten die Einsatzkräfte fest, dass eine Patientin der …",
+   "source": "Feuerwehr Herdecke",
+   "published": "2026-11-20T14:13:34Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/69790/6394999"
+  },
+  {
+   "title": "Straelen - 1. Folgemeldung nach Verkehrsunfall: Verkehrsteilnehmer zieht sich schwere Verletzungen zu",
+   "prefix": "POL-KLE",
+   "place": "Straelen-Louisenburg",
+   "teaser": "Am heutigen Freitag (20. November 2026) kam es gegen 10:00 Uhr im Kreuzungsbereich Leuther Landstraße (B221) / Herscheler Weg in Straelen zu einem Verkehrsunfall mit zwei beteiligten Lastkraftwagen (die Erstmeldung …",
+   "source": "Kreispolizeibehörde Kleve",
+   "published": "2026-11-20T14:08:33Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65849/6394994"
+  },
+  {
+   "title": "Staatsschutz ermittelt nach Vorfällen an mehreren Aachener Schulen",
+   "prefix": "POL-AC",
+   "place": "Aachen",
+   "teaser": "Am Freitagmorgen (20.11.26) hat es im Stadtgebiet innerhalb weniger Stunden Sachbeschädigungen an Schulen gegeben. An mehreren Schulen wurden unter anderem Schlösser durch Klebstoff beschädigt. Ob zwischen den einzelnen Taten ein …",
+   "source": "Polizei Aachen",
+   "published": "2026-11-20T14:07:20Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11559/6394993"
+  },
+  {
+   "title": "Geschwindigkeitskontrolle: Mit 69 km/h durch die 30er Zone",
+   "prefix": "POL-ME",
+   "place": "Erkrath",
+   "teaser": "Der Verkehrsdienst der Kreispolizeibehörde Mettmann kontrollierte am Donnerstag, 19. November 2026, die Geschwindigkeit auf der innerörtlichen Beckhauser Straße in Erkrath, um hier die Einhaltung der maximal zulässigen …",
+   "source": "Polizei Mettmann",
+   "published": "2026-11-20T14:06:30Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43777/6394991"
+  },
+  {
+   "title": "261120-3-K/REK Mutmaßliche Raubserie nach Verabredungen über Dating-Plattform - Polizei nimmt zwei Männer fest",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Nachtrag zur Pressemeldung vom 16. November 2026, Ziffer 4: https://www.presseportal.de/blaulicht/pm/12415/6391702 Ermittler und Einsatzkräfte der Polizei Köln haben im Zusammenhang mit drei mutmaßlichen Raubtaten nach Verabredungen …",
+   "source": "Polizei Köln",
+   "published": "2026-11-20T14:03:35Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6394989"
   }
  ]
 }
