@@ -1,8 +1,26 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-21T18:19:25Z",
+ "checked": "2026-11-21T23:29:32Z",
  "items": [
+  {
+   "title": "35-jähriger Herner beraubt - Polizei sucht Zeugen",
+   "prefix": "POL-BO",
+   "place": "Bochum",
+   "teaser": "Ein 35-jähriger Herner ist am Samstagmorgen, 21. November, in Bochum beraubt worden. Die Polizei fahndet nach zwei Tatverdächtigen und bittet um Zeugenhinweise. Nach bisherigem Ermittlungsstand war der 35-jährige Herner gegen 4.30 …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-21T19:05:10Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6395269"
+  },
+  {
+   "title": "Wesel- Zimmerbrand in einem Mehrfamilienhaus",
+   "prefix": "POL-WES",
+   "place": "Wesel",
+   "teaser": "Am Samstagabend, gegen 18:30 Uhr, kam es zu einem Zimmerbrand im ersten Obergeschoss eines Mehrfamilienhauses auf der Straße Flesgentor. Alle Bewohner konnten das Haus unverletzt verlassen. Der Brand wurde durch die Feuerwehr …",
+   "source": "Kreispolizeibehörde Wesel",
+   "published": "2026-11-21T19:04:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65858/6395268"
+  },
   {
    "title": "Kellerbrand in Bentrup-Loßbruch - Fünf Personen durch Rettungsdienst untersucht",
    "prefix": "FW-DT",
@@ -119,24 +137,6 @@
    "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
    "published": "2026-11-21T09:05:00Z",
    "link": "https://www.presseportal.de/blaulicht/pm/12726/6395178"
-  },
-  {
-   "title": "Betrunkener Radfahrer",
-   "prefix": "POL-HA",
-   "place": "Hagen",
-   "teaser": "Nachts um 00:30 Uhr fuhr ein 25-jähriger Mann auf einem Fahrrad durch Hagen-Eilpe. Da das Fahrrad vollkommen unbeleuchtet war, entschloss sich eine Polizeistreife, den Fahrradfahrer zu überprüfen. Während der Kontrolle bemerkten …",
-   "source": "Polizei Hagen",
-   "published": "2026-11-21T08:23:57Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30835/6395167"
-  },
-  {
-   "title": "Verkehrsunfall mit verletzter Person",
-   "prefix": "POL-HSK",
-   "place": "Sundern-Endorf",
-   "teaser": "Am 20.11.2026, gegen 16:30 Uhr, befuhr ein 34-jähriger Mann aus Sundern mit seinem VW die L842 von Stockum nach Endorf. In einer leichten Rechtskurve kam er aus bislang ungeklärter Ursache nach rechts von der Fahrbahn ab und …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-21T07:20:04Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6395152"
   }
  ]
 }
