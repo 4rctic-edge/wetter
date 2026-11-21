@@ -1,8 +1,71 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-21T11:52:29Z",
+ "checked": "2026-11-21T18:19:25Z",
  "items": [
+  {
+   "title": "Kellerbrand in Bentrup-Loßbruch - Fünf Personen durch Rettungsdienst untersucht",
+   "prefix": "FW-DT",
+   "place": "Detmold",
+   "teaser": "Am Samstagnachmittag wurde die Feuerwehr Detmold um 14:12 Uhr zu einem gemeldeten Kellerbrand im Ortsteil Bentrup-Loßbruch alarmiert. Im Einsatz waren das hauptamtliche Personal sowie die Löschzüge Mitte und Nord. Beim Eintreffen …",
+   "source": "Feuerwehr Detmold",
+   "published": "2026-11-21T15:45:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116239/6395245"
+  },
+  {
+   "title": "FW Finnentrop: Neun neue Atemschutzgeräteträger bei der Feuerwehr der Gemeinde Finnentrop",
+   "prefix": "",
+   "place": "Finnentrop",
+   "teaser": "Neun Einsatzkräfte der Feuerwehr der Gemeinde Finnentrop haben kürzlich ihre Ausbildung zum Atemschutzgeräteträger erfolgreich abgeschlossen. Damit stehen der Feuerwehr weitere qualifizierte Einsatzkräfte für die …",
+   "source": "Freiwillige Feuerwehr Finnentrop",
+   "published": "2026-11-21T15:22:32Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/165856/6395242"
+  },
+  {
+   "title": "Verkehrsunfall auf Einsatzfahrt - Feuerwehrfahrzeug kollidiert mit Straßenbahn",
+   "prefix": "FW-D",
+   "place": "Düsseldorf",
+   "teaser": "Samstag, 21. November 2026, 10.55 Uhr, Steinstraße, Stadtmitte Am Samstagvormittag kollidierten während einer Einsatzfahrt zu einer Feuermeldung ein Einsatzfahrzeug der Feuerwehr und eine Straßenbahn miteinander. Der Unfall …",
+   "source": "Feuerwehr Düsseldorf",
+   "published": "2026-11-21T13:55:13Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115876/6395236"
+  },
+  {
+   "title": "Verkehrsunfall auf der Lütgendortmunder Strasse",
+   "prefix": "FW-DO",
+   "place": "Dortmund",
+   "teaser": "Gegen 10:45 Uhr wurde die Feuerwehr zu einem Verkehrsunfall mit möglicher eingeklemmter Person in die Lütgendortmunder Straße alarmiert. Vor Ort erkannten die Einsatzkräfte zwei betroffene PKW die miteinander kollidiert zu …",
+   "source": "Feuerwehr Dortmund",
+   "published": "2026-11-21T13:39:11Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115869/6395234"
+  },
+  {
+   "title": "Polizei Hamm beteiligt sich an bundesweiter Mitmachaktion gegen Gewalt an Frauen",
+   "prefix": "POL-HAM",
+   "place": "Hamm",
+   "teaser": "Gewalt gegen Frauen hat viele Gesichter. Sie beginnt nicht erst dort, wo körperliche Verletzungen sichtbar werden. Auch Bedrohungen, Kontrolle, Einschüchterung, sexuelle Belästigung oder digitale Übergriffe gehören dazu. Um auf …",
+   "source": "Polizeipräsidium Hamm",
+   "published": "2026-11-21T12:55:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65844/6395222"
+  },
+  {
+   "title": "Vermuteter Unglücksfall entpuppt sich als Entstehungsbrand - Feuerwehr rettet Bewohner.",
+   "prefix": "FW-D",
+   "place": "Düsseldorf",
+   "teaser": "Samstag, 21. November 2026, 08.32 Uhr, Pilgerweg, Gerresheim Am Samstagvormittag meldete eine Dialyseklinik das Fernbleiben eines ihrer älteren Patienten der Polizei. Sie vernuteten einen Unglücksfall in der Wohnung. Der …",
+   "source": "Feuerwehr Düsseldorf",
+   "published": "2026-11-21T11:46:01Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115876/6395215"
+  },
+  {
+   "title": "Verkehrsunfall Autobahn A3",
+   "prefix": "FW-LEV",
+   "place": "Leverkusen",
+   "teaser": "Am 21.11.2026 wurde die Leitstelle der Feuerwehr Leverkusen gegen 11:30 Uhr über einen Verkehrsunfall zwischen zwei Fahrzeugen und mehreren Verletzten auf der Autobahn A3 informiert. Durch die Leitstelle wurden umgehend Kräfte …",
+   "source": "Feuerwehr Leverkusen",
+   "published": "2026-11-21T11:43:31Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115890/6395214"
+  },
   {
    "title": "Detmold - 60-Jährige vermisst - Öffentlichkeitsfahndung - Rücknahme",
    "prefix": "POL-LIP",
@@ -74,69 +137,6 @@
    "source": "Kreispolizeibehörde Hochsauerlandkreis",
    "published": "2026-11-21T07:20:04Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65847/6395152"
-  },
-  {
-   "title": "Kind bei Verkehrsunfallflucht verletzt",
-   "prefix": "POL-HSK",
-   "place": "Arnsberg-Neheim",
-   "teaser": "Am 20.11.2026, gegen 07:25 Uhr, überquerte ein 10-jähriger Junge aus Arnsberg auf dem Schulweg an der Ampel Engelbertstraße/Graf-Gottfried-Straße bei Grünlicht den Fußgängerüberweg. Dabei wurde er durch einen dunklen …",
-   "source": "Kreispolizeibehörde Hochsauerlandkreis",
-   "published": "2026-11-21T06:59:50Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65847/6395143"
-  },
-  {
-   "title": "Ahlen. Ohne Fahrerlaubnis und unter Drogeneinfluss im Pkw unterwegs",
-   "prefix": "POL-WAF",
-   "place": "Warendorf",
-   "teaser": "Eine Verkehrskontrolle auf der Humboldtstraße in Ahlen endete am Freitag (20.11.2026) für einen 41-jährigen Pkw-Fahrer mit einem Ermittlungsverfahren. Als Polizeibeamte den Pkw gegen 14.45 Uhr anhielten, stellte sich heraus, …",
-   "source": "Polizei Warendorf",
-   "published": "2026-11-21T06:43:17Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6395140"
-  },
-  {
-   "title": "Ennepetal: Rücknahme der Fahndung nach zwei vermissten Jugendlichen",
-   "prefix": "POL-EN",
-   "place": "Ennepetal",
-   "teaser": "Die am 19.11.2026 veröffentlichte Fahndung nach zwei vermissten Jugendlichen aus Ennepetal ist eingestellt. Die beiden Jugendlichen wurden gemeinsam und wohlauf durch die Polizei angetroffen. Die Polizei bedankt sich für Ihre …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T06:15:11Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395134"
-  },
-  {
-   "title": "Ahlen. Tageswohnungseinbruch in Einfamilienhaus",
-   "prefix": "POL-WAF",
-   "place": "Warendorf",
-   "teaser": "Am Freitag (20.11.2026) brachen Unbekannte zwischen 06.45 Uhr und 17.00 Uhr in ein Einfamilienhaus in der Straße Im Kreuzkamp in Ahlen ein. Der oder die Täter verschafften sich über eine rückwärtige Terrassentür Zutritt und …",
-   "source": "Polizei Warendorf",
-   "published": "2026-11-21T06:12:10Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6395133"
-  },
-  {
-   "title": "Hattingen - Verkehrsunfall mit einer leicht verletzten Person",
-   "prefix": "POL-EN",
-   "place": "Hattingen",
-   "teaser": "Am 20.11.2026, gegen 13:30 Uhr, befuhr eine 21-jährige Hattingerin, mit ihrem Pkw, die Isenbergstraße in südliche Fahrtrichtung. In Höhe der Märkischen Straße verlor sie die Kontrolle über ihr Fahrzeug und stieß gegen einen …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T06:06:56Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395130"
-  },
-  {
-   "title": "Fahrer eines E-Scooters bei Verkehrsunfall verletzt",
-   "prefix": "POL-SO",
-   "place": "Warstein",
-   "teaser": "Am Freitag, den 20.11.2026, ereignete sich in Warstein-Belecke ein Verkehrsunfall. Gegen 18.25 Uhr befuhr ein 40-jähriger Skoda-Fahrer aus Münsterhausen (Bayern) die Bahnhofstraße in Richtung Süden. Beim Versuch, nach rechts auf …",
-   "source": "Kreispolizeibehörde Soest",
-   "published": "2026-11-21T05:54:48Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65855/6395129"
-  },
-  {
-   "title": "Fünf Einsätze für die Feuerwehr Ennepetal",
-   "prefix": "FW-EN",
-   "place": "Ennepetal",
-   "teaser": "Am 20.11.2026 gab es fünf Einsätze für die Feuerwehr im Stadtgebiet. Um 09:22 Uhr würde die Feuerwehr Ennepetal zu einer hilflosen Person in den Stadtteil Büttenberg gerufen. Beim Eintreffen konnte die Person aber die Wohnung …",
-   "source": "Feuerwehr Ennepetal",
-   "published": "2026-11-21T05:32:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/69780/6395126"
   }
  ]
 }
