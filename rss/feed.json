@@ -1,8 +1,17 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-20T23:03:36Z",
+ "checked": "2026-11-21T03:55:33Z",
  "items": [
+  {
+   "title": "Detmold. 60-Jährige vermisst - Öffentlichkeitsfahndung.",
+   "prefix": "POL-LIP",
+   "place": "Lippe",
+   "teaser": "Seit Donnerstagnacht (19. November 2026) wird eine 60-jährige Frau aus Detmold vermisst. Die Frau wurde zuletzt gegen 22:30 Uhr von Angehörigen in ihrer Wohnung gesehen. Aufgrund ihres Gesundheitszustandes kann eine Eigengefährdung …",
+   "source": "Polizei Lippe",
+   "published": "2026-11-20T23:03:14Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395105"
+  },
   {
    "title": "Garath - Größerer Polizeieinsatz - Spezialeinheiten lösen Bedrohungslage",
    "prefix": "POL-D",
@@ -128,15 +137,6 @@
    "source": "Kreispolizeibehörde Viersen",
    "published": "2026-11-20T15:23:05Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65857/6395028"
-  },
-  {
-   "title": "Tönisvorst-Vorst: Unfall beim Überholen - Alkoholeinfluss festgestellt",
-   "prefix": "POL-VIE",
-   "place": "Tönisvorst-Vorst",
-   "teaser": "Gegen 7.30 Uhr am Freitagmorgen ist ein Autofahrer, der eine Kehrmaschine überholt hatte, zu früh wieder eingeschert und hat dadurch einen Unfall verursacht. Geschehen ist das auf der Kehner Heide in Vorst. Dunkelheit, …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-20T15:21:35Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395027"
   }
  ]
 }
