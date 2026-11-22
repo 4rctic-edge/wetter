@@ -1,8 +1,116 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-22T11:43:13Z",
+ "checked": "2026-11-22T18:39:36Z",
  "items": [
+  {
+   "title": "Niederkrüchten: 3 Verletzte nach Kollision im Kurvenbereich",
+   "prefix": "POL-VIE",
+   "place": "Niederkrüchten",
+   "teaser": "Am heutigen Sonntag befuhr gegen 15:15 Uhr ein 62jähriger Wegberger mit seinem Pkw die B221 aus Richtung Niederkrüchten kommend in Richtung Arsbeck. Zunächst kommt er im Bereich einer Rechtskurve aus bisher nicht …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-22T16:39:43Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395544"
+  },
+  {
+   "title": "Schwerer Verkehrsunfall mit einer Schwer- und drei Leichtverletzten",
+   "prefix": "POL-HAM",
+   "place": "Hamm-Uentrop",
+   "teaser": "Bei einem schweren Verkehrsunfall wurde am Samstag, gegen 7.20 Uhr, auf der Lippestraße eine Frau schwer- und drei Männer leichtverletzt. Es entstand hoher Sachschaden. Zur Unfallzeit befuhr eine 27-jährige Frau mit einem …",
+   "source": "Polizeipräsidium Hamm",
+   "published": "2026-11-22T14:17:03Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65844/6395520"
+  },
+  {
+   "title": "Feuerwehr bei Unfall und Ölspur im Einsatz",
+   "prefix": "FW-EN",
+   "place": "Sprockhövel",
+   "teaser": "Die Freiwillige Feuerwehr Sprockhövel wurde innerhalb von zwei Tagen zu einer Ölspur in Niedersprockhövel sowie zu einem Verkehrsunfall in Gennebreck alarmiert. Am Freitagvormittag rückten die Einsatzkräfte zum Sportplatz …",
+   "source": "Feuerwehr Sprockhövel",
+   "published": "2026-11-22T13:08:50Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/69788/6395511"
+  },
+  {
+   "title": "Feuerwehr zu zwei Türöffnungen alarmiert",
+   "prefix": "FW-EN",
+   "place": "Herdecke",
+   "teaser": "Am Samstag um 16:40 Uhr wurde die Feuerwehr Herdecke in den Philipp-Nicolai-Weg alarmiert. Vor Ort war einer Mutter die Wohnungstür ins Schloss gefallen. In der Wohnung befanden sich zwei zehn Monate alte Kleinkinder sowie Essen …",
+   "source": "Feuerwehr Herdecke",
+   "published": "2026-11-22T12:29:31Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/69790/6395503"
+  },
+  {
+   "title": "FW Ratingen: Zwei Verkehrsunfälle am Wochenende",
+   "prefix": "",
+   "place": "Ratingen",
+   "teaser": "Am vergangenen Wochenende kam es im Stadtgebiet zu zwei Verkehrsunfällen, bei denen die Feuerwehr und der Rettungsdienst im Einsatz waren. Am Freitag, 20. November 2026, ereignete sich auf der Westtangente ein Verkehrsunfall, bei …",
+   "source": "Feuerwehr Ratingen",
+   "published": "2026-11-22T12:11:56Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70701/6395500"
+  },
+  {
+   "title": "BPOL NRW: Waffe \"gefunden\" - Bundespolizei nimmt 21-Jährigen fest",
+   "prefix": "",
+   "place": "Essen",
+   "teaser": "In der Nacht von Samstag auf Sonntag (22. November) überprüften Bundespolizisten im Essener Hauptbahnhof einen jungen Mann. Dieser führte eine nicht geladene Schusswaffe mit sich. Gegen 01:35 Uhr bestreiften Bundespolizisten den …",
+   "source": "Bundespolizeidirektion Sankt Augustin",
+   "published": "2026-11-22T11:34:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395487"
+  },
+  {
+   "title": "BPOL NRW: 55-Jähriger verweigert Bundespolizei-Kontrolle",
+   "prefix": "",
+   "place": "Gelsenkirchen",
+   "teaser": "Am Freitagabend (20. November) kontrollierten Bundespolizisten im Hauptbahnhof Gelsenkirchen drei Männer. Zwei davon verhielten sich äußert unkooperativ, beleidigten die Beamten und kamen einem Platzverweis nicht nach. Gegen …",
+   "source": "Bundespolizeidirektion Sankt Augustin",
+   "published": "2026-11-22T11:29:45Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395484"
+  },
+  {
+   "title": "Oberkassel - Polizisten in Freizeit stellen mutmaßliche Wohnungseinbrecher - Festnahme",
+   "prefix": "POL-D",
+   "place": "Düsseldorf",
+   "teaser": "Tatzeit: Freitag, 20. November 2026, 19:15 Uhr Ein gutes Gespür für verdächtige Personen bewiesen eine Polizeibeamtin und ein Polizeibeamter am Freitagabend in ihrer Freizeit. Ihr aufmerksamer Blick führte sie in Oberkassel …",
+   "source": "Polizei Düsseldorf",
+   "published": "2026-11-22T11:29:25Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/13248/6395483"
+  },
+  {
+   "title": "BPOL NRW: Bundespolizei stellt Drogen bei 17-Jährigen fest",
+   "prefix": "",
+   "place": "Essen",
+   "teaser": "Am vergangenen Freitagabend (20. November) fanden Bundespolizisten bei einem Minderjährigen im Essener Hauptbahnhof Essen eine größere Menge einer pflanzlichen Droge auf. Gegen 22 Uhr trafen Bundespolizisten im Hauptbahnhof Essen …",
+   "source": "Bundespolizeidirektion Sankt Augustin",
+   "published": "2026-11-22T11:25:19Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395481"
+  },
+  {
+   "title": "Meldung der Autobahnpolizei - A 3 - Schwerer Verkehrsunfall bei Langenfeld - Mehrere Personen verletzt - Verkehrsunfallaufnahmeteam im Einsatz",
+   "prefix": "POL-D",
+   "place": "Düsseldorf",
+   "teaser": "Unfallzeit: Sonntag, 22. November 2026, 04:20 Uhr Bei einem Verkehrsunfall heute Morgen auf der A 3 in Fahrtrichtung Köln mit zwei beteiligten Fahrzeugen wurden mehrere Menschen verletzt - eine Person davon schwer. Nach …",
+   "source": "Polizei Düsseldorf",
+   "published": "2026-11-22T11:23:28Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/13248/6395480"
+  },
+  {
+   "title": "BPOL NRW: Weihnachten hinter Gittern - Bundespolizei vollstreckt Haftbefehl",
+   "prefix": "",
+   "place": "Dortmund",
+   "teaser": "Am Samstagabend (20. November) kontrollierten Bundespolizisten im Dortmunder Hauptbahnhof einen Mann. Eine Staatsanwaltschaft ließ bereits nach ihm fahnden. Gegen 19:30 Uhr überprüften Bundespolizisten im Hauptbahnhof Dortmund …",
+   "source": "Bundespolizeidirektion Sankt Augustin",
+   "published": "2026-11-22T11:21:37Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395479"
+  },
+  {
+   "title": "BPOL NRW: Passanten bedroht und beleidigt - Bundespolizei droht Taser-Einsatz an",
+   "prefix": "",
+   "place": "Dortmund",
+   "teaser": "In der Nacht von Donnerstag auf Freitag (20. November) sei es zwischen einem Mann und zwei Personen am Dortmunder Hauptbahnhof zu einem Streitgespräch gekommen. Der Verdächtige schüchterte diese ein. Bundespolizisten stellten den …",
+   "source": "Bundespolizeidirektion Sankt Augustin",
+   "published": "2026-11-22T11:19:11Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395477"
+  },
   {
    "title": "FW Bergheim: Verkehrsunfall auf der K 19 - Pkw überschlägt sich",
    "prefix": "",
@@ -29,114 +137,6 @@
    "source": "Polizei Lippe",
    "published": "2026-11-22T10:03:51Z",
    "link": "https://www.presseportal.de/blaulicht/pm/12727/6395446"
-  },
-  {
-   "title": "Lage - Pedelec-Fahrer gestürzt und lebensgefährlich verletzt",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) Am Freitagnachmittag, dem 20.11.2026 um 15:25 Uhr erhielt die Polizei Kenntnis von einem gestürzten Pedelec-Fahrer auf der Hagenschen Straße. Nach ersten Erkenntnissen befuhr ein 59-jähriger Pedelec-Fahrer mit Fahrradhelm die …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T10:02:44Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395444"
-  },
-  {
-   "title": "Oerlinghausen-Helpup - Auffahrunfall mit Verletzten",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) Am Freitagnachmittag, dem 20.11.2026 um 14:45 Uhr kam es in Höhe des Einmündungsbereiches der Bielefelder Straße und der Straße Im Mackenbruch zu einem Verkehrsunfall mit Personenschaden. Nach derzeitigen Erkenntnissen befuhr …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T10:01:53Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395443"
-  },
-  {
-   "title": "Essen: Motorradfahrer stürzt und verletzt sich schwer - Zeugen gesucht",
-   "prefix": "POL-E",
-   "place": "Essen",
-   "teaser": "45356 E.-Bochold: Freitagabend (20. November) stürzte ein Motorradfahrer auf der Bottroper Straße und verletzte sich dabei schwer. Lebensgefahr konnte nicht ausgeschlossen werden. Die Polizei sucht Zeugen. Gegen 17:45 Uhr fuhr der …",
-   "source": "Polizei Essen",
-   "published": "2026-11-22T10:00:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11562/6395440"
-  },
-  {
-   "title": "Leopoldshöhe - Verkehrsunfallflucht",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) Am Freitagabend, 20.11.2026, in der Zeit von 19:50 Uhr bis ca. 22:45 Uhr, beschädigte ein bislang unbekannter Fahrzeugführer in der Schulstraße beim Ausparken einen geparkten Pkw Audi Q3, Farbe grau und entfernte sich in …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T09:57:47Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395437"
-  },
-  {
-   "title": "Oerlinghausen - Brand in leerstehender Wohnung",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) Am Freitagabend, dem 20.11.2026 um 21:40 Uhr erhielt die Polizei Kenntnis von einem Wohnungsbrand in der Florence-Nightingale-Straße. Vor Ort brannte es in einer leerstehenden Wohnung im Erdgeschoss eines Mehrfamilienhauses. Der …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T09:56:01Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395434"
-  },
-  {
-   "title": "Postzusteller soll Elektrogeräte aus Paketen genommen haben",
-   "prefix": "POL-GM",
-   "place": "Waldbröl",
-   "teaser": "Ein 31-jähriger Postzusteller steht im Verdacht, seit Juni, wiederholt Mobiltelefone und andere Elektrogeräte aus Paketsendungen genommen und stattdessen Kosmetikartikel, wie Shampooflaschen, in die Pakete gelegt zu haben. …",
-   "source": "Kreispolizeibehörde Oberbergischer Kreis",
-   "published": "2026-11-22T09:25:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65843/6395422"
-  },
-  {
-   "title": "Falscher Polizeibeamter erbeutet fünfstelligen Geldbetrag",
-   "prefix": "POL-GM",
-   "place": "Hückeswagen",
-   "teaser": "Ein 86 Jähriger aus Hückeswagen erhielt am Freitag (20. November) gegen 11 Uhr einen Telefonanruf von einem falschen Polizeibeamten. Der Mann, der sich als Kriminalbeamter der Kriminalpolizei Wuppertal vorstellte, gaukelte dem …",
-   "source": "Kreispolizeibehörde Oberbergischer Kreis",
-   "published": "2026-11-22T09:23:59Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65843/6395421"
-  },
-  {
-   "title": "Frau verstirbt bei Verkehrsunfall in Dortmund-Lütgendortmund",
-   "prefix": "POL-DO",
-   "place": "Dortmund",
-   "teaser": "Am Samstagmorgen (21. November) kam es in Dortmund-Lütgendortmund zu einem schweren Verkehrsunfall, bei dem eine Frau verstarb. Laut Angaben von Zeugen fuhr die 50-jährige Dortmunderin gegen 10:40 Uhr mit ihrem Opel …",
-   "source": "Polizei Dortmund",
-   "published": "2026-11-22T09:20:41Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/4971/6395418"
-  },
-  {
-   "title": "Einbrecher hebeln Fenster auf",
-   "prefix": "POL-GM",
-   "place": "Engelskirchen",
-   "teaser": "In der Zeit von Donnerstag (19. November), 16 Uhr, bis Freitag, 19:30 Uhr, hebelten Unbekannte ein Fenster eines Einfamilienhauses in Schnellenbach auf. Die Kriminellen durchwühlten mehrere Schränke und entkamen unerkannt. Ob …",
-   "source": "Kreispolizeibehörde Oberbergischer Kreis",
-   "published": "2026-11-22T09:19:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65843/6395417"
-  },
-  {
-   "title": "Unfall im Einmündungsbereich",
-   "prefix": "POL-GM",
-   "place": "Wiehl",
-   "teaser": "Am Freitag (20. November) wollte ein 62-Jähriger aus Leichlingen mit seinem BMW von der L 302 nach links auf die B 56 in Richtung Weiershagen abbiegen. Dabei kam es gegen 16 Uhr zum Zusammenstoß mit dem Skoda eines 21-jährigen …",
-   "source": "Kreispolizeibehörde Oberbergischer Kreis",
-   "published": "2026-11-22T09:17:28Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65843/6395415"
-  },
-  {
-   "title": "Beim Abbiegen zusammengestoßen",
-   "prefix": "POL-GM",
-   "place": "Wiehl",
-   "teaser": "Am Samstag (21. November) war ein 36-Jähriger aus Attendorn mit seinem Hyundai auf der B 56 von Weiershagen in Richtung Drabenderhöhe unterwegs. Gegen 16:45 Uhr wollte er an der Anschlussstelle Wiehl/Bielstein nach links auf die A 4 …",
-   "source": "Kreispolizeibehörde Oberbergischer Kreis",
-   "published": "2026-11-22T09:15:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65843/6395414"
-  },
-  {
-   "title": "FW Ense: Jahresdienstbesprechung Feuerwehr Ense",
-   "prefix": "",
-   "place": "Ense",
-   "teaser": "Zur Jahresdienstbesprechung der Freiwilligen Feuerwehr Ense begrüßte der Leiter der Feuerwehr Thomas Meier am Freitag, 20. November 2026, zahlreiche Gäste und Feuerwehrangehörige in der Schützenhalle Höingen. Unter den Anwesenden …",
-   "source": "Feuerwehr Ense",
-   "published": "2026-11-22T09:09:17Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/173619/6395412"
   }
  ]
 }
