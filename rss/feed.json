@@ -1,8 +1,44 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-21T23:29:32Z",
+ "checked": "2026-11-22T03:22:00Z",
  "items": [
+  {
+   "title": "Mann überfallen und Geldbörse gestohlen - Zeugen gesucht",
+   "prefix": "POL-BO",
+   "place": "Herne",
+   "teaser": "Am frühen Samstagmorgen, 21. November, ist es in Herne-Wanne zu einem Raubdelikt gekommen. Einem Mann (45, aus Syrien) wurde die Geldbörse gestohlen, die Polizei bittet um Hinweise. Nach bisherigen Erkenntnissen befand sich der …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-22T02:40:34Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6395298"
+  },
+  {
+   "title": "berauschter Rollerfahrer bei Verkehrsunfall lebensgefährlich verletzt",
+   "prefix": "POL-HAM",
+   "place": "Hamm-Herringen",
+   "teaser": "Lebensgefährliche Verletzungen erlitt ein 46jähriger Fahrer eines Kleinkraftrades am Samstag, 21. November um 21:20 Uhr bei einem Verkehrsunfall in Hamm - Herringen. Zur Unfallzeit befuhr der Zweiradfahrer einen Fuß- und …",
+   "source": "Polizeipräsidium Hamm",
+   "published": "2026-11-22T01:47:53Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65844/6395294"
+  },
+  {
+   "title": "Rücknahme der Öffentlichkeitsfahndung - 68-Jähriger angetroffen",
+   "prefix": "POL-DU",
+   "place": "Stadtgebiet Duisburg",
+   "teaser": "Der zunächst 68-jährige Vermisste konnte angetroffen werden. Die Polizei Duisburg bedankt sich bei allen Bürgern für die Mithilfe, die zum Auffinden des Mannes geführt hatte. Journalisten wenden sich mit Rückfragen …",
+   "source": "Polizei Duisburg",
+   "published": "2026-11-22T01:07:29Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6395291"
+  },
+  {
+   "title": "Kollision mit Straßenbahn fordert glücklicherweise keine verletzten Personen",
+   "prefix": "POL-NE",
+   "place": "Neuss-Barbaraviertel",
+   "teaser": "Am Samstagabend (26.11.), gegen 22:11 Uhr, befuhr ein 70-Jähriger Neusser mit seiner Mercedes A-Klasse die Düsseldorfer Straße aus Richtung Bahnhof Neuss kommend in Fahrtrichtung Düsseldorf-Heerdt. In gleicher …",
+   "source": "Kreispolizeibehörde Rhein-Kreis Neuss",
+   "published": "2026-11-21T23:00:50Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65851/6395282"
+  },
   {
    "title": "35-jähriger Herner beraubt - Polizei sucht Zeugen",
    "prefix": "POL-BO",
@@ -101,42 +137,6 @@
    "source": "Polizei Bonn",
    "published": "2026-11-21T09:59:59Z",
    "link": "https://www.presseportal.de/blaulicht/pm/7304/6395188"
-  },
-  {
-   "title": "Herdecke: Einbruch in zwei Erdgeschosswohnungen",
-   "prefix": "POL-EN",
-   "place": "Herdecke",
-   "teaser": "Zwischen dem 20.11.2026, 15:30 Uhr und 20:00 Uhr, hebelten unbekannte Täter die jeweiligen rückwärtig gelegenen Balkonfenster von zwei nebeneinander befindlichen Wohnungen im Erdgeschoss eines Mehrfamilienhauses in der Straße …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T09:05:09Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395181"
-  },
-  {
-   "title": "Herdecke: Einbruch in Erdgeschosswohnung",
-   "prefix": "POL-EN",
-   "place": "Herdecke",
-   "teaser": "Zwischen dem 20.11.2026, 12:30 Uhr und 20:20 Uhr, schlugen unbekannte Täter ein rückwärtig gelegenes Balkonfenster im Erdgeschoss eines Mehrfamilienhauses in der Breddestraße ein. In der Wohnung wurden mehrere Schränke und …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T09:05:06Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395180"
-  },
-  {
-   "title": "Gevelsberg: Einbruch in Einfamilienhaus",
-   "prefix": "POL-EN",
-   "place": "Gevelsberg",
-   "teaser": "Zwischen dem 20.11.2026, 09:15 Uhr und 12:05 Uhr, hebelten unbekannte Täter ein rückwärtig gelegenes Wohnzimmerfenster eines Einfamilienhauses in der Bremmenstraße auf. Im Haus wurden mehrere Schränke und Schubladen geöffnet …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T09:05:03Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395179"
-  },
-  {
-   "title": "Ennepetal: Einbruch in Einfamilienhaus",
-   "prefix": "POL-EN",
-   "place": "Ennepetal",
-   "teaser": "Zwischen dem 20.11.2026, 07:00 Uhr und 18:45 Uhr, drückten unbekannte Täter eine rückwärtig gelegene Balkontür eines Einfamilienhauses am Helkenberger Weg gewaltsam aus den Schienen. Im Haus wurden mehrere Schränke und …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-21T09:05:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6395178"
   }
  ]
 }
