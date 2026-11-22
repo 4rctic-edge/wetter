@@ -1,8 +1,62 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-22T18:39:36Z",
+ "checked": "2026-11-22T23:48:32Z",
  "items": [
+  {
+   "title": "Wedau: Fußballbegegnung zwischen dem MSV Duisburg und Hansa Rostock - Polizei zieht Einsatzbilanz",
+   "prefix": "POL-DU",
+   "place": "Duisburg",
+   "teaser": "Am Sonntagabend (22. November, 19:30 Uhr) traf der MSV Duisburg am 14. Spieltag in der Schauinsland-Reisen-Arena auf den F.C. Hansa Rostock. Kurz nach Anpfiff der Partie kam es sowohl im Heim- als auch im Gästeblock zum …",
+   "source": "Polizei Duisburg",
+   "published": "2026-11-22T21:35:15Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6395566"
+  },
+  {
+   "title": "Verkehrsunfall auf der A40 - Drei Personen verletzt",
+   "prefix": "FW-MH",
+   "place": "Mülheim an der Ruhr",
+   "teaser": "Am heutigen Sonntag, 22. November 2026, wurde die Feuerwehr Mülheim an der Ruhr gegen 20:00 Uhr zu einem Verkehrsunfall auf der Bundesautobahn 40 in Fahrtrichtung Duisburg alarmiert. Daraufhin entsandte die Leitstelle …",
+   "source": "Feuerwehr Mülheim an der Ruhr",
+   "published": "2026-11-22T21:20:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6395565"
+  },
+  {
+   "title": "Verkehrsunfall auf der Capeller Straße",
+   "prefix": "FW-WRN",
+   "place": "Werne",
+   "teaser": "Am Sonntagnachmittag wurden die Leitung der Feuerwehr, der Löschzug Mitte sowie die Löschgruppe Holthausen der Freiwilligen Feuerwehr Werne um 14:35 Uhr mit dem Alarmstichwort \"TH2 Person - Verkehrsunfall, zwei PKW, unklare Lage\" auf …",
+   "source": "Freiwillige Feuerwehr Werne",
+   "published": "2026-11-22T20:04:02Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116730/6395560"
+  },
+  {
+   "title": "Rettungshubschraubereinsatz",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach-Gladbach, 22.11.2026, 15:04 Uhr, Karmannstraße",
+   "teaser": "Am heutigen Nachmittag zog sich eine Patientin im häuslichen Umfeld schwere Verletzungen zu. Aufgrund des zunächst unklaren Verletzungsbildes wurden ein Rettungswagen und ein …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-22T18:39:14Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395553"
+  },
+  {
+   "title": "Unklare Rauchentwicklung auf ehemaligem Betriebsgelände",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach-Rheydt, 22.11.2026, 13:41 Uhr, Bachstraße",
+   "teaser": "Am frühen Nachmittag wurde die Feuerwehr zu einem ehemaligen Betriebsgelände an der Bachstraße alarmiert. Passanten hatten Brandgeruch und Rauch auf dem Betriebsgelände …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-22T18:31:03Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395551"
+  },
+  {
+   "title": "FW Bad Oeynhausen: Feuer im ehemaligen Hotel Königshof",
+   "prefix": "",
+   "place": "Bad Oeynhausen",
+   "teaser": "Am 22.11.2026 gegen 16:35 Uhr wurde die Feuerwehr Bad Oeynhausen mit dem Stichwort \"Feuer Dachstuhlbrand Stufe 1\" zum ehemaligen Hotel Königshof in die Innenstadt alarmiert. Die ersteintreffenden Kräfte konnten zunächst …",
+   "source": "Freiwillige Feuerwehr Bad Oeynhausen",
+   "published": "2026-11-22T18:20:32Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/182385/6395550"
+  },
   {
    "title": "Niederkrüchten: 3 Verletzte nach Kollision im Kurvenbereich",
    "prefix": "POL-VIE",
@@ -83,60 +137,6 @@
    "source": "Bundespolizeidirektion Sankt Augustin",
    "published": "2026-11-22T11:25:19Z",
    "link": "https://www.presseportal.de/blaulicht/pm/70116/6395481"
-  },
-  {
-   "title": "Meldung der Autobahnpolizei - A 3 - Schwerer Verkehrsunfall bei Langenfeld - Mehrere Personen verletzt - Verkehrsunfallaufnahmeteam im Einsatz",
-   "prefix": "POL-D",
-   "place": "Düsseldorf",
-   "teaser": "Unfallzeit: Sonntag, 22. November 2026, 04:20 Uhr Bei einem Verkehrsunfall heute Morgen auf der A 3 in Fahrtrichtung Köln mit zwei beteiligten Fahrzeugen wurden mehrere Menschen verletzt - eine Person davon schwer. Nach …",
-   "source": "Polizei Düsseldorf",
-   "published": "2026-11-22T11:23:28Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/13248/6395480"
-  },
-  {
-   "title": "BPOL NRW: Weihnachten hinter Gittern - Bundespolizei vollstreckt Haftbefehl",
-   "prefix": "",
-   "place": "Dortmund",
-   "teaser": "Am Samstagabend (20. November) kontrollierten Bundespolizisten im Dortmunder Hauptbahnhof einen Mann. Eine Staatsanwaltschaft ließ bereits nach ihm fahnden. Gegen 19:30 Uhr überprüften Bundespolizisten im Hauptbahnhof Dortmund …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-22T11:21:37Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395479"
-  },
-  {
-   "title": "BPOL NRW: Passanten bedroht und beleidigt - Bundespolizei droht Taser-Einsatz an",
-   "prefix": "",
-   "place": "Dortmund",
-   "teaser": "In der Nacht von Donnerstag auf Freitag (20. November) sei es zwischen einem Mann und zwei Personen am Dortmunder Hauptbahnhof zu einem Streitgespräch gekommen. Der Verdächtige schüchterte diese ein. Bundespolizisten stellten den …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-22T11:19:11Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395477"
-  },
-  {
-   "title": "FW Bergheim: Verkehrsunfall auf der K 19 - Pkw überschlägt sich",
-   "prefix": "",
-   "place": "Bergheim",
-   "teaser": "Am Samstagabend gegen 21:50 Uhr wurde die Feuerwehr Bergheim zu einem Verkehrsunfall auf der Kreisstraße 19 zwischen Bergheim-Ahe und Kerpen-Sindorf alarmiert. Dort hatte sich ein Pkw aus bislang ungeklärter Ursache überschlagen. …",
-   "source": "Feuerwehr Bergheim",
-   "published": "2026-11-22T10:22:46Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/168361/6395455"
-  },
-  {
-   "title": "Kalletal-Talle - Einbruch in Wohnhaus",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) In dem Zeitraum vom 16.11.2026, 06:00 Uhr bis 21.11.2026, 16:00 Uhr verschafften sich Unbekannte gewaltsam Zutritt zu einem Einfamilienhaus im Buchholzweg und durchsuchten das gesamte Haus. Die Bewohner befanden sich zur Tatzeit …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T10:04:33Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395447"
-  },
-  {
-   "title": "Detmold-Heidenoldendorf - Unfall endet im Blumenbeet",
-   "prefix": "POL-LIP",
-   "place": "Lippe",
-   "teaser": "(bb) Am Freitagmorgen, dem 20.11.2026 um 09:45 Uhr kam es in der Ortsmitte auf der Bielefelder Straße zu einem Zusammenstoß eines Pkw mit einem am Fahrbahnrand geparkten weiteren Pkw. Nach ersten Erkenntnissen befuhr ein 65-Jähriger …",
-   "source": "Polizei Lippe",
-   "published": "2026-11-22T10:03:51Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12727/6395446"
   }
  ]
 }
