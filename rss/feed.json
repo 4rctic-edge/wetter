@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-23T04:12:37Z",
+ "checked": "2026-11-23T14:32:46Z",
  "items": [
   {
-   "title": "Wedau: Fußballbegegnung zwischen dem MSV Duisburg und Hansa Rostock - Polizei zieht Einsatzbilanz",
+   "title": "Alt-Hamborn: Seniorin bei Unfall auf Parkplatz verletzt",
    "prefix": "POL-DU",
    "place": "Duisburg",
-   "teaser": "Am Sonntagabend (22. November, 19:30 Uhr) traf der MSV Duisburg am 14. Spieltag in der Schauinsland-Reisen-Arena auf den F.C. Hansa Rostock. Kurz nach Anpfiff der Partie kam es sowohl im Heim- als auch im Gästeblock zum …",
+   "teaser": "Auf dem Parkplatz am Hamborner Altmarkt kam es am Freitagvormittag (20. November, 10:25 Uhr) zu einem Unfall zwischen einem Auto und einer Fußgängerin (68). Die 43 Jahre alte Fahrerin des VW gab an, auf der Suche nach einem …",
    "source": "Polizei Duisburg",
-   "published": "2026-11-22T21:35:15Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6395566"
+   "published": "2026-11-23T14:01:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6396343"
   },
   {
-   "title": "Verkehrsunfall auf der A40 - Drei Personen verletzt",
-   "prefix": "FW-MH",
-   "place": "Mülheim an der Ruhr",
-   "teaser": "Am heutigen Sonntag, 22. November 2026, wurde die Feuerwehr Mülheim an der Ruhr gegen 20:00 Uhr zu einem Verkehrsunfall auf der Bundesautobahn 40 in Fahrtrichtung Duisburg alarmiert. Daraufhin entsandte die Leitstelle …",
-   "source": "Feuerwehr Mülheim an der Ruhr",
-   "published": "2026-11-22T21:20:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115880/6395565"
+   "title": "Raesfeld-Erle - Unfallflucht begangen",
+   "prefix": "POL-BOR",
+   "place": "Raesfeld",
+   "teaser": "Unfallort: Raesfeld-Erle, Silvesterstraße; Unfallzeit: 23.11.2026, zwischen 09.15 Uhr und 09.40 Uhr; Einen vierstelligen Schaden an einem Pkw verursacht hat ein bislang unbekannter Autofahrer in Raesfeld-Erle. Der Wagen parkte …",
+   "source": "Kreispolizeibehörde Borken",
+   "published": "2026-11-23T13:58:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/24843/6396338"
   },
   {
-   "title": "Verkehrsunfall auf der Capeller Straße",
-   "prefix": "FW-WRN",
-   "place": "Werne",
-   "teaser": "Am Sonntagnachmittag wurden die Leitung der Feuerwehr, der Löschzug Mitte sowie die Löschgruppe Holthausen der Freiwilligen Feuerwehr Werne um 14:35 Uhr mit dem Alarmstichwort \"TH2 Person - Verkehrsunfall, zwei PKW, unklare Lage\" auf …",
-   "source": "Freiwillige Feuerwehr Werne",
-   "published": "2026-11-22T20:04:02Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/116730/6395560"
+   "title": "Einbruch in Bäckerei - Polizei sucht Zeugen",
+   "prefix": "POL-HX",
+   "place": "Höxter",
+   "teaser": "Unbekannte Täter sind in eine Bäckereifiliale an der Albaxer Straße/Ecke Zur Lüre in Höxter eingebrochen. In der Zeit von Freitag, 20. November, 17.30 Uhr, bis Samstag, 21. November, 4 Uhr, verschafften sie sich gewaltsam …",
+   "source": "Kreispolizeibehörde Höxter",
+   "published": "2026-11-23T13:58:53Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65848/6396337"
   },
   {
-   "title": "Rettungshubschraubereinsatz",
-   "prefix": "FW-MG",
-   "place": "Mönchengladbach-Gladbach, 22.11.2026, 15:04 Uhr, Karmannstraße",
-   "teaser": "Am heutigen Nachmittag zog sich eine Patientin im häuslichen Umfeld schwere Verletzungen zu. Aufgrund des zunächst unklaren Verletzungsbildes wurden ein Rettungswagen und ein …",
-   "source": "Feuerwehr Mönchengladbach",
-   "published": "2026-11-22T18:39:14Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395553"
+   "title": "Einbruch am Grauthoffweg",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Schloß Holte-Stukenbrock (FK) - Samstagabend (22.11., 14.00 Uhr - 19.30 Uhr) hebelten bislang unbekannte Täter ein Fenster eines Hauses am Grauthoffweg auf. Die Täter gelangten auf die Garage des Hauses und machten sich von …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T13:57:48Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396336"
   },
   {
-   "title": "Unklare Rauchentwicklung auf ehemaligem Betriebsgelände",
-   "prefix": "FW-MG",
-   "place": "Mönchengladbach-Rheydt, 22.11.2026, 13:41 Uhr, Bachstraße",
-   "teaser": "Am frühen Nachmittag wurde die Feuerwehr zu einem ehemaligen Betriebsgelände an der Bachstraße alarmiert. Passanten hatten Brandgeruch und Rauch auf dem Betriebsgelände …",
-   "source": "Feuerwehr Mönchengladbach",
-   "published": "2026-11-22T18:31:03Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115879/6395551"
+   "title": "Gronau - Zwei Einbrüche am Eisenbahnweg",
+   "prefix": "POL-BOR",
+   "place": "Gronau",
+   "teaser": "Zwei Einbrüche haben sich am Sonntag am Eisenbahnweg in Gronau ereignet. Gegen 18.00 Uhr kam es zu einem ersten Einbruch. Hier machten sich die Unbekannten an einer Tür zu schaffen. In das Wohnhaus traten sie nicht ein. Im zweiten …",
+   "source": "Kreispolizeibehörde Borken",
+   "published": "2026-11-23T13:57:28Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/24843/6396333"
   },
   {
-   "title": "FW Bad Oeynhausen: Feuer im ehemaligen Hotel Königshof",
-   "prefix": "",
-   "place": "Bad Oeynhausen",
-   "teaser": "Am 22.11.2026 gegen 16:35 Uhr wurde die Feuerwehr Bad Oeynhausen mit dem Stichwort \"Feuer Dachstuhlbrand Stufe 1\" zum ehemaligen Hotel Königshof in die Innenstadt alarmiert. Die ersteintreffenden Kräfte konnten zunächst …",
-   "source": "Freiwillige Feuerwehr Bad Oeynhausen",
-   "published": "2026-11-22T18:20:32Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/182385/6395550"
+   "title": "Einfamilienhauseinbruch in der Langen Straße",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Schloß Holte-Stukenbrock (FK) - Bislang unbekannte Täter hebelten am späten Sonntagabend (22.11., 23.55 Uhr) an mehreren Fenstern eines Einfamilienhauses an der Langen Straße in Stukenbrock. Ob sie das Haus betreten haben ist …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T13:57:15Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396332"
   },
   {
-   "title": "Niederkrüchten: 3 Verletzte nach Kollision im Kurvenbereich",
+   "title": "Zwei verletzte Personen nach Frontalzusammenstoß",
+   "prefix": "POL-BO",
+   "place": "Herne",
+   "teaser": "In einem Industriegebiet in Herne-Horsthausen hat sich am Sonntag, 22. November, ein schwerer Verkehrsunfall ereignet, bei dem zwei Personen (34 und 57, aus Herne) verletzt worden sind. Nach bisherigem Stand befuhr eine 57-jährige …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-23T13:55:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6396328"
+  },
+  {
+   "title": "Schwerpunktkontrollen Truck & Bus - Polizei im Rhein-Sieg-Kreis ahndet Verstöße im Güterverkehr",
+   "prefix": "POL-SU",
+   "place": "Rhein-Sieg-Kreis",
+   "teaser": "Regelmäßig überprüfen Polizistinnen und Polizisten des Verkehrsdienstes der Polizei Rhein-Sieg gemeinsam mit ihren Kolleginnen und Kollegen der Polizeiwachen Fahrzeuge im gewerblichen Güter- und Personenverkehr. Die …",
+   "source": "Kreispolizeibehörde Rhein-Sieg-Kreis",
+   "published": "2026-11-23T13:52:06Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65853/6396323"
+  },
+  {
+   "title": "Alkohol und Drogen am Steuer - Polizei zieht zahlreiche Fahrer aus dem Verkehr #polsiwi",
+   "prefix": "POL-SI",
+   "place": "Siegen-Wittgenstein",
+   "teaser": "Am vergangenen Wochenende (20. bis 22. November 2026) kontrolliert die Polizei zahlreiche Autofahrerinnen und Autofahrer. Dabei stellt sie mehrfach Alkohol- und Drogeneinfluss fest. In mehreren Fällen kommt es außerdem …",
+   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
+   "published": "2026-11-23T13:47:39Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65854/6396321"
+  },
+  {
+   "title": "Einbruch am Nienkamp",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Borgholzhausen (FK) - Am Nienkamp sind bislang unbekannte Täter zwischen Sonntag (22.11., 13.00 Uhr) und Montag (23.11., 06.00 Uhr) in eine Fabrik eingebrochen. Die Täter schlugen ein Fenster ein und durchsuchten anschließend …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T13:47:32Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396320"
+  },
+  {
+   "title": "Kreis Recklinghausen/ Bottrop: Einbrüche - Polizei bittet um Hinweise",
+   "prefix": "POL-RE",
+   "place": "Recklinghausen",
+   "teaser": "Castrop-Rauxel: Nach einem Einbruch an der Straße \"Tönnisheide\" bittet die Polizei um Hinweise. Am Sonntag zwischen 15:15 Uhr und 20:30 Uhr versuchten bislang unbekannte Täter zunächst die Haustür einer Doppelhaushälfte …",
+   "source": "Polizeipräsidium Recklinghausen",
+   "published": "2026-11-23T13:47:27Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/42900/6396319"
+  },
+  {
+   "title": "Wegen des Verdachts des Verstoßes gegen das Waffengesetz - Polizei sucht Tatverdächtigen per Öffentlichkeitsfahndung",
+   "prefix": "POL-MS",
+   "place": "Münster",
+   "teaser": "Nachdem bereits im vergangenen Jahr, am Nachmittag des 19.05.2025 (15:48 Uhr), ein bislang unbekannter Tatverdächtiger in einem Aufzug eines Mehrfamilienhauses in der Straße \"Am Berg Fidel\" eine Waffe gezogen hat, sucht die …",
+   "source": "Polizei Münster",
+   "published": "2026-11-23T13:46:39Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11187/6396318"
+  },
+  {
+   "title": "Beckum. Diebstahl aus Tresor - Bilder vom Tatverdächtigen veröffentlicht - Hinweise erbeten",
+   "prefix": "POL-WAF",
+   "place": "Warendorf",
+   "teaser": "Bereits am Samstag (11.07.2026, 16.25 Uhr) betrat ein unbekannter Tatverdächtiger die Verkaufsräume eines Lebensmittelgeschäftes in Beckum und begab sich unmittelbar in einen unverschlossenen Büroraum. Hier stahl er aus einem …",
+   "source": "Polizei Warendorf",
+   "published": "2026-11-23T13:44:31Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/52656/6396317"
+  },
+  {
+   "title": "Kempen: Unfall auf Kreuzung - eine Person wird verletzt",
    "prefix": "POL-VIE",
-   "place": "Niederkrüchten",
-   "teaser": "Am heutigen Sonntag befuhr gegen 15:15 Uhr ein 62jähriger Wegberger mit seinem Pkw die B221 aus Richtung Niederkrüchten kommend in Richtung Arsbeck. Zunächst kommt er im Bereich einer Rechtskurve aus bisher nicht …",
+   "place": "Kempen",
+   "teaser": "Polizei sucht Zeuginnen und Zeugen Der Unfall ereignete sich am Montag gegen 11.45 Uhr an der Kreuzung Kerkener Straße/Kleinbahnstraße in Kempen. Ein Pkw näherte sich der Kreuzung aus Richtung Söderblomstraße, während ein …",
    "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-22T16:39:43Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6395544"
+   "published": "2026-11-23T13:43:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6396315"
   },
   {
-   "title": "Schwerer Verkehrsunfall mit einer Schwer- und drei Leichtverletzten",
-   "prefix": "POL-HAM",
-   "place": "Hamm-Uentrop",
-   "teaser": "Bei einem schweren Verkehrsunfall wurde am Samstag, gegen 7.20 Uhr, auf der Lippestraße eine Frau schwer- und drei Männer leichtverletzt. Es entstand hoher Sachschaden. Zur Unfallzeit befuhr eine 27-jährige Frau mit einem …",
-   "source": "Polizeipräsidium Hamm",
-   "published": "2026-11-22T14:17:03Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65844/6395520"
-  },
-  {
-   "title": "Feuerwehr bei Unfall und Ölspur im Einsatz",
-   "prefix": "FW-EN",
-   "place": "Sprockhövel",
-   "teaser": "Die Freiwillige Feuerwehr Sprockhövel wurde innerhalb von zwei Tagen zu einer Ölspur in Niedersprockhövel sowie zu einem Verkehrsunfall in Gennebreck alarmiert. Am Freitagvormittag rückten die Einsatzkräfte zum Sportplatz …",
-   "source": "Feuerwehr Sprockhövel",
-   "published": "2026-11-22T13:08:50Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/69788/6395511"
-  },
-  {
-   "title": "Feuerwehr zu zwei Türöffnungen alarmiert",
-   "prefix": "FW-EN",
-   "place": "Herdecke",
-   "teaser": "Am Samstag um 16:40 Uhr wurde die Feuerwehr Herdecke in den Philipp-Nicolai-Weg alarmiert. Vor Ort war einer Mutter die Wohnungstür ins Schloss gefallen. In der Wohnung befanden sich zwei zehn Monate alte Kleinkinder sowie Essen …",
-   "source": "Feuerwehr Herdecke",
-   "published": "2026-11-22T12:29:31Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/69790/6395503"
-  },
-  {
-   "title": "FW Ratingen: Zwei Verkehrsunfälle am Wochenende",
-   "prefix": "",
-   "place": "Ratingen",
-   "teaser": "Am vergangenen Wochenende kam es im Stadtgebiet zu zwei Verkehrsunfällen, bei denen die Feuerwehr und der Rettungsdienst im Einsatz waren. Am Freitag, 20. November 2026, ereignete sich auf der Westtangente ein Verkehrsunfall, bei …",
-   "source": "Feuerwehr Ratingen",
-   "published": "2026-11-22T12:11:56Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70701/6395500"
-  },
-  {
-   "title": "BPOL NRW: Waffe \"gefunden\" - Bundespolizei nimmt 21-Jährigen fest",
-   "prefix": "",
-   "place": "Essen",
-   "teaser": "In der Nacht von Samstag auf Sonntag (22. November) überprüften Bundespolizisten im Essener Hauptbahnhof einen jungen Mann. Dieser führte eine nicht geladene Schusswaffe mit sich. Gegen 01:35 Uhr bestreiften Bundespolizisten den …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-22T11:34:47Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395487"
-  },
-  {
-   "title": "BPOL NRW: 55-Jähriger verweigert Bundespolizei-Kontrolle",
-   "prefix": "",
-   "place": "Gelsenkirchen",
-   "teaser": "Am Freitagabend (20. November) kontrollierten Bundespolizisten im Hauptbahnhof Gelsenkirchen drei Männer. Zwei davon verhielten sich äußert unkooperativ, beleidigten die Beamten und kamen einem Platzverweis nicht nach. Gegen …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-22T11:29:45Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395484"
-  },
-  {
-   "title": "Oberkassel - Polizisten in Freizeit stellen mutmaßliche Wohnungseinbrecher - Festnahme",
-   "prefix": "POL-D",
-   "place": "Düsseldorf",
-   "teaser": "Tatzeit: Freitag, 20. November 2026, 19:15 Uhr Ein gutes Gespür für verdächtige Personen bewiesen eine Polizeibeamtin und ein Polizeibeamter am Freitagabend in ihrer Freizeit. Ihr aufmerksamer Blick führte sie in Oberkassel …",
-   "source": "Polizei Düsseldorf",
-   "published": "2026-11-22T11:29:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/13248/6395483"
-  },
-  {
-   "title": "BPOL NRW: Bundespolizei stellt Drogen bei 17-Jährigen fest",
-   "prefix": "",
-   "place": "Essen",
-   "teaser": "Am vergangenen Freitagabend (20. November) fanden Bundespolizisten bei einem Minderjährigen im Essener Hauptbahnhof Essen eine größere Menge einer pflanzlichen Droge auf. Gegen 22 Uhr trafen Bundespolizisten im Hauptbahnhof Essen …",
-   "source": "Bundespolizeidirektion Sankt Augustin",
-   "published": "2026-11-22T11:25:19Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/70116/6395481"
+   "title": "Rees - Schädel an einer KiTa in Haldern aufgefunden / Echtheit, Alter und Hintergründe derzeit nicht bekannt / Polizei hat die Ermittlungen aufgenommen",
+   "prefix": "POL-KLE",
+   "place": "Rees",
+   "teaser": "In einer Kindertagesstätte in Rees-Haldern wurde am Montag (23. November 2026) an einem Spielgerüst ein menschlicher Schädel aufgefunden. Die Untersuchungen zur Echtheit dieses Schädels und dem möglichen Alter sind aufgenommen und …",
+   "source": "Kreispolizeibehörde Kleve",
+   "published": "2026-11-23T13:40:03Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65849/6396312"
   }
  ]
 }
