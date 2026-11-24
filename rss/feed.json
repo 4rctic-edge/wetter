@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-23T14:32:46Z",
+ "checked": "2026-11-24T01:52:51Z",
  "items": [
   {
-   "title": "Alt-Hamborn: Seniorin bei Unfall auf Parkplatz verletzt",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Auf dem Parkplatz am Hamborner Altmarkt kam es am Freitagvormittag (20. November, 10:25 Uhr) zu einem Unfall zwischen einem Auto und einer Fußgängerin (68). Die 43 Jahre alte Fahrerin des VW gab an, auf der Suche nach einem …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-23T14:01:41Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6396343"
+   "title": "Wohnungsbrand in Wohn- und Geschäftsgebäude Bewohner verhindern größere Brandausbreitung",
+   "prefix": "FW-RS",
+   "place": "Remscheid",
+   "teaser": "Um 17:50 Uhr wurde die Feuerwehr Remscheid zu einem Brand in einem Wohn- und Geschäftsgebäude alarmiert. Aus bislang ungeklärter Ursache war in einem Zimmer einer Wohnung ein Feuer ausgebrochen. Noch vor dem Eintreffen der …",
+   "source": "Feuerwehr Remscheid",
+   "published": "2026-11-23T23:48:11Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115882/6396489"
   },
   {
-   "title": "Raesfeld-Erle - Unfallflucht begangen",
+   "title": "82-Jähriger in Bielefeld vermisst!",
+   "prefix": "POL-BI",
+   "place": "Bielefeld",
+   "teaser": "LR / Bielefeld / Brackwede - Die Polizei bittet die Öffentlichkeit um Mithilfe, bei der Suche nach einem vermissten 82-jährigen Bielefelder. Die bisherige Suche nach ihm verlief ergebnislos. Er könnte auf dringende medizinische …",
+   "source": "Polizei Bielefeld",
+   "published": "2026-11-23T21:46:43Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12522/6396485"
+  },
+  {
+   "title": "Feuerwehr Bergisch Gladbach lädt Medien zur Jubilarenehrung ein",
+   "prefix": "FW-GL",
+   "place": "Bergisch Gladbach",
+   "teaser": "Langjähriges Engagement im Haupt- und Ehrenamt steht im Mittelpunkt der Feierstunde am Freitag, 27. November 2026. Die Feuerwehr Bergisch Gladbach lädt die Vertreterinnen und Vertreter der Medien herzlich zur …",
+   "source": "Feuerwehr Bergisch Gladbach",
+   "published": "2026-11-23T21:10:18Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116240/6396484"
+  },
+  {
+   "title": "Goch - 1. Folgemeldung nach Verkehrsunfall: 42-Jähriger erleidet tödliche Verletzungen",
+   "prefix": "POL-KLE",
+   "place": "Goch-Pfalzdorf",
+   "teaser": "Am heutigen Montag (23. November 2026) kam es gegen 14:20 Uhr in Goch zu einem Verkehrsunfall (die Erstmeldung finden Sie hier: https://www.presseportal.de/blaulicht/pm/65849/6396362). Ein 42-jähriger Mann befuhr mit einem …",
+   "source": "Kreispolizeibehörde Kleve",
+   "published": "2026-11-23T19:02:37Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65849/6396475"
+  },
+  {
+   "title": "Verkehrsunfall auf der Konrad-Adenauer-Allee - PKW landet auf dem Dach",
+   "prefix": "FW-OB",
+   "place": "Oberhausen",
+   "teaser": "Am heutigen Abend kam es um 18:17 Uhr auf der Konrad-Adenauer-Allee, kurz vor der Kreuzung Essener Straße in Fahrtrichtung Stadtmitte, zu einem Verkehrsunfall zwischen zwei Pkw. Infolge des Zusammenstoßes kam eines der …",
+   "source": "Feuerwehr Oberhausen",
+   "published": "2026-11-23T18:56:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115881/6396474"
+  },
+  {
+   "title": "Abschlussmeldung - schwerer Verkehrsunfall auf der Alfred-Flender-Straße",
    "prefix": "POL-BOR",
-   "place": "Raesfeld",
-   "teaser": "Unfallort: Raesfeld-Erle, Silvesterstraße; Unfallzeit: 23.11.2026, zwischen 09.15 Uhr und 09.40 Uhr; Einen vierstelligen Schaden an einem Pkw verursacht hat ein bislang unbekannter Autofahrer in Raesfeld-Erle. Der Wagen parkte …",
+   "place": "Bocholt - Mussum",
+   "teaser": "Eine 50-jährige Fahrzeugführerin aus Wesel befuhr die Alfred-Flender-Straße aus Hamminkeln kommend in Fahrtrichtung Industriegebiet Mussum. Aus bislang ungeklärten Gründen kam die 50-Jährige auf der Strecke von der …",
    "source": "Kreispolizeibehörde Borken",
-   "published": "2026-11-23T13:58:57Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/24843/6396338"
+   "published": "2026-11-23T18:50:23Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/24843/6396473"
   },
   {
-   "title": "Einbruch in Bäckerei - Polizei sucht Zeugen",
-   "prefix": "POL-HX",
-   "place": "Höxter",
-   "teaser": "Unbekannte Täter sind in eine Bäckereifiliale an der Albaxer Straße/Ecke Zur Lüre in Höxter eingebrochen. In der Zeit von Freitag, 20. November, 17.30 Uhr, bis Samstag, 21. November, 4 Uhr, verschafften sie sich gewaltsam …",
-   "source": "Kreispolizeibehörde Höxter",
-   "published": "2026-11-23T13:58:53Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65848/6396337"
+   "title": "SEK überwältigt Mann in Einfamilienhaus",
+   "prefix": "POL-MI",
+   "place": "Stemwede-Oppenwehe",
+   "teaser": "(TB) Ein Mann, der sich in einem Einfamilienhaus im Asternweg verschanzt hatte, beschäftigte am Montagnachmittag die Polizei. Nachdem Kräfte der hiesigen Polizeibehörde die Situation stabilisieren konnten, …",
+   "source": "Polizei Minden-Lübbecke",
+   "published": "2026-11-23T16:53:58Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43553/6396463"
   },
   {
-   "title": "Einbruch am Grauthoffweg",
-   "prefix": "POL-GT",
-   "place": "Gütersloh",
-   "teaser": "Schloß Holte-Stukenbrock (FK) - Samstagabend (22.11., 14.00 Uhr - 19.30 Uhr) hebelten bislang unbekannte Täter ein Fenster eines Hauses am Grauthoffweg auf. Die Täter gelangten auf die Garage des Hauses und machten sich von …",
-   "source": "Polizei Gütersloh",
-   "published": "2026-11-23T13:57:48Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396336"
+   "title": "Neubau der Polizeiwache Süd-Ost: Feierliche Grundsteinlegung auf dem Baustellengelände",
+   "prefix": "POL-DO",
+   "place": "Dortmund",
+   "teaser": "Ein weiterer Meilenstein bei der Modernisierung der Polizei Dortmund: Am Montag, 23. November 2026, wurde im Rahmen einer feierlichen Veranstaltung der Grundstein für die neue Polizeiwache Süd-Ost gelegt. Zahlreiche …",
+   "source": "Polizei Dortmund",
+   "published": "2026-11-23T16:25:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/4971/6396461"
   },
   {
-   "title": "Gronau - Zwei Einbrüche am Eisenbahnweg",
-   "prefix": "POL-BOR",
-   "place": "Gronau",
-   "teaser": "Zwei Einbrüche haben sich am Sonntag am Eisenbahnweg in Gronau ereignet. Gegen 18.00 Uhr kam es zu einem ersten Einbruch. Hier machten sich die Unbekannten an einer Tür zu schaffen. In das Wohnhaus traten sie nicht ein. Im zweiten …",
-   "source": "Kreispolizeibehörde Borken",
-   "published": "2026-11-23T13:57:28Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/24843/6396333"
+   "title": "FW-Greven: Feuerwehr zu einem Brandereignis und zwei Verkehrsunfällen gerufen.",
+   "prefix": "",
+   "place": "Greven",
+   "teaser": "Die Feuerwehr Greven wurde am Montag, 23. November 2026, um 08:05 Uhr zu einem Verkehrsunfall mit einem Lkw alarmiert. Aus bislang ungeklärter Ursache war das Fahrzeug auf der Airportallee von der Fahrbahn abgekommen und in einem …",
+   "source": "Feuerwehr Greven",
+   "published": "2026-11-23T16:00:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/178564/6396447"
   },
   {
-   "title": "Einfamilienhauseinbruch in der Langen Straße",
-   "prefix": "POL-GT",
-   "place": "Gütersloh",
-   "teaser": "Schloß Holte-Stukenbrock (FK) - Bislang unbekannte Täter hebelten am späten Sonntagabend (22.11., 23.55 Uhr) an mehreren Fenstern eines Einfamilienhauses an der Langen Straße in Stukenbrock. Ob sie das Haus betreten haben ist …",
-   "source": "Polizei Gütersloh",
-   "published": "2026-11-23T13:57:15Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396332"
-  },
-  {
-   "title": "Zwei verletzte Personen nach Frontalzusammenstoß",
-   "prefix": "POL-BO",
-   "place": "Herne",
-   "teaser": "In einem Industriegebiet in Herne-Horsthausen hat sich am Sonntag, 22. November, ein schwerer Verkehrsunfall ereignet, bei dem zwei Personen (34 und 57, aus Herne) verletzt worden sind. Nach bisherigem Stand befuhr eine 57-jährige …",
-   "source": "Polizei Bochum",
-   "published": "2026-11-23T13:55:57Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11530/6396328"
-  },
-  {
-   "title": "Schwerpunktkontrollen Truck & Bus - Polizei im Rhein-Sieg-Kreis ahndet Verstöße im Güterverkehr",
-   "prefix": "POL-SU",
-   "place": "Rhein-Sieg-Kreis",
-   "teaser": "Regelmäßig überprüfen Polizistinnen und Polizisten des Verkehrsdienstes der Polizei Rhein-Sieg gemeinsam mit ihren Kolleginnen und Kollegen der Polizeiwachen Fahrzeuge im gewerblichen Güter- und Personenverkehr. Die …",
-   "source": "Kreispolizeibehörde Rhein-Sieg-Kreis",
-   "published": "2026-11-23T13:52:06Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65853/6396323"
-  },
-  {
-   "title": "Alkohol und Drogen am Steuer - Polizei zieht zahlreiche Fahrer aus dem Verkehr #polsiwi",
-   "prefix": "POL-SI",
-   "place": "Siegen-Wittgenstein",
-   "teaser": "Am vergangenen Wochenende (20. bis 22. November 2026) kontrolliert die Polizei zahlreiche Autofahrerinnen und Autofahrer. Dabei stellt sie mehrfach Alkohol- und Drogeneinfluss fest. In mehreren Fällen kommt es außerdem …",
-   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
-   "published": "2026-11-23T13:47:39Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65854/6396321"
-  },
-  {
-   "title": "Einbruch am Nienkamp",
-   "prefix": "POL-GT",
-   "place": "Gütersloh",
-   "teaser": "Borgholzhausen (FK) - Am Nienkamp sind bislang unbekannte Täter zwischen Sonntag (22.11., 13.00 Uhr) und Montag (23.11., 06.00 Uhr) in eine Fabrik eingebrochen. Die Täter schlugen ein Fenster ein und durchsuchten anschließend …",
-   "source": "Polizei Gütersloh",
-   "published": "2026-11-23T13:47:32Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396320"
-  },
-  {
-   "title": "Kreis Recklinghausen/ Bottrop: Einbrüche - Polizei bittet um Hinweise",
-   "prefix": "POL-RE",
-   "place": "Recklinghausen",
-   "teaser": "Castrop-Rauxel: Nach einem Einbruch an der Straße \"Tönnisheide\" bittet die Polizei um Hinweise. Am Sonntag zwischen 15:15 Uhr und 20:30 Uhr versuchten bislang unbekannte Täter zunächst die Haustür einer Doppelhaushälfte …",
-   "source": "Polizeipräsidium Recklinghausen",
-   "published": "2026-11-23T13:47:27Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/42900/6396319"
-  },
-  {
-   "title": "Wegen des Verdachts des Verstoßes gegen das Waffengesetz - Polizei sucht Tatverdächtigen per Öffentlichkeitsfahndung",
-   "prefix": "POL-MS",
-   "place": "Münster",
-   "teaser": "Nachdem bereits im vergangenen Jahr, am Nachmittag des 19.05.2025 (15:48 Uhr), ein bislang unbekannter Tatverdächtiger in einem Aufzug eines Mehrfamilienhauses in der Straße \"Am Berg Fidel\" eine Waffe gezogen hat, sucht die …",
-   "source": "Polizei Münster",
-   "published": "2026-11-23T13:46:39Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11187/6396318"
-  },
-  {
-   "title": "Beckum. Diebstahl aus Tresor - Bilder vom Tatverdächtigen veröffentlicht - Hinweise erbeten",
+   "title": "Wadersloh. Fahndung nach Vermissten eingestellt",
    "prefix": "POL-WAF",
    "place": "Warendorf",
-   "teaser": "Bereits am Samstag (11.07.2026, 16.25 Uhr) betrat ein unbekannter Tatverdächtiger die Verkaufsräume eines Lebensmittelgeschäftes in Beckum und begab sich unmittelbar in einen unverschlossenen Büroraum. Hier stahl er aus einem …",
+   "teaser": "Die Fahndung nach einem 58-jährigen Wadersloher, der seit Oktober vermisst wurde, ist eingestellt. Der Mann wurde am 23.11.2026 tot aufgefunden. Ursprüngliche Pressemeldung: https://www.presseportal.de/blaulicht/pm/52656/6374144 …",
    "source": "Polizei Warendorf",
-   "published": "2026-11-23T13:44:31Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6396317"
+   "published": "2026-11-23T15:31:22Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/52656/6396437"
   },
   {
-   "title": "Kempen: Unfall auf Kreuzung - eine Person wird verletzt",
-   "prefix": "POL-VIE",
-   "place": "Kempen",
-   "teaser": "Polizei sucht Zeuginnen und Zeugen Der Unfall ereignete sich am Montag gegen 11.45 Uhr an der Kreuzung Kerkener Straße/Kleinbahnstraße in Kempen. Ein Pkw näherte sich der Kreuzung aus Richtung Söderblomstraße, während ein …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-23T13:43:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6396315"
+   "title": "E-Scooter-Fahrer stürzt",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Rietberg (FK) - Ein 52-jähriger Mann stürzte am Sonntag (22.11., 22.09 Uhr) von seinem E-Scooter auf der Stennerlandstraße. Er befuhr zuvor die Straße in Richtung Markenstraße. Der Rietberger wurde mit einem Rettungswagen in …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T15:30:13Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396436"
   },
   {
-   "title": "Rees - Schädel an einer KiTa in Haldern aufgefunden / Echtheit, Alter und Hintergründe derzeit nicht bekannt / Polizei hat die Ermittlungen aufgenommen",
-   "prefix": "POL-KLE",
-   "place": "Rees",
-   "teaser": "In einer Kindertagesstätte in Rees-Haldern wurde am Montag (23. November 2026) an einem Spielgerüst ein menschlicher Schädel aufgefunden. Die Untersuchungen zur Echtheit dieses Schädels und dem möglichen Alter sind aufgenommen und …",
-   "source": "Kreispolizeibehörde Kleve",
-   "published": "2026-11-23T13:40:03Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65849/6396312"
+   "title": "Sechs Brandherde in Mehrfamilienhaus",
+   "prefix": "FW-W",
+   "place": "Wuppertal",
+   "teaser": "In einem Mehrfamilienhaus am Berliner Platz in Oberbarmen hat es am Montagnachmittag (23.11.) in einigen Fluren gebrannt. Brandstiftung ist nicht auszuschließen. Als die Feuerwehr gegen 14:40 Uhr eintraf, war auch von außen …",
+   "source": "Feuerwehr Wuppertal",
+   "published": "2026-11-23T15:09:08Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115885/6396424"
+  },
+  {
+   "title": "Kamen - Grauer Mercedes AMG C 43 entwendet",
+   "prefix": "POL-UN",
+   "place": "Kamen",
+   "teaser": "In der Zeit von Donnerstag (19.11.2026), 23:00 Uhr auf Freitag (20.11.2026), 09:30 Uhr ist in Kamen ein Fahrzeug entwendet worden, dass an der Josef-Rissel-Straße geparkt war. Es handelt sich um einen grauen AMG C 43 des Herstellers …",
+   "source": "Kreispolizeibehörde Unna",
+   "published": "2026-11-23T15:07:54Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65856/6396423"
+  },
+  {
+   "title": "Einbruch an der Chromstraße",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Verl (FK) - Bislang unbekannte Täter brachen zwischen Freitagmittag (20.11., 13.15 Uhr) und Montagmorgen (23.11., 07.00 Uhr) in eine Firma an der Chromstraße ein. Die Täter schlugen eine Scheibe ein und entwendeten …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T15:04:52Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396422"
+  },
+  {
+   "title": "Einbruch an der Chromstraße",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Verl (FK) - Bislang unbekannte Täter brachen zwischen Freitagmittag (20.11., 13.15 Uhr) und Montagmorgen (23.11., 07.00 Uhr) in eine Firma an der Chromstraße ein. Die Täter schlugen eine Scheibe ein und entwendeten …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-23T15:03:12Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6396420"
   }
  ]
 }
