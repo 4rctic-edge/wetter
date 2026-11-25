@@ -1,8 +1,44 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-24T21:30:26Z",
+ "checked": "2026-11-25T04:34:23Z",
  "items": [
+  {
+   "title": "Brand in Kfz-Werkstatt im Industriegebiet Bonn-Dransdorf",
+   "prefix": "FW-BN",
+   "place": "Bonn",
+   "teaser": "Bonn, 24. November 2026 Am Abend des 24. November wurden die Feuerwehr und der Rettungsdienst der Bundesstadt Bonn durch die Polizei zu einem Brand in einer Kfz-Werkstatt in der Siemensstraße im Industriegebiet Bonn-Dransdorf …",
+   "source": "Feuerwehr und Rettungsdienst Bonn",
+   "published": "2026-11-25T00:07:47Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115888/6397308"
+  },
+  {
+   "title": "FW Xanten: PKW brennt auf Parkplatz",
+   "prefix": "",
+   "place": "Xanten",
+   "teaser": "Dienstag, 24.11.2026, 22:56 Uhr - Am späten Dienstagabend wurde die Einheit-Mitte der Feuerwehr Xanten zu einem brennenden PKW auf einem Parkplatz am Westwall alarmiert. Beim Eintreffen der Einsatzkräfte stand der Motorraum des …",
+   "source": "Feuerwehr Xanten",
+   "published": "2026-11-24T23:21:50Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/122220/6397301"
+  },
+  {
+   "title": "Abschlussmeldung - Schwerer Verkehrsunfall - Coesfelder Straße/Zum Homborn",
+   "prefix": "POL-BOR",
+   "place": "Borken",
+   "teaser": "Gegen 16:45 Uhr beabsichtigte ein 62-jähriger Radfahrer aus Borken die Coesfelder Straße in Höhe der Kreuzung Zum Homborn zu überqueren. Im Kreuzungsbereich kam es zur Kollision mit dem Pkw eines 41-jährigen Mann aus Velen, …",
+   "source": "Kreispolizeibehörde Borken",
+   "published": "2026-11-24T21:47:33Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/24843/6397296"
+  },
+  {
+   "title": "Verkehrsunfall in Wanlo: Pkw kommt auf dem Dach zum Liegen",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach Wanlo, 24.11.2026, 14:00 Uhr, Plattenstraße",
+   "teaser": "Am heutigen frühen Nachmittag kam es aus bislang unbekannter Ursache zu einem Verkehrsunfall in der Ortsdurchfahrt Wanlo. Dabei kam ein mit einer Person besetztes Fahrzeug auf …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-24T21:05:21Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6397293"
+  },
   {
    "title": "Brand einer Zimmerdecke in Kirchveischede",
    "prefix": "FW-OE",
@@ -101,42 +137,6 @@
    "source": "Polizeipräsidium Hamm",
    "published": "2026-11-24T14:20:17Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65844/6397232"
-  },
-  {
-   "title": "Öffentlichkeitsfahndung beendet - 16 Jahre alte Jugendliche aus Neuss wurde wohlbehalten angetroffen",
-   "prefix": "POL-NE",
-   "place": "Neuss, Willich",
-   "teaser": "Mit unserer Pressemitteilung vom 23.11.2026 um 15:20 Uhr unter dem Titel \"Öffentlichkeitsfahndung - Polizei bittet um Mithilfe bei der Suche nach einer 16 Jahre alten Jugendlichen aus Neuss\" hatten wir die Öffentlichkeit um …",
-   "source": "Kreispolizeibehörde Rhein-Kreis Neuss",
-   "published": "2026-11-24T14:02:26Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65851/6397209"
-  },
-  {
-   "title": "Kleve - Kollision zwischen Pkw und Schulkind: Polizei sucht zwei Schulkinder und eine Zeugin",
-   "prefix": "POL-KLE",
-   "place": "Kleve",
-   "teaser": "Am heutigen Dienstag (24. November 2026) kam es gegen 07:40 Uhr an der Kreuzung Triftstraße / Albersallee in Kleve zu einer Verkehrsunfallflucht. Eine 23-jährige Person aus Geldern nahm mit einem Pkw (VW Polo) am Straßenverkehr teil …",
-   "source": "Kreispolizeibehörde Kleve",
-   "published": "2026-11-24T14:02:02Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65849/6397208"
-  },
-  {
-   "title": "Brand nach Verpuffung in Labor der Universität Bonn - drei Leichtverletzte",
-   "prefix": "FW-BN",
-   "place": "Bonn",
-   "teaser": "Feuerwehr und Rettungsdienst Bonn wurden am Dienstag kurz vor 12 Uhr zu einem Laborgebäude des Pharmazeutischen Instituts der Universität Bonn auf dem Campus Endenich alarmiert. Die automatische Brandmeldeanlage löste aus. Parallel …",
-   "source": "Feuerwehr und Rettungsdienst Bonn",
-   "published": "2026-11-24T13:57:30Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115888/6397205"
-  },
-  {
-   "title": "Ennigerloh. Ausfall der Sprechstunde beim Bezirksdienst",
-   "prefix": "POL-WAF",
-   "place": "Warendorf",
-   "teaser": "Die Sprechstunde (16 Uhr bis 18 Uhr) des Bezirksdienstes Ennigerloh fällt am Donnerstag (26.11.2026) aus. Rückfragen zur Pressemitteilung bitte an: Polizei Warendorf Pressestelle Telefon: 02581/600-230 Fax: 02581/600-129 E-Mail: …",
-   "source": "Polizei Warendorf",
-   "published": "2026-11-24T13:42:31Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/52656/6397190"
   }
  ]
 }
