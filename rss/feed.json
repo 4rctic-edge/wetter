@@ -1,8 +1,125 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-25T14:54:59Z",
+ "checked": "2026-11-25T23:23:33Z",
  "items": [
+  {
+   "title": "Brand in Mehrfamilienhaus sorgt für Feuerwehreinsatz in Arnsberg",
+   "prefix": "FW-AR",
+   "place": "Arnsberg",
+   "teaser": "Zu einem Wohnungsbrand in einem Mehrfamilienhaus am Tannenweg wurde die Feuerwehr Arnsberg am Mittwochabend, 25. November 2026, um 20:09 Uhr alarmiert. Betroffen war eine Wohnung in der zweiten Etage des Gebäudes. Neben Kräften …",
+   "source": "Feuerwehr der Stadt Arnsberg",
+   "published": "2026-11-25T21:46:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116297/6398068"
+  },
+  {
+   "title": "Fahrzeug kollidiert mit Baum",
+   "prefix": "FW-EN",
+   "place": "Sprockhövel",
+   "teaser": "Am Mittwoch kam ein Fahrzeug auf der Querspange von der Fahrbahn ab und kollidierte mit einem Baum. Gegen 11.40 Uhr wurde die Feuerwehr Sprockhövel alarmiert. Bei Eintreffen der Feuerwehr war die Polizei und der Rettungsdienst …",
+   "source": "Feuerwehr Sprockhövel",
+   "published": "2026-11-25T19:36:05Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/69788/6398060"
+  },
+  {
+   "title": "Hünxe - Schwerer Verkehrsunfall mit schwerverletztem Radfahrer - Rettungshubschrauber im Einsatz",
+   "prefix": "POL-WES",
+   "place": "Wesel",
+   "teaser": "Am Mittwoch, den 25.011.2026, gegen 14.45 Uhr, befuhr ein 41-jähriger Pkw-Fahrer aus Xanten in Hünxe die Weseler Straße, aus Richtung der BAB A3 kommend, in Fahrtrichtung Hindenburgstraße und beabsichtigte nach rechts auf die …",
+   "source": "Kreispolizeibehörde Wesel",
+   "published": "2026-11-25T19:34:52Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65858/6398059"
+  },
+  {
+   "title": "Tönisvorst- St. Tönis: Pkw gerät in den Gegenverkehr - drei Verletzte",
+   "prefix": "POL-VIE",
+   "place": "Tönisvorst- St. Tönis",
+   "teaser": "Der Verkehrsunfall ereignete sich am Mittwochnachmittag auf dem Südring in St. Tönis zwischen der Vorster Straße und der Düsseldorfer Straße. Gegen 16:00 Uhr war ein 50-jähriger Krefelder zusammen mit seiner …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-25T18:57:55Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398057"
+  },
+  {
+   "title": "FW-Schermbeck: Zwei Einsätze für den Löschzug Altschermbeck",
+   "prefix": "",
+   "place": "Schermbeck",
+   "teaser": "Der Löschzug Altschermbeck wurde zu zwei Einsätzen alarmiert. Am 18.11.2026 erfolgte um 12:15 Uhr eine Alarmierung mit dem Einsatzstichwort \"Ölspur\" zum Hufenkampweg. Dort streuten die Einsatzkräfte eine Ölspur mit …",
+   "source": "Feuerwehr Schermbeck",
+   "published": "2026-11-25T17:50:04Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/118232/6398052"
+  },
+  {
+   "title": "Nach Tankstellenüberfall in Baesweiler: Polizei Aachen fahndet nach zwei Tatverdächtigen",
+   "prefix": "POL-AC",
+   "place": "StädteRegion Aachen/ Baesweiler",
+   "teaser": "Nach einem Überfall auf eine Tankstelle an der Aachener Straße in Baesweiler am Samstagabend (21.11.26) sucht die Polizei Aachen nach zwei bislang unbekannten Tatverdächtigen. Gegen 20:30 Uhr hatte ein …",
+   "source": "Polizei Aachen",
+   "published": "2026-11-25T15:10:51Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11559/6398019"
+  },
+  {
+   "title": "Schneller Fahndungserfolg nach Tankbetrug",
+   "prefix": "POL-MI",
+   "place": "Porta Westfalica",
+   "teaser": "(SN) Wegen eines gemeldeten Tankbetruges wurden die Beamten am späten Montagabend zum Autohof nach Vennebeck gerufen. Im Zuge dessen berichtete man den Einsatzkräften, dass der Fahrer eines Audi gegen 23.30 Uhr aufgefallen …",
+   "source": "Polizei Minden-Lübbecke",
+   "published": "2026-11-25T15:02:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43553/6398015"
+  },
+  {
+   "title": "FW Lage: Verkehrsunfall auf der Pivitsheider Straße",
+   "prefix": "",
+   "place": "Lage",
+   "teaser": "Am Mittwochnachmittag wurde die Feuerwehr Lage um 14:47 Uhr unter dem Stichwort \"TH-P Klemmt\" zu einem Verkehrsunfall auf der Pivitsheider Straße alarmiert. Laut Alarmierung sollte sich ein Fahrzeug überschlagen haben. Beim Eintreffen …",
+   "source": "Freiwillige Feuerwehr Lage",
+   "published": "2026-11-25T14:59:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/117388/6398014"
+  },
+  {
+   "title": "Rheine, Verkehrsunfallflucht",
+   "prefix": "POL-ST",
+   "place": "Rheine",
+   "teaser": "Am Montag (23.11.) ist es am Friedrich-Ebert-Ring zu einer Verkehrsunfallflucht gekommen. Ein Land Rover Defender parkte auf Höhe der Hausnummer 145 in der Zeit zwischen 08.00 Uhr und 12.00 Uhr ordnungsgemäß am rechten …",
+   "source": "Polizei Steinfurt",
+   "published": "2026-11-25T14:53:25Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43526/6398007"
+  },
+  {
+   "title": "Autoreifen aus dem Kellerflur gestohlen",
+   "prefix": "POL-BI",
+   "place": "Bielefeld",
+   "teaser": "FR / Bielefeld / Mitte - Aus dem Keller eines Mehrparteienhauses an der Teichstraße, in Höhe Friedrichstraße, stahlen Unbekannte zwischengelagerte Autoreifen. Die Polizei sucht Zeugen. Am Dienstagnachmittag erstattete eine …",
+   "source": "Polizei Bielefeld",
+   "published": "2026-11-25T14:50:24Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12522/6398006"
+  },
+  {
+   "title": "Obermarxloh: Kleinkraftrad gestohlen und angezündet - Zeugensuche",
+   "prefix": "POL-DU",
+   "place": "Duisburg",
+   "teaser": "Einsatzkräfte der Polizei und der Feuerwehr waren am Dienstagabend (24. November, 21:30 Uhr) an der Hauffstraße/Goethestraße im Einsatz, weil ein Kleinkraftrad in Flammen stand. Die Feuerwehr löschte den Brand. Polizisten fanden …",
+   "source": "Polizei Duisburg",
+   "published": "2026-11-25T14:45:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398001"
+  },
+  {
+   "title": "Polizeikontrollen gegen Handy-Nutzung am Steuer - 43 Verstöße festgestellt",
+   "prefix": "POL-SI",
+   "place": "Siegen / Kreuztal",
+   "teaser": "Die Handynutzung während der Fahrt ist immer ein Risiko. Aus gutem Grund ist es verboten das Handy während der Fahrt zu nutzen. Das gilt sogar bei stehenden Fahrzeugen, deren Motor nicht vollständig ausgeschaltet ist. …",
+   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
+   "published": "2026-11-25T14:38:43Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65854/6397996"
+  },
+  {
+   "title": "Duissern: Polizei findet zahlreiche Drogen und Waffen bei Durchsuchung",
+   "prefix": "POL-DU",
+   "place": "Duisburg",
+   "teaser": "Durch akribische Ermittlungsarbeit kam die Polizei Duisburg auf die Spur eines 43-jährigen mutmaßlichen Drogendealers und durchsuchte am Montagnachmittag (23. November, 15:30 Uhr) die Wohnung des Mannes und seiner Lebensgefährtin …",
+   "source": "Polizei Duisburg",
+   "published": "2026-11-25T14:27:59Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6397982"
+  },
   {
    "title": "Viersen-Süchteln: Dodge RAM gestohlen - Polizei sucht Hinweise",
    "prefix": "POL-VIE",
@@ -20,123 +137,6 @@
    "source": "Kreispolizeibehörde Viersen",
    "published": "2026-11-25T14:22:18Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65857/6397978"
-  },
-  {
-   "title": "Viersen-Dülken: Mülltonnenbrand - Hinweise bitte an die Polizei",
-   "prefix": "POL-VIE",
-   "place": "Viersen-Dülken",
-   "teaser": "Am 24. November 2026 gegen 18:30 Uhr hat eine Mülltonne auf einem Schulgelände in der Kettelerstraße in Viersen-Dülken gebrannt. Der Brand Passanten löschten den Brand, bevor die Feuerwehr eintraf. Hinweis zum Brand …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-25T14:21:54Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6397977"
-  },
-  {
-   "title": "Bei einer Verkehrskontrolle nimmt die Polizei einen 37-Jährigen mit Haftbefehl wegen Totschlag fest",
-   "prefix": "POL-DO",
-   "place": "Dortmund",
-   "teaser": "Gemeinsame Pressemitteilung der Staatsanwaltschaft Dortmund und der Polizei Dortmund Am 25.11.2026 nahmen Einsatzkräfte der Polizei Dortmund um 00:30 Uhr einen Mann fest, der wegen zweifach versuchtem Totschlag …",
-   "source": "Polizei Dortmund",
-   "published": "2026-11-25T14:20:27Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/4971/6397975"
-  },
-  {
-   "title": "RS Senior um hohen Geldbetrag betrogen",
-   "prefix": "POL-W",
-   "place": "Wuppertal",
-   "teaser": "Gestern (24.11.2026, 16:30 Uhr) betrogen bislang Unbekannte einen Senior um einen größeren Bargeldbetrag in Remscheid. Ein Mann mit einem ausländischen Akzent meldete sich telefonisch bei einem 85-Jährigen und gab sich als …",
-   "source": "Polizei Wuppertal",
-   "published": "2026-11-25T14:14:21Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11811/6397972"
-  },
-  {
-   "title": "Zeugen zu Diebstählen aus Kraftfahrzeugen gesucht",
-   "prefix": "POL-PB",
-   "place": "Hövelhof",
-   "teaser": "(ivdh) Im November beschädigten Unbekannte mehrere geparkte Fahrzeuge in Hövelhof, um Wertsachen daraus zu stehlen. Die Polizei sucht Zeugen. Zuletzt schlugen die bislang unbekannten Täter in der Nacht von Montag, 23. November, …",
-   "source": "Polizei Paderborn",
-   "published": "2026-11-25T14:13:31Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/55625/6397971"
-  },
-  {
-   "title": "Tödlich verletzter Autofahrer und schwerverletzte Autofahrerin nach Unfall im Kreuzungsbereich",
-   "prefix": "POL-PB",
-   "place": "Bad Wünnenberg-Haaren",
-   "teaser": "(mh) Tödlich verletzt wurde ein 23-jähriger Autofahrer am Mittwochmorgen, 25. November, bei einem Unfall im Kreuzungsbereich des Hirschweg mit der L636 zwischen Bad Wünnenberg-Haaren und Fürstenberg. Eine …",
-   "source": "Polizei Paderborn",
-   "published": "2026-11-25T14:07:30Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/55625/6397968"
-  },
-  {
-   "title": "Brand in einem Parkhaus an der Leopoldstraße",
-   "prefix": "FW-DO",
-   "place": "Dortmund",
-   "teaser": "Die Feuerwehr Dortmund wurde heute Mittag um 12:30 Uhr zu einem Parkhaus in die Leopoldstraße alarmiert. Dort wurde durch Passanten brennender Unrat sowie eine starke Rauchentwicklung in der Zufahrt zu einem Parkhaus gemeldet. Bei …",
-   "source": "Feuerwehr Dortmund",
-   "published": "2026-11-25T14:04:14Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115869/6397964"
-  },
-  {
-   "title": "261125-4-K Verdächtiger lässt Drogen bei Fluchtversuch fallen - Mutmaßlicher Kokaindealer festgenommen und in Haft",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "Die Polizei Köln hat am Montag (23. November) im Treppenhaus einer Gaststätte an der Berliner Straße in Mülheim unverhofft einen 23 Jahre alten und, wie sich dann herausstellte, mutmaßlichen Drogendealer angetroffen. Angesichts …",
-   "source": "Polizei Köln",
-   "published": "2026-11-25T14:02:03Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6397963"
-  },
-  {
-   "title": "Bergisch Gladbach - Orangefarbene Bank als Signal mit klarer Botschaft: Auch in Bergisch Gladbach ist kein Platz für Gewalt an Frauen!",
-   "prefix": "POL-RBK",
-   "place": "Bergisch Gladbach",
-   "teaser": "Laut Bundeslagebild des Bundeskriminalamtes wurden im Jahr 2025 bundesweit über 280.000 Menschen Opfer von Häuslicher Gewalt, was gegenüber dem Vorjahr einen Anstieg um fast 3 Prozent bedeutet. Fast 300 Menschen kamen im …",
-   "source": "Polizei Rheinisch-Bergischer Kreis",
-   "published": "2026-11-25T13:58:59Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/62459/6397961"
-  },
-  {
-   "title": "Durchsuchungen und vier Festnahmen - Ermittlungskommission der Polizei Münster ermittelt wegen bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge",
-   "prefix": "POL-MS",
-   "place": "Münster",
-   "teaser": "Gemeinsame Pressemitteilung der Staatsanwaltschaft Münster und der Polizei Münster Nach einem halben Jahr intensiver Ermittlungen von Staatsanwaltschaft Münster und einer gesonderten Ermittlungskommission des hiesigen …",
-   "source": "Polizei Münster",
-   "published": "2026-11-25T13:50:53Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11187/6397958"
-  },
-  {
-   "title": "Unbekannte brechen Wohnmobil auf",
-   "prefix": "POL-MI",
-   "place": "Bad Oeynhausen",
-   "teaser": "(SN) Bisher unbekannte Täter sind in der Nacht zu Dienstag an der Steinstraße in ein Wohnmobil eingebrochen. Die Polizei sucht nach Zeugen. So verschafften sich die Unbekannten den Erkenntnissen zufolge im Zeitraum …",
-   "source": "Polizei Minden-Lübbecke",
-   "published": "2026-11-25T13:45:36Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43553/6397951"
-  },
-  {
-   "title": "Senden, Siemensstraße/Unbekannte entwenden Stromkabel von Baustelle",
-   "prefix": "POL-COE",
-   "place": "Coesfeld",
-   "teaser": "Unbekannte Täter haben in Senden ca. 50 Meter Starkstromkabel von einer Baustelle an der Siemensstraße gestohlen. Eine Stahltür einer im Bau befindlichen Lagerhalle hatte einem Aufbruchsversuch zunächst standgehalten und wurde …",
-   "source": "Polizei Coesfeld",
-   "published": "2026-11-25T13:35:05Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/6006/6397938"
-  },
-  {
-   "title": "Groß-Reken - Diebstahl aus zwei Pkw",
-   "prefix": "POL-BOR",
-   "place": "Reken",
-   "teaser": "Tatort: Groß-Reken, An der Koppel; Tatzeit: zwischen 24.11.2026, 16.00 Uhr, und 25.11.2026, 06.00 Uhr; Zwei Kindersitze und eine Geldbörse aus zwei Fahrzeugen entwendet haben bislang unbekannte Täter in Groß-Reken. Zwischen …",
-   "source": "Kreispolizeibehörde Borken",
-   "published": "2026-11-25T13:32:06Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/24843/6397935"
-  },
-  {
-   "title": "261125-3: Seniorin in Wohnung bestohlen - Zeugensuche",
-   "prefix": "POL-REK",
-   "place": "Brühl",
-   "teaser": "Täter hielt Dame fest während Komplizin nach Wertsachen suchte Die Polizei Rhein-Erft-Kreis fahndet nach einem Täterduo, das am Dienstagabend (24. November) in Brühl eine Seniorin in ihrer Wohnung überfallen haben soll. Der Mann …",
-   "source": "Polizei Rhein-Erft-Kreis",
-   "published": "2026-11-25T13:31:44Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/10374/6397934"
   }
  ]
 }
