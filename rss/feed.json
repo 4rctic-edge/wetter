@@ -1,8 +1,17 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-25T23:23:33Z",
+ "checked": "2026-11-26T05:13:56Z",
  "items": [
+  {
+   "title": "Öffentlichkeitsfahndung nach vermisster 68-jähriger Frau aus Verl",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "Verl (HL) - Seit den Mittagsstunden des 24.11.2026 wird eine 68-jährige Frau aus Verl vermisst. Weitere Informationen sowie das Bild der vermissten 68-Jährigen sind auf dem landesweiten Fahndungsportal der Polizei NRW …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-25T23:02:46Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6398074"
+  },
   {
    "title": "Brand in Mehrfamilienhaus sorgt für Feuerwehreinsatz in Arnsberg",
    "prefix": "FW-AR",
@@ -128,15 +137,6 @@
    "source": "Kreispolizeibehörde Viersen",
    "published": "2026-11-25T14:23:37Z",
    "link": "https://www.presseportal.de/blaulicht/pm/65857/6397980"
-  },
-  {
-   "title": "Nettetal-Breyell: Einbruch in Einfamilienhaus - Hinweise bitte an die Polizei",
-   "prefix": "POL-VIE",
-   "place": "Nettetal-Breyell",
-   "teaser": "Am 24. November 2026 hat im Zeitraum zwischen 12 Uhr und 15 Uhr mindestens ein Unbekannter in ein Einfamilienhaus auf der Josefstraße in Nettetal-Breyell eingebrochen. Er verschaffte sich über ein Fenster neben dem …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-25T14:22:18Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6397978"
   }
  ]
 }
