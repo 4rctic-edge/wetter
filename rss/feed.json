@@ -1,8 +1,125 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-26T15:13:47Z",
+ "checked": "2026-11-26T23:50:49Z",
  "items": [
+  {
+   "title": "Wohnungsbrand in der Goethestraße - eine Person verletzt Feuerwehr Gladbeck im Einsatz: Bewohnerin mit Rauchgasvergiftung ins Krankenhaus gebracht",
+   "prefix": "FW-GLA",
+   "place": "Gladbeck",
+   "teaser": "Am heutigen Abend um 19:40 Uhr wurde die Feuerwehr Gladbeck zu einem Wohnungsbrand mit Menschenleben in Gefahr in die Goethestraße alarmiert. Mehrere Anrufer meldeten der Kreisleitstelle in Recklinghausen, dass Flammen aus einem …",
+   "source": "Feuerwehr Gladbeck",
+   "published": "2026-11-26T21:20:42Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/117806/6398832"
+  },
+  {
+   "title": "Nachtrag zu der Pressemitteilung \"Verdächtige Postsendung mit weißem Pulver im Gerichtsgebäude\"",
+   "prefix": "POL-SI",
+   "place": "Bad Berleburg",
+   "teaser": "Die zum Gerichtsgebäude gerufene Spezialeinheit der Feuerwehr hat das verdächtige Pulver der Postsendung abschließend untersucht. Im Ergebnis ging keine Gefahr davon aus. Es handelt sich um ein zuckerähnliches Gemisch, das …",
+   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
+   "published": "2026-11-26T20:38:07Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65854/6398828"
+  },
+  {
+   "title": "Öllache durch defekten LKW",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach - Am Wasserturm, 26.11.2026, 16:30 Uhr, Hermann-Piecq-Anlage",
+   "teaser": "Heute rückte die Feuerwehr zu einem Ölunfall auf der Hermann-Piecq-Anlage aus. An einem Lkw war durch einen Defekt das komplette Getriebeöl ausgelaufen. Die …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-26T19:51:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6398826"
+  },
+  {
+   "title": "Küchenbrand in Mülheim-Styrum",
+   "prefix": "FW-MH",
+   "place": "Mülheim an der Ruhr",
+   "teaser": "Am Donnerstag, 26.11.2026, wurde die Feuerwehr Mülheim an der Ruhr zu einem Brandeinsatz im Stadtteil Styrum alarmiert. Aufmerksame Nachbarn an der Moritzstraße hatten Rauch und Flammen aus einer Wohnung eines …",
+   "source": "Feuerwehr Mülheim an der Ruhr",
+   "published": "2026-11-26T19:02:45Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115880/6398823"
+  },
+  {
+   "title": "PKW-Brand in der Letmather Innenstadt",
+   "prefix": "FW-MK",
+   "place": "Iserlohn",
+   "teaser": "Heute Morgen um 08:58 Uhr wurde die Feuerwehr Iserlohn zu einem PKW-Brand in die Letmather Innenstadt gerufen. In einer Parklücke brannte ein Kleinwagen. Ein Trupp ging unter Atemschutz vor und konnte das Feuer schnell unter …",
+   "source": "Feuerwehr Iserlohn",
+   "published": "2026-11-26T18:27:58Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116234/6398821"
+  },
+  {
+   "title": "261126-3-K/REK Männliche Leiche in leerstehender Schule gefunden - Mordkommission ermittelt",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Staatsanwaltschaft und Polizei Köln geben bekannt: Am Donnerstag (26. November) gegen 15.30 Uhr hat die Polizei im Rhein-Erft-Kreis einen Hinweis erhalten, demzufolge in einer leerstehenden Schule in Bergheim-Niederaußem eine Leiche …",
+   "source": "Polizei Köln",
+   "published": "2026-11-26T18:22:17Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6398820"
+  },
+  {
+   "title": "Kaminbrand auf der Grürmannsheide",
+   "prefix": "FW-MK",
+   "place": "Iserlohn",
+   "teaser": "Am Dienstagmorgen um 07:04 Uhr wurde die Feuerwehr Iserlohn zu einem gemeldeten Kaminbrand auf der Grürmannsheide alarmiert. Anwohner bemerkten Brandgeruch im Haus und ein Rauschen aus dem Schornstein. Beim Nachsehen von draußen …",
+   "source": "Feuerwehr Iserlohn",
+   "published": "2026-11-26T18:10:12Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116234/6398817"
+  },
+  {
+   "title": "Verdächtige Postsendung mit weißem Pulver im Gerichtsgebäude",
+   "prefix": "POL-SI",
+   "place": "Bad Berleburg",
+   "teaser": "Am frühen Donnerstag-Nachmittag (26.11.2026) geht beim Amtsgericht Bad Berleburg eine Postsendung ein, die einen Beutel mit weißem Pulver enthält. Das unbekannte Pulver wird als verdächtiger Gegenstand eingestuft. Zur …",
+   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
+   "published": "2026-11-26T15:46:15Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65854/6398804"
+  },
+  {
+   "title": "Verkehrsunfallfluchten aus dem Kreisgebiet",
+   "prefix": "POL-ME",
+   "place": "Hilden",
+   "teaser": "In den vergangenen Tagen registrierte die Polizei im Kreis Mettmann folgende Verkehrsunfallfluchten: - Eine Verkehrsunfallflucht ist kein Kavaliersdelikt, sondern eine Straftat! - Melden Sie Verkehrsunfallfluchten unverzüglich bei …",
+   "source": "Polizei Mettmann",
+   "published": "2026-11-26T15:06:41Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43777/6398790"
+  },
+  {
+   "title": "Bad Honnef/Duisburg: Manövrierunfähige Motoryacht sorgt für Einsatz der Wasserschutzpolizei",
+   "prefix": "POL-BN",
+   "place": "Duisburg/Bonn/Bad Honnef",
+   "teaser": "Wir teilen für das Polizeipräsidium Duisburg folgende Pressemitteilung: Beamte der Wasserschutzpolizeiwache Bonn waren am Dienstag (24. November) auf dem Rhein (Rheinkilometer 642,7) bei Bad Honnef wegen einer …",
+   "source": "Polizei Bonn",
+   "published": "2026-11-26T14:57:13Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/7304/6398783"
+  },
+  {
+   "title": "Beeck: Auto gestohlen - Polizei fasst mutmaßlichen Dieb",
+   "prefix": "POL-DU",
+   "place": "Duisburg",
+   "teaser": "Als ein Mann (56) am Mittwochmorgen (25. November, 9:15 Uhr) seinen grauen VW Passat mit laufendem Motor auf der Oderstraße kurz aus den Augen ließ, nutzten drei Unbekannte die Gelegenheit das Auto zu stehlen. Der 56-Jährige …",
+   "source": "Polizei Duisburg",
+   "published": "2026-11-26T14:56:12Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398782"
+  },
+  {
+   "title": "Serie von Autoaufbrüchen in Dortmund-Hombruch und in der Gartenstadt - Polizei sucht Zeugen und gibt Präventionshinweise",
+   "prefix": "POL-DO",
+   "place": "Dortmund",
+   "teaser": "In der Nacht auf Dienstag (24. November) kam es im Bereich Dortmund-Hombruch zu bislang 23 bekannt gewordenen Autoaufbrüchen. Die Polizei sucht nun Zeugen. Ersten Ermittlungen zufolge haben bislang unbekannte Täter …",
+   "source": "Polizei Dortmund",
+   "published": "2026-11-26T14:51:57Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/4971/6398779"
+  },
+  {
+   "title": "Steinfurt, Diebstahl von Baustelle",
+   "prefix": "POL-ST",
+   "place": "Steinfurt",
+   "teaser": "In der Nacht von Mittwoch (25.11) auf Donnerstag (26.11.) haben sich Unbekannte Zutritt zu einer Baustelle an der Straße In der Sandkuhle verschafft. Die Täter betraten das Gelände in der Zeit zwischen Mittwochabend, 17.30 Uhr …",
+   "source": "Polizei Steinfurt",
+   "published": "2026-11-26T14:46:22Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43526/6398776"
+  },
   {
    "title": "Mettingen, Einbruch in Einfamilienhaus",
    "prefix": "POL-ST",
@@ -20,123 +137,6 @@
    "source": "Polizei Gütersloh",
    "published": "2026-11-26T14:41:20Z",
    "link": "https://www.presseportal.de/blaulicht/pm/23127/6398772"
-  },
-  {
-   "title": "Wedau: Fahrraddiebstahl - mutmaßlicher Tatverdächtiger gestellt",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Ein Anwohner verständigte die Polizei, weil ein zunächst Unbekannter in der Nacht auf Mittwoch (25. November, 03:49 Uhr) ein Fahrrad von der Straße Zur Wolfskuhl entwendet hatte. Der Zeuge hörte verdächtige Geräusche, blickte …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-26T14:35:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398767"
-  },
-  {
-   "title": "Betrugsverdacht: Mit erfundener Notlage um Geld gebracht? 67-Jährige vorläufig festgenommen",
-   "prefix": "POL-OB",
-   "place": "Oberhausen",
-   "teaser": "Am Mittwoch (25.11.) verständigte eine Mitarbeiterin der Stadtsparkasse Oberhausen die Polizei, nachdem ihr das Anliegen eines 77-jährigen Kunden verdächtig vorgekommen war. Dieser hatte im Rahmen eines Beratungsgesprächs um …",
-   "source": "Polizeipräsidium Oberhausen",
-   "published": "2026-11-26T14:30:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/62138/6398761"
-  },
-  {
-   "title": "Dorsten: Polizei sucht 14-jährige Vermisste",
-   "prefix": "POL-RE",
-   "place": "Recklinghausen",
-   "teaser": "Die Polizei bittet um Mithilfe bei der Suche nach einer Vermissten. Die 14-Jährige hat bereits Anfang November ihr Zuhause in Dorsten verlassen. In der vergangenen Woche wurde sie als vermisst gemeldet. Die bisherigen …",
-   "source": "Polizeipräsidium Recklinghausen",
-   "published": "2026-11-26T14:27:21Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/42900/6398759"
-  },
-  {
-   "title": "Bad Honnef/Duisburg: Manövrierunfähige Motoryacht sorgt für Einsatz der Wasserschutzpolizei",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Beamte der Wasserschutzpolizeiwache Bonn waren am Dienstag (24. November) auf dem Rhein (Rheinkilometer 642,7) bei Bad Honnef wegen einer manövrierunfähigen Motoryacht im Einsatz. Nach bisherigen Erkenntnissen führte ein …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-26T14:25:21Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398757"
-  },
-  {
-   "title": "Hattingen: Wache Hattingen erst wieder ab dem 27.11.2026 erreichbar",
-   "prefix": "POL-EN",
-   "place": "Hattingen",
-   "teaser": "Derzeit gibt es eine Telefonstörung, die die Polizeiwache in Hattingen betrifft. Diese ist derzeit telefonisch nicht erreichbar. Das Problem kann erst morgen (27.11.2026) behoben werden. In dringenden Fällen ist zwingend die 110 …",
-   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
-   "published": "2026-11-26T14:24:36Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12726/6398753"
-  },
-  {
-   "title": "Bedrohung mit Schusswaffen: Polizei nimmt 49-jährigen Tatverdächtigen vorläufig fest",
-   "prefix": "POL-SU",
-   "place": "Siegburg",
-   "teaser": "Am Abend des 12. November 2026 soll ein Mann im Bereich der Abfahrt der Bundesstraße 56 (B 56) zur Luisenstraße in Siegburg von mehreren Personen in Fahrzeugen angehalten und unter Vorhalt von Schusswaffen bedroht worden sein. Die …",
-   "source": "Kreispolizeibehörde Rhein-Sieg-Kreis",
-   "published": "2026-11-26T14:14:39Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65853/6398746"
-  },
-  {
-   "title": "\"Wir warten nicht, bis Kinder zu Opfern werden.\" - LKA NRW fahndet aktiv nach Sexualstraftätern im Netz. Länderübergreifender Action Day gegen Cybergrooming",
-   "prefix": "LKA-NRW",
-   "place": "Düsseldorf",
-   "teaser": "**Ermittlerinnen und Ermittler fahnden gezielt nach Personen, die im Internet mit sexuellen Absichten Kontakt zu Kindern aufnehmen - LKA NRW erhöht mit länderübergreifendem Action Day den Verfolgungsdruck auf …",
-   "source": "Landeskriminalamt Nordrhein-Westfalen",
-   "published": "2026-11-26T14:12:10Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/58451/6398744"
-  },
-  {
-   "title": "Bergkamen/Kamen - Mehrere Verkehrskontrollen",
-   "prefix": "POL-UN",
-   "place": "Bergkamen/Kamen",
-   "teaser": "Im Rahmen einer Verkehrskontrolle konnten Polizeibeamte der Wache Kamen am Mittwoch, 25.11.2026, folgende Verstöße rund um die Werner Straße/Am Roggenkamp, Schul- und Bahnhofstraße in Bergkamen sowie Kamen feststellen: In …",
-   "source": "Kreispolizeibehörde Unna",
-   "published": "2026-11-26T13:58:10Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65856/6398731"
-  },
-  {
-   "title": "261126-2-K Drogen, Messer und gefälschte Markenartikel sichergestellt - Schwerpunktkontrollen \"Fokus Sicherheit\"",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "Mit knapp 100 Einsatzkräften hat die Polizei Köln im Rahmen des Projekts \"Fokus Sicherheit\" am Mittwochabend (25. November) Gewerbebetriebe, Personen und Fahrzeuge kontrolliert. Mitarbeitende des Ordnungsamtes der Stadt Köln …",
-   "source": "Polizei Köln",
-   "published": "2026-11-26T13:54:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6398729"
-  },
-  {
-   "title": "Brüggen: Frontalzusammenstoß zweier Radfahrender",
-   "prefix": "POL-VIE",
-   "place": "Brüggen",
-   "teaser": "Am Mittwochmorgen sind zwei Radfahrer gegen 07:30 Uhr miteinander kollidiert. Dabei hat sich eine 26-jährige Brüggenerin leicht verletzt. Die Polizei sucht nun nach dem anderen Radfahrer sowie einem Busfahrer, der ein wichtiger …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-26T13:53:51Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398727"
-  },
-  {
-   "title": "Kreis Viersen: Seniorin erkennt Telefonbetrug und legt auf!",
-   "prefix": "POL-VIE",
-   "place": "Kreis Viersen",
-   "teaser": "Eine Seniorin aus dem Kreis Viersen hat einen Telefonbetrug entlarvt und genau richtig reagiert: Sie hat aufgelegt! Die Frau erhielt am Mittwochnachmittag einen Anruf auf ihrem Festnetztelefon. Es meldete sich ein …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-26T13:53:04Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398726"
-  },
-  {
-   "title": "Pkw kommt von Straße ab - Fahrer leicht verletzt",
-   "prefix": "POL-HX",
-   "place": "Borgentreich",
-   "teaser": "Am Mittwoch, 25. November, kam es auf der K 55 zwischen Borgentreich-Borgholz und Natingen zu einem Verkehrsunfall. Dabei erlitt ein 23-jähriger Mann leichte Verletzungen. Gegen 5.35 Uhr war der junge Fahrer mit seinem VW in …",
-   "source": "Kreispolizeibehörde Höxter",
-   "published": "2026-11-26T13:47:52Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65848/6398719"
-  },
-  {
-   "title": "Born / Süchteln: Zwei Einbrüche in Einfamilienhäuser",
-   "prefix": "POL-VIE",
-   "place": "Born / Süchteln",
-   "teaser": "In den vergangenen Tagen sind unbekannte Personen in zwei Einfamilienhäuser eingebrochen. Ein Einbruch ereignete sich in Brüggen, der andere in Süchteln. Zwischen dem 24. November, 14:30 Uhr, und dem 25. November, 14:10 …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-26T13:44:01Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398715"
   }
  ]
 }
