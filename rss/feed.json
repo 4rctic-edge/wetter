@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-26T05:13:56Z",
+ "checked": "2026-11-26T15:13:47Z",
  "items": [
   {
-   "title": "Öffentlichkeitsfahndung nach vermisster 68-jähriger Frau aus Verl",
+   "title": "Mettingen, Einbruch in Einfamilienhaus",
+   "prefix": "POL-ST",
+   "place": "Mettingen",
+   "teaser": "Am Donnerstag (26.11.) sind Unbekannte zwischen 01.00 Uhr und 08.15 Uhr in ein Einfamilienhaus an der Fangkampstraße eingestiegen. Das Haus liegt zwischen der Droste-Hülshoff-Straße und der Wagenfeldstraße. Die Täter hebelten …",
+   "source": "Polizei Steinfurt",
+   "published": "2026-11-26T14:43:35Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/43526/6398774"
+  },
+  {
+   "title": "Fahrzeugbrand in Rietberg",
    "prefix": "POL-GT",
    "place": "Gütersloh",
-   "teaser": "Verl (HL) - Seit den Mittagsstunden des 24.11.2026 wird eine 68-jährige Frau aus Verl vermisst. Weitere Informationen sowie das Bild der vermissten 68-Jährigen sind auf dem landesweiten Fahndungsportal der Polizei NRW …",
+   "teaser": "Rietberg (FK) - Polizei und Feuerwehr wurden Donnerstagmorgen (26.11. 07.04 Uhr) über einen Fahrzeugbrand vor einem Mehrfamilienhaus am Emsbruch informiert. Die Flammen wurden von der Feuerwehr gelöscht. Im Zuge des Brandes …",
    "source": "Polizei Gütersloh",
-   "published": "2026-11-25T23:02:46Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6398074"
+   "published": "2026-11-26T14:41:20Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6398772"
   },
   {
-   "title": "Brand in Mehrfamilienhaus sorgt für Feuerwehreinsatz in Arnsberg",
-   "prefix": "FW-AR",
-   "place": "Arnsberg",
-   "teaser": "Zu einem Wohnungsbrand in einem Mehrfamilienhaus am Tannenweg wurde die Feuerwehr Arnsberg am Mittwochabend, 25. November 2026, um 20:09 Uhr alarmiert. Betroffen war eine Wohnung in der zweiten Etage des Gebäudes. Neben Kräften …",
-   "source": "Feuerwehr der Stadt Arnsberg",
-   "published": "2026-11-25T21:46:57Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/116297/6398068"
-  },
-  {
-   "title": "Fahrzeug kollidiert mit Baum",
-   "prefix": "FW-EN",
-   "place": "Sprockhövel",
-   "teaser": "Am Mittwoch kam ein Fahrzeug auf der Querspange von der Fahrbahn ab und kollidierte mit einem Baum. Gegen 11.40 Uhr wurde die Feuerwehr Sprockhövel alarmiert. Bei Eintreffen der Feuerwehr war die Polizei und der Rettungsdienst …",
-   "source": "Feuerwehr Sprockhövel",
-   "published": "2026-11-25T19:36:05Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/69788/6398060"
-  },
-  {
-   "title": "Hünxe - Schwerer Verkehrsunfall mit schwerverletztem Radfahrer - Rettungshubschrauber im Einsatz",
-   "prefix": "POL-WES",
-   "place": "Wesel",
-   "teaser": "Am Mittwoch, den 25.011.2026, gegen 14.45 Uhr, befuhr ein 41-jähriger Pkw-Fahrer aus Xanten in Hünxe die Weseler Straße, aus Richtung der BAB A3 kommend, in Fahrtrichtung Hindenburgstraße und beabsichtigte nach rechts auf die …",
-   "source": "Kreispolizeibehörde Wesel",
-   "published": "2026-11-25T19:34:52Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65858/6398059"
-  },
-  {
-   "title": "Tönisvorst- St. Tönis: Pkw gerät in den Gegenverkehr - drei Verletzte",
-   "prefix": "POL-VIE",
-   "place": "Tönisvorst- St. Tönis",
-   "teaser": "Der Verkehrsunfall ereignete sich am Mittwochnachmittag auf dem Südring in St. Tönis zwischen der Vorster Straße und der Düsseldorfer Straße. Gegen 16:00 Uhr war ein 50-jähriger Krefelder zusammen mit seiner …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-25T18:57:55Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398057"
-  },
-  {
-   "title": "FW-Schermbeck: Zwei Einsätze für den Löschzug Altschermbeck",
-   "prefix": "",
-   "place": "Schermbeck",
-   "teaser": "Der Löschzug Altschermbeck wurde zu zwei Einsätzen alarmiert. Am 18.11.2026 erfolgte um 12:15 Uhr eine Alarmierung mit dem Einsatzstichwort \"Ölspur\" zum Hufenkampweg. Dort streuten die Einsatzkräfte eine Ölspur mit …",
-   "source": "Feuerwehr Schermbeck",
-   "published": "2026-11-25T17:50:04Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/118232/6398052"
-  },
-  {
-   "title": "Nach Tankstellenüberfall in Baesweiler: Polizei Aachen fahndet nach zwei Tatverdächtigen",
-   "prefix": "POL-AC",
-   "place": "StädteRegion Aachen/ Baesweiler",
-   "teaser": "Nach einem Überfall auf eine Tankstelle an der Aachener Straße in Baesweiler am Samstagabend (21.11.26) sucht die Polizei Aachen nach zwei bislang unbekannten Tatverdächtigen. Gegen 20:30 Uhr hatte ein …",
-   "source": "Polizei Aachen",
-   "published": "2026-11-25T15:10:51Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11559/6398019"
-  },
-  {
-   "title": "Schneller Fahndungserfolg nach Tankbetrug",
-   "prefix": "POL-MI",
-   "place": "Porta Westfalica",
-   "teaser": "(SN) Wegen eines gemeldeten Tankbetruges wurden die Beamten am späten Montagabend zum Autohof nach Vennebeck gerufen. Im Zuge dessen berichtete man den Einsatzkräften, dass der Fahrer eines Audi gegen 23.30 Uhr aufgefallen …",
-   "source": "Polizei Minden-Lübbecke",
-   "published": "2026-11-25T15:02:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43553/6398015"
-  },
-  {
-   "title": "FW Lage: Verkehrsunfall auf der Pivitsheider Straße",
-   "prefix": "",
-   "place": "Lage",
-   "teaser": "Am Mittwochnachmittag wurde die Feuerwehr Lage um 14:47 Uhr unter dem Stichwort \"TH-P Klemmt\" zu einem Verkehrsunfall auf der Pivitsheider Straße alarmiert. Laut Alarmierung sollte sich ein Fahrzeug überschlagen haben. Beim Eintreffen …",
-   "source": "Freiwillige Feuerwehr Lage",
-   "published": "2026-11-25T14:59:41Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/117388/6398014"
-  },
-  {
-   "title": "Rheine, Verkehrsunfallflucht",
-   "prefix": "POL-ST",
-   "place": "Rheine",
-   "teaser": "Am Montag (23.11.) ist es am Friedrich-Ebert-Ring zu einer Verkehrsunfallflucht gekommen. Ein Land Rover Defender parkte auf Höhe der Hausnummer 145 in der Zeit zwischen 08.00 Uhr und 12.00 Uhr ordnungsgemäß am rechten …",
-   "source": "Polizei Steinfurt",
-   "published": "2026-11-25T14:53:25Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/43526/6398007"
-  },
-  {
-   "title": "Autoreifen aus dem Kellerflur gestohlen",
-   "prefix": "POL-BI",
-   "place": "Bielefeld",
-   "teaser": "FR / Bielefeld / Mitte - Aus dem Keller eines Mehrparteienhauses an der Teichstraße, in Höhe Friedrichstraße, stahlen Unbekannte zwischengelagerte Autoreifen. Die Polizei sucht Zeugen. Am Dienstagnachmittag erstattete eine …",
-   "source": "Polizei Bielefeld",
-   "published": "2026-11-25T14:50:24Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12522/6398006"
-  },
-  {
-   "title": "Obermarxloh: Kleinkraftrad gestohlen und angezündet - Zeugensuche",
+   "title": "Wedau: Fahrraddiebstahl - mutmaßlicher Tatverdächtiger gestellt",
    "prefix": "POL-DU",
    "place": "Duisburg",
-   "teaser": "Einsatzkräfte der Polizei und der Feuerwehr waren am Dienstagabend (24. November, 21:30 Uhr) an der Hauffstraße/Goethestraße im Einsatz, weil ein Kleinkraftrad in Flammen stand. Die Feuerwehr löschte den Brand. Polizisten fanden …",
+   "teaser": "Ein Anwohner verständigte die Polizei, weil ein zunächst Unbekannter in der Nacht auf Mittwoch (25. November, 03:49 Uhr) ein Fahrrad von der Straße Zur Wolfskuhl entwendet hatte. Der Zeuge hörte verdächtige Geräusche, blickte …",
    "source": "Polizei Duisburg",
-   "published": "2026-11-25T14:45:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398001"
+   "published": "2026-11-26T14:35:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398767"
   },
   {
-   "title": "Polizeikontrollen gegen Handy-Nutzung am Steuer - 43 Verstöße festgestellt",
-   "prefix": "POL-SI",
-   "place": "Siegen / Kreuztal",
-   "teaser": "Die Handynutzung während der Fahrt ist immer ein Risiko. Aus gutem Grund ist es verboten das Handy während der Fahrt zu nutzen. Das gilt sogar bei stehenden Fahrzeugen, deren Motor nicht vollständig ausgeschaltet ist. …",
-   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
-   "published": "2026-11-25T14:38:43Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65854/6397996"
+   "title": "Betrugsverdacht: Mit erfundener Notlage um Geld gebracht? 67-Jährige vorläufig festgenommen",
+   "prefix": "POL-OB",
+   "place": "Oberhausen",
+   "teaser": "Am Mittwoch (25.11.) verständigte eine Mitarbeiterin der Stadtsparkasse Oberhausen die Polizei, nachdem ihr das Anliegen eines 77-jährigen Kunden verdächtig vorgekommen war. Dieser hatte im Rahmen eines Beratungsgesprächs um …",
+   "source": "Polizeipräsidium Oberhausen",
+   "published": "2026-11-26T14:30:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/62138/6398761"
   },
   {
-   "title": "Duissern: Polizei findet zahlreiche Drogen und Waffen bei Durchsuchung",
+   "title": "Dorsten: Polizei sucht 14-jährige Vermisste",
+   "prefix": "POL-RE",
+   "place": "Recklinghausen",
+   "teaser": "Die Polizei bittet um Mithilfe bei der Suche nach einer Vermissten. Die 14-Jährige hat bereits Anfang November ihr Zuhause in Dorsten verlassen. In der vergangenen Woche wurde sie als vermisst gemeldet. Die bisherigen …",
+   "source": "Polizeipräsidium Recklinghausen",
+   "published": "2026-11-26T14:27:21Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/42900/6398759"
+  },
+  {
+   "title": "Bad Honnef/Duisburg: Manövrierunfähige Motoryacht sorgt für Einsatz der Wasserschutzpolizei",
    "prefix": "POL-DU",
    "place": "Duisburg",
-   "teaser": "Durch akribische Ermittlungsarbeit kam die Polizei Duisburg auf die Spur eines 43-jährigen mutmaßlichen Drogendealers und durchsuchte am Montagnachmittag (23. November, 15:30 Uhr) die Wohnung des Mannes und seiner Lebensgefährtin …",
+   "teaser": "Beamte der Wasserschutzpolizeiwache Bonn waren am Dienstag (24. November) auf dem Rhein (Rheinkilometer 642,7) bei Bad Honnef wegen einer manövrierunfähigen Motoryacht im Einsatz. Nach bisherigen Erkenntnissen führte ein …",
    "source": "Polizei Duisburg",
-   "published": "2026-11-25T14:27:59Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6397982"
+   "published": "2026-11-26T14:25:21Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/50510/6398757"
   },
   {
-   "title": "Viersen-Süchteln: Dodge RAM gestohlen - Polizei sucht Hinweise",
+   "title": "Hattingen: Wache Hattingen erst wieder ab dem 27.11.2026 erreichbar",
+   "prefix": "POL-EN",
+   "place": "Hattingen",
+   "teaser": "Derzeit gibt es eine Telefonstörung, die die Polizeiwache in Hattingen betrifft. Diese ist derzeit telefonisch nicht erreichbar. Das Problem kann erst morgen (27.11.2026) behoben werden. In dringenden Fällen ist zwingend die 110 …",
+   "source": "Kreispolizeibehörde Ennepe-Ruhr-Kreis",
+   "published": "2026-11-26T14:24:36Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12726/6398753"
+  },
+  {
+   "title": "Bedrohung mit Schusswaffen: Polizei nimmt 49-jährigen Tatverdächtigen vorläufig fest",
+   "prefix": "POL-SU",
+   "place": "Siegburg",
+   "teaser": "Am Abend des 12. November 2026 soll ein Mann im Bereich der Abfahrt der Bundesstraße 56 (B 56) zur Luisenstraße in Siegburg von mehreren Personen in Fahrzeugen angehalten und unter Vorhalt von Schusswaffen bedroht worden sein. Die …",
+   "source": "Kreispolizeibehörde Rhein-Sieg-Kreis",
+   "published": "2026-11-26T14:14:39Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65853/6398746"
+  },
+  {
+   "title": "\"Wir warten nicht, bis Kinder zu Opfern werden.\" - LKA NRW fahndet aktiv nach Sexualstraftätern im Netz. Länderübergreifender Action Day gegen Cybergrooming",
+   "prefix": "LKA-NRW",
+   "place": "Düsseldorf",
+   "teaser": "**Ermittlerinnen und Ermittler fahnden gezielt nach Personen, die im Internet mit sexuellen Absichten Kontakt zu Kindern aufnehmen - LKA NRW erhöht mit länderübergreifendem Action Day den Verfolgungsdruck auf …",
+   "source": "Landeskriminalamt Nordrhein-Westfalen",
+   "published": "2026-11-26T14:12:10Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/58451/6398744"
+  },
+  {
+   "title": "Bergkamen/Kamen - Mehrere Verkehrskontrollen",
+   "prefix": "POL-UN",
+   "place": "Bergkamen/Kamen",
+   "teaser": "Im Rahmen einer Verkehrskontrolle konnten Polizeibeamte der Wache Kamen am Mittwoch, 25.11.2026, folgende Verstöße rund um die Werner Straße/Am Roggenkamp, Schul- und Bahnhofstraße in Bergkamen sowie Kamen feststellen: In …",
+   "source": "Kreispolizeibehörde Unna",
+   "published": "2026-11-26T13:58:10Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65856/6398731"
+  },
+  {
+   "title": "261126-2-K Drogen, Messer und gefälschte Markenartikel sichergestellt - Schwerpunktkontrollen \"Fokus Sicherheit\"",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Mit knapp 100 Einsatzkräften hat die Polizei Köln im Rahmen des Projekts \"Fokus Sicherheit\" am Mittwochabend (25. November) Gewerbebetriebe, Personen und Fahrzeuge kontrolliert. Mitarbeitende des Ordnungsamtes der Stadt Köln …",
+   "source": "Polizei Köln",
+   "published": "2026-11-26T13:54:25Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6398729"
+  },
+  {
+   "title": "Brüggen: Frontalzusammenstoß zweier Radfahrender",
    "prefix": "POL-VIE",
-   "place": "Viersen-Süchteln",
-   "teaser": "Mindestens eine unbekannte Person hat zwischen dem 23. November, 19 Uhr, und dem 24. November, 6 Uhr, einen Dodge RAM gestohlen. Der Wagen hat in einer offenstehenden Garage im Siebenweg in Süchteln gestanden. Der graue …",
+   "place": "Brüggen",
+   "teaser": "Am Mittwochmorgen sind zwei Radfahrer gegen 07:30 Uhr miteinander kollidiert. Dabei hat sich eine 26-jährige Brüggenerin leicht verletzt. Die Polizei sucht nun nach dem anderen Radfahrer sowie einem Busfahrer, der ein wichtiger …",
    "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-25T14:23:37Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6397980"
+   "published": "2026-11-26T13:53:51Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398727"
+  },
+  {
+   "title": "Kreis Viersen: Seniorin erkennt Telefonbetrug und legt auf!",
+   "prefix": "POL-VIE",
+   "place": "Kreis Viersen",
+   "teaser": "Eine Seniorin aus dem Kreis Viersen hat einen Telefonbetrug entlarvt und genau richtig reagiert: Sie hat aufgelegt! Die Frau erhielt am Mittwochnachmittag einen Anruf auf ihrem Festnetztelefon. Es meldete sich ein …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-26T13:53:04Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398726"
+  },
+  {
+   "title": "Pkw kommt von Straße ab - Fahrer leicht verletzt",
+   "prefix": "POL-HX",
+   "place": "Borgentreich",
+   "teaser": "Am Mittwoch, 25. November, kam es auf der K 55 zwischen Borgentreich-Borgholz und Natingen zu einem Verkehrsunfall. Dabei erlitt ein 23-jähriger Mann leichte Verletzungen. Gegen 5.35 Uhr war der junge Fahrer mit seinem VW in …",
+   "source": "Kreispolizeibehörde Höxter",
+   "published": "2026-11-26T13:47:52Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65848/6398719"
+  },
+  {
+   "title": "Born / Süchteln: Zwei Einbrüche in Einfamilienhäuser",
+   "prefix": "POL-VIE",
+   "place": "Born / Süchteln",
+   "teaser": "In den vergangenen Tagen sind unbekannte Personen in zwei Einfamilienhäuser eingebrochen. Ein Einbruch ereignete sich in Brüggen, der andere in Süchteln. Zwischen dem 24. November, 14:30 Uhr, und dem 25. November, 14:10 …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-26T13:44:01Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6398715"
   }
  ]
 }
