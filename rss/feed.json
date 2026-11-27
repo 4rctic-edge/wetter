@@ -1,8 +1,17 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-26T23:50:49Z",
+ "checked": "2026-11-27T05:29:45Z",
  "items": [
+  {
+   "title": "Kellerbrand in Stadtteil Kremenholl",
+   "prefix": "FW-RS",
+   "place": "Remscheid",
+   "teaser": "Gegen 18 Uhr wurde die Feuerwehr Remscheid mit einem größeren Aufgebot an Einsatzkräften in den Stadtteil Kremenholl alarmiert. Dort sollte es zu einem Brand in einem Keller gekommen sein. Beim Eintreffen der ersten …",
+   "source": "Feuerwehr Remscheid",
+   "published": "2026-11-26T23:31:03Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115882/6398838"
+  },
   {
    "title": "Wohnungsbrand in der Goethestraße - eine Person verletzt Feuerwehr Gladbeck im Einsatz: Bewohnerin mit Rauchgasvergiftung ins Krankenhaus gebracht",
    "prefix": "FW-GLA",
@@ -128,15 +137,6 @@
    "source": "Polizei Steinfurt",
    "published": "2026-11-26T14:43:35Z",
    "link": "https://www.presseportal.de/blaulicht/pm/43526/6398774"
-  },
-  {
-   "title": "Fahrzeugbrand in Rietberg",
-   "prefix": "POL-GT",
-   "place": "Gütersloh",
-   "teaser": "Rietberg (FK) - Polizei und Feuerwehr wurden Donnerstagmorgen (26.11. 07.04 Uhr) über einen Fahrzeugbrand vor einem Mehrfamilienhaus am Emsbruch informiert. Die Flammen wurden von der Feuerwehr gelöscht. Im Zuge des Brandes …",
-   "source": "Polizei Gütersloh",
-   "published": "2026-11-26T14:41:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/23127/6398772"
   }
  ]
 }
