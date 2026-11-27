@@ -1,8 +1,80 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-27T15:27:20Z",
+ "checked": "2026-11-27T23:38:02Z",
  "items": [
+  {
+   "title": "Verkehrsunfall zwischen PKW und Straßenbahn",
+   "prefix": "FW-BO",
+   "place": "Bochum",
+   "teaser": "Am späten Freitagabend kam es gegen 22:15 Uhr auf der Kreuzung Gollheide / Wattenscheider Straße zu einem Verkehrsunfall zwischen einer Straßenbahn und einem PKW. Der PKW wurde stark beschädigt, während die Straßenbahn aus dem …",
+   "source": "Feuerwehr Bochum",
+   "published": "2026-11-27T22:37:50Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115868/6399591"
+  },
+  {
+   "title": "Verkehrsunfall mit zwei Beteiligten und vier Verletzten",
+   "prefix": "POL-MG",
+   "place": "Mönchengladbach",
+   "teaser": "Am Freitagabend (27.11.) kam es gegen 18:15 Uhr zu einem Verkehrsunfall bei dem vier Personen leicht verletzt wurden. Eine 73-jährige Mönchengladbacherin befuhr mit ihrem VW die Schmölderstraße in Fahrtrichtung …",
+   "source": "Polizei Mönchengladbach",
+   "published": "2026-11-27T18:55:26Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/30127/6399576"
+  },
+  {
+   "title": "Ausgedehnter Dachstuhlbrand in Fachwerkhaus am Asselner Hellweg",
+   "prefix": "FW-DO",
+   "place": "Dortmund",
+   "teaser": "Um 13:05 Uhr wurden zunächst die Feuerwachen 3 (Neuasseln) und 6 (Scharnhorst) sowie der Löschzug 24 (Asseln) zu einem Brand am Asselner Hellweg alarmiert. Bereits bei Eintreffen der ersten Einsatzkräfte bestätigte sich ein …",
+   "source": "Feuerwehr Dortmund",
+   "published": "2026-11-27T17:52:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115869/6399575"
+  },
+  {
+   "title": "FW Gangelt: Starke Verrauchung eines Wohnhauses",
+   "prefix": "",
+   "place": "Gangelt/Brüxgen",
+   "teaser": "Die Feuerwehr Gangelt wurde heute Nachmittag um 16:52 Uhr zu einem Zimmerbrand in Brüxgen alarmiert. Vor Ort stellten die Einsatzkräfte fest, dass ein Wohngebäude am Heidweg, unweit der Katholischen Grundschule verraucht …",
+   "source": "Freiwillige Feuerwehr Gangelt",
+   "published": "2026-11-27T17:30:34Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/130424/6399573"
+  },
+  {
+   "title": "261127-7-LEV Seniorin stirbt bei schwerem Verkehrsunfall in Leverkusen-Opladen",
+   "prefix": "POL-K",
+   "place": "Köln",
+   "teaser": "Bei einem schweren Verkehrsunfall am Freitagmittag (27. November) in Leverkusen-Opladen ist eine 65-jährige Fußgängerin ums Leben gekommen. Nach ersten Zeugenaussagen überquerte die Frau gegen 12 Uhr die Kreuzung Berliner …",
+   "source": "Polizei Köln",
+   "published": "2026-11-27T16:08:42Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/12415/6399560"
+  },
+  {
+   "title": "Zoll zieht 90.000 unversteuerte Zigaretten und 50 nicht verkehrsfähige E-Vapes aus dem Verkehr / Strafverfahren wegen des Verdachts der Steuerhinterziehung und Steuerhehlerei eingeleitet",
+   "prefix": "HZA-AC",
+   "place": "Aachen, Selfkant",
+   "teaser": "Der Aachener Zoll hat am 18. November 2026 insgesamt 90.000 unversteuerte Zigaretten und 50 nicht verkehrsfähige E-Vapes aus dem Verkehr gezogen. Zuvor hatte die Bundespolizei Aachen das Fahrzeug, in dem sich zwei Männer …",
+   "source": "Hauptzollamt Aachen",
+   "published": "2026-11-27T15:42:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/121239/6399552"
+  },
+  {
+   "title": "Kempen-St. Hubert: Unfall mit drei beteiligten Autos",
+   "prefix": "POL-VIE",
+   "place": "Kempen-St. Hubert",
+   "teaser": "Auf der Tönisberger Straße zwischen St. Hubert und der B9 hat sich am Freitag gegen 14.40 Uhr ein Unfall ereignet, an dem drei Autos beteiligt waren. Ein 55-jähriger Krefelder hatte von der Tönisberger Straße aus nach …",
+   "source": "Kreispolizeibehörde Viersen",
+   "published": "2026-11-27T15:15:58Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65857/6399542"
+  },
+  {
+   "title": "Drei Autos bei Unfall beschädigt",
+   "prefix": "POL-HX",
+   "place": "Warburg",
+   "teaser": "Drei Autos wurden bei einem Unfall auf der B241 zwischen Warburg-Hohenwepel und Borgentreich beschädigt. Eine Person wurde leicht verletzt. Am Freitag, 27. November, fuhr ein 53-Jähriger mit einem Mitsubishi über die B24 von …",
+   "source": "Kreispolizeibehörde Höxter",
+   "published": "2026-11-27T15:14:20Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65848/6399540"
+  },
   {
    "title": "Nachtrag zu: Erfolgreiche Großrazzia gegen illegales Glücksspiel",
    "prefix": "POL-BI",
@@ -65,78 +137,6 @@
    "source": "Polizei Düsseldorf",
    "published": "2026-11-27T14:22:01Z",
    "link": "https://www.presseportal.de/blaulicht/pm/13248/6399516"
-  },
-  {
-   "title": "Werne - Verkehrsunfall mit einer leichtverletzten Person auf der Kamener Straße",
-   "prefix": "POL-UN",
-   "place": "Werne",
-   "teaser": "Bei einem Verkehrsunfall auf der Kamener Straße in Werne ist am Freitag (27.11.2026) ein 63-jähriger Werner leicht verletzt worden. Der Mann war gegen 9.48 Uhr mit seinem Pkw auf der Kamener Straße unterwegs, als er aus bislang …",
-   "source": "Kreispolizeibehörde Unna",
-   "published": "2026-11-27T14:21:07Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65856/6399515"
-  },
-  {
-   "title": "261127-6-K Eventlocation in Köln-Ossendorf mit Molotowcocktails beworfen - Polizei sucht Zeugen",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "In der Nacht zu Freitag (27. November) haben Unbekannte zwei sogenannte Molotowcocktails auf eine Eventlocation in der Von-Hünefeld-Straße im Stadtteil Ossendorf geworfen und dabei die Eingangstür beschädigt. Die Kriminalpolizei …",
-   "source": "Polizei Köln",
-   "published": "2026-11-27T14:20:58Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6399514"
-  },
-  {
-   "title": "Hochfeld: Polizei stellt mutmaßlichen Drogendealer",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Polizeikräfte haben am Mittwochnachmittag (25. November, 15:30 Uhr) auf der Gerokstraße einen Drogendealer gestellt. Der 35-Jährige war zuvor beim Handel mit Betäubungsmitteln beobachtet worden und versuchte, sich zu Fuß der …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-27T14:15:14Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6399511"
-  },
-  {
-   "title": "Vierlinden: Betrüger erbeuten Schmuck und Bargeld - Zeugensuche",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Betrüger brachten eine Seniorin von der Canarisstraße am Donnerstagabend (26. November, gegen 20 Uhr) durch eine dreiste Masche um Schmuck und Bargeld. Die Rentnerin erhielt einen Anruf eines Mannes, der angab, ihr Sohn habe eine …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-27T14:15:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6399510"
-  },
-  {
-   "title": "FFW Schwalmtal: Gesamtwehr Schwalmtal trainiert gemeinsam den Ernstfall",
-   "prefix": "",
-   "place": "Schwalmtal",
-   "teaser": "Am Mittwoch, dem 18. November 2026 (Buß- und Bettag), führte die Gesamtwehr Schwalmtal ihre diesjährige Abschlussübung an der Grundschule Amern durch. Im Mittelpunkt standen die Menschenrettung, der Umgang mit Gefahrstoffen …",
-   "source": "FFW Gemeinde Schwalmtal",
-   "published": "2026-11-27T14:13:52Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/170081/6399509"
-  },
-  {
-   "title": "Hochfeld: Polizei stellt mutmaßlichen Drogendealer",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Polizeikräfte haben am Mittwochnachmittag (25. November, 15:30 Uhr) auf der Gerokstraße einen Drogendealer gestellt. Der 35-Jährige war zuvor beim Handel mit Betäubungsmitteln beobachtet worden und versuchte, sich zu Fuß der …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-27T14:13:26Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6399508"
-  },
-  {
-   "title": "261127-5-K Fahrgäste einer Stadtbahn stürzen nach Notbremsung - Zeugensuche",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "Die Polizei Köln sucht derzeit nach einem Mann, der am Donnerstagabend (26. November) an der Haltestelle \"Suevenstraße\" unmittelbar vor einer anfahrenden Stadtbahn die Gleise überquert haben soll. Infolge einer sofort eingeleiteten …",
-   "source": "Polizei Köln",
-   "published": "2026-11-27T14:07:06Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6399502"
-  },
-  {
-   "title": "Bottrop: Präsenz plus Strategische Fahndung - Gemeinsam für mehr Sicherheit in der Innenstadt",
-   "prefix": "POL-RE",
-   "place": "Recklinghausen",
-   "teaser": "Die Polizei Recklinghausen hat am Donnerstag zusammen mit dem KOD und der Bundespolizei am ZOB und dem näheren Umfeld Kontrollen durchgeführt. Der Einsatz war Teil der PräsenzPlus-Maßnahmen, die seit Mitte des Jahres …",
-   "source": "Polizeipräsidium Recklinghausen",
-   "published": "2026-11-27T13:54:17Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/42900/6399496"
   }
  ]
 }
