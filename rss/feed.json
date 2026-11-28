@@ -1,142 +1,142 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-28T04:56:59Z",
+ "checked": "2026-11-28T13:47:37Z",
  "items": [
   {
-   "title": "Fußgängerin (82) bei Zusammenstoß mit E-Scooter-Fahrerin schwer verletzt",
+   "title": "Feuerwehr und ASB erproben gemeinsamen Drohneneinsatz im Hardter Wald",
+   "prefix": "FW-MG",
+   "place": "Mönchengladbach-Hardt, 28.11.2026, 09:00 bis 14:00 Uhr, Parkplatz Brahmsstraße",
+   "teaser": "Die Feuerwehr Mönchengladbach und der Arbeiter-Samariter-Bund (ASB) Niederrhein trainierten am Samstag im Hardter Wald den gemeinsamen Einsatz von Drohnen bei …",
+   "source": "Feuerwehr Mönchengladbach",
+   "published": "2026-11-28T12:40:07Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115879/6399717"
+  },
+  {
+   "title": "Polizei bittet um Hinweise nach Einbruch in Bochum-Dahlhausen",
    "prefix": "POL-BO",
    "place": "Bochum",
-   "teaser": "Bei einem Verkehrsunfall am Freitagmittag, 27. November, in Bochum-Werne ist eine Fußgängerin (82) schwer verletzt worden. Eine 14-jährige Bochumerin befuhr gegen 13.05 Uhr auf einem E-Scooter den Gehweg des Werner Hellweges in …",
+   "teaser": "Am Freitag, 27. November, kam es am Höhenweg in Bochum-Dahlhausen zu einem Wohnungseinbruch in einem Reihenhaus. Die Polizei bittet um Hinweise. Nach bisherigen Erkenntnissen verschafften sich bislang unbekannte Täter im Zeitraum …",
    "source": "Polizei Bochum",
-   "published": "2026-11-28T03:46:42Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11530/6399605"
+   "published": "2026-11-28T11:37:07Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6399704"
   },
   {
-   "title": "Verkehrsunfall mit Sachschaden. Pkw auf Dach in Straßengraben.",
-   "prefix": "POL-SI",
-   "place": "57271 Hilchenbach",
-   "teaser": "Am 27.11.2026, gegen 22:30 Uhr, befuhr ein 43-jähriger Pkw-Fahrer die B62 aus Richtung Erndtebrück in Richtung Hilchenbach. Zwischen den Ortsteilen Altenteich und Hilchenbach Lützel kam der Pkw des 43-Jährigen in einer …",
-   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
-   "published": "2026-11-27T23:53:00Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65854/6399596"
+   "title": "Zwei Tote und zwei Verletzte nach Verkehrsunfall in Aachen",
+   "prefix": "POL-AC",
+   "place": "Aachen",
+   "teaser": "Am Samstag (28.11.2026) ist es gegen 03:15 Uhr auf der Trierer Straße zwischen Königsberger Straße und Debyestraße zu einem schweren Verkehrsunfall mit zwei getöteten und zwei schwer verletzten Personen gekommen. Nach bisherigen …",
+   "source": "Polizei Aachen",
+   "published": "2026-11-28T11:22:45Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11559/6399703"
   },
   {
-   "title": "Verkehrsunfall zwischen PKW und Straßenbahn",
-   "prefix": "FW-BO",
+   "title": "Raubüberfall auf Bäckereifiliale",
+   "prefix": "POL-GT",
+   "place": "Gütersloh",
+   "teaser": "(RB) - Am 27.11.2026, gegen 18.00 Uhr ging bei der Polizei Gütersloh ein Notruf ein, bei dem von einem Raubüberfall auf eine Bäckerei berichtet wurde. Zur Tatzeit betraten ein Mann und eine Frau eine Bäckerei an der Liesborner …",
+   "source": "Polizei Gütersloh",
+   "published": "2026-11-28T10:58:38Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/23127/6399698"
+  },
+  {
+   "title": "Glück im Unglück - Ersthelfer löscht brennenden PKW (2 Verkehrsunfälle an einem Abend)",
+   "prefix": "FW-MK",
+   "place": "Iserlohn",
+   "teaser": "Zu zwei relativ identischen Verkehrsunfällen rückte die Feuerwehr Iserlohn am gestrigen Freitagabend aus. Gegen 18:15 Uhr prallte ein mit drei Personen besetzter Transporter gegen einen Baum auf der Bertingloher Straße. Bei …",
+   "source": "Feuerwehr Iserlohn",
+   "published": "2026-11-28T10:46:39Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116234/6399696"
+  },
+  {
+   "title": "Kölner ZOLL beteiligt sich an bundesweiter Aktionswoche gegen Schwarzarbeit und illegale Beschäftigung / Fast 300 Beschäftigte überprüft",
+   "prefix": "HZA-K",
+   "place": "Köln",
+   "teaser": "Rund 90 Einsatzkräfte der Finanzkontrolle Schwarzarbeit des Kölner Zolls, beteiligten sich in der vergangenen Woche (23.11. bis 27.11.2026) an einer bundesweiten Aktionswoche gegen Schwarzarbeit und illegale Beschäftigung. …",
+   "source": "Hauptzollamt Köln",
+   "published": "2026-11-28T10:45:40Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/121251/6399695"
+  },
+  {
+   "title": "Gelungener Auftakt für den Bevölkerungsschutz in Breitenbruch",
+   "prefix": "FW-AR",
+   "place": "Arnsberg",
+   "teaser": "Rund 80 Bürgerinnen und Bürger besuchten am Samstag (21.11.2026) die Informations- und Auftaktveranstaltung unter dem Motto \"... und wenn die Krise kommt?\" in Breitenbruch. Im Mittelpunkt standen die kommunale Krisenvorsorge, die …",
+   "source": "Feuerwehr der Stadt Arnsberg",
+   "published": "2026-11-28T10:41:06Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/116297/6399694"
+  },
+  {
+   "title": "Öffentlichkeitsfahndung nach vermisstem 85-jährigem Grevenbroicher",
+   "prefix": "POL-NE",
+   "place": "Grevenbroich",
+   "teaser": "Am Samstag, 28.11.2026, 07:38 Uhr, meldete die Ehefrau den 85-jährigen Ehemann als vermisst. Der Vermisste wurde gegen 00:30 Uhr zuletzt gesehen. Als die Ehefrau am heutigen Morgen um 07:00 Uhr erwachte, stellte sie fest, dass …",
+   "source": "Kreispolizeibehörde Rhein-Kreis Neuss",
+   "published": "2026-11-28T10:34:34Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65851/6399693"
+  },
+  {
+   "title": "Raub auf Tankstelle",
+   "prefix": "POL-SO",
+   "place": "Warstein-Belecke",
+   "teaser": "Ein bislang unbekannter Täter hat am Freitagabend (27. November) eine Tankstelle in Warstein-Belecke betreten und die Herausgabe des Kasseninhaltes gefordert. Ein Mitarbeiter der Tankstelle an der Bundesstraße 55 hielt …",
+   "source": "Kreispolizeibehörde Soest",
+   "published": "2026-11-28T09:40:32Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65855/6399676"
+  },
+  {
+   "title": "Doppelte Trunkenheitsfahrt mit Verletzten bei einem Verkehrsunfall und anschließendem Entfernen vom Unfallort",
+   "prefix": "POL-DN",
+   "place": "Düren",
+   "teaser": "Düren - Am Freitagabend gegen 23:25 Uhr meldete eine Zeugin bei der Polizeileitstelle ein Fahrzeug mit auffälliger Fahrweise. Durch eine Streifenwagenbesatzung konnte das Fahrzeug im Verlauf der Fahndung fahrenderweise auf der \"Neue …",
+   "source": "Polizei Düren",
+   "published": "2026-11-28T08:48:55Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/8/6399668"
+  },
+  {
+   "title": "Straßenbahn entgleist nach Kollision mit Pkw",
+   "prefix": "POL-BO",
    "place": "Bochum",
-   "teaser": "Am späten Freitagabend kam es gegen 22:15 Uhr auf der Kreuzung Gollheide / Wattenscheider Straße zu einem Verkehrsunfall zwischen einer Straßenbahn und einem PKW. Der PKW wurde stark beschädigt, während die Straßenbahn aus dem …",
-   "source": "Feuerwehr Bochum",
-   "published": "2026-11-27T22:37:50Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115868/6399591"
+   "teaser": "Bei einem Verkehrsunfall am Freitagabend, 27. November, in Bochum ist ein Pkw mit einer Straßenbahn kollidiert. Die Straßenbahn entgleiste, vier Personen erlitten leichte Verletzungen. Gegen 22.15 Uhr befuhr eine 31-jährige …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-28T08:38:13Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6399666"
   },
   {
-   "title": "Verkehrsunfall mit zwei Beteiligten und vier Verletzten",
-   "prefix": "POL-MG",
-   "place": "Mönchengladbach",
-   "teaser": "Am Freitagabend (27.11.) kam es gegen 18:15 Uhr zu einem Verkehrsunfall bei dem vier Personen leicht verletzt wurden. Eine 73-jährige Mönchengladbacherin befuhr mit ihrem VW die Schmölderstraße in Fahrtrichtung …",
-   "source": "Polizei Mönchengladbach",
-   "published": "2026-11-27T18:55:26Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30127/6399576"
+   "title": "Einbrüche im HSK",
+   "prefix": "POL-HSK",
+   "place": "Hochsauerlandkreis",
+   "teaser": "Meschede Am 27.11.2026 im Zeitraum von 12:00 Uhr bis 12:45 Uhr verschafften sich bislang unbekannte Täter Zugang in eine Wohnung in der Mühlengasse. Entwendet wurde Schmuck in Höhe eines 5-stelligen Betrags. Zeugen, die …",
+   "source": "Kreispolizeibehörde Hochsauerlandkreis",
+   "published": "2026-11-28T08:01:17Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65847/6399654"
   },
   {
-   "title": "Ausgedehnter Dachstuhlbrand in Fachwerkhaus am Asselner Hellweg",
+   "title": "Wohnungsbrand mit Todesfolge",
    "prefix": "FW-DO",
    "place": "Dortmund",
-   "teaser": "Um 13:05 Uhr wurden zunächst die Feuerwachen 3 (Neuasseln) und 6 (Scharnhorst) sowie der Löschzug 24 (Asseln) zu einem Brand am Asselner Hellweg alarmiert. Bereits bei Eintreffen der ersten Einsatzkräfte bestätigte sich ein …",
+   "teaser": "Am 28.11.2026 wurde die Feuerwehr um 02:28 Uhr zu einem ausgedehnten Wohnungsbrand in der Oberkichenstraße 6 alarmiert. Bei Eintreffen der Einsatzkräfte schlugen die Flammen bereits aus dem Fenster der Brandwohnung im Erdgeschoss …",
    "source": "Feuerwehr Dortmund",
-   "published": "2026-11-27T17:52:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/115869/6399575"
+   "published": "2026-11-28T07:17:15Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/115869/6399635"
   },
   {
-   "title": "FW Gangelt: Starke Verrauchung eines Wohnhauses",
-   "prefix": "",
-   "place": "Gangelt/Brüxgen",
-   "teaser": "Die Feuerwehr Gangelt wurde heute Nachmittag um 16:52 Uhr zu einem Zimmerbrand in Brüxgen alarmiert. Vor Ort stellten die Einsatzkräfte fest, dass ein Wohngebäude am Heidweg, unweit der Katholischen Grundschule verraucht …",
-   "source": "Freiwillige Feuerwehr Gangelt",
-   "published": "2026-11-27T17:30:34Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/130424/6399573"
+   "title": "Betrunken auf E-Scooter unterwegs",
+   "prefix": "POL-HA",
+   "place": "Hagen",
+   "teaser": "In der Nacht von Freitag auf Samstag nutzten zwei Männer jeweils einen E-Scooter einer Verleihfirma, um durch die Hagener Innenstadt zu fahren. Dort fielen sie gegen 03 Uhr einer Polizeistreife auf, die die Rathausstraße befuhren. …",
+   "source": "Polizei Hagen",
+   "published": "2026-11-28T07:00:08Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/30835/6399630"
   },
   {
-   "title": "261127-7-LEV Seniorin stirbt bei schwerem Verkehrsunfall in Leverkusen-Opladen",
-   "prefix": "POL-K",
-   "place": "Köln",
-   "teaser": "Bei einem schweren Verkehrsunfall am Freitagmittag (27. November) in Leverkusen-Opladen ist eine 65-jährige Fußgängerin ums Leben gekommen. Nach ersten Zeugenaussagen überquerte die Frau gegen 12 Uhr die Kreuzung Berliner …",
-   "source": "Polizei Köln",
-   "published": "2026-11-27T16:08:42Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12415/6399560"
-  },
-  {
-   "title": "Zoll zieht 90.000 unversteuerte Zigaretten und 50 nicht verkehrsfähige E-Vapes aus dem Verkehr / Strafverfahren wegen des Verdachts der Steuerhinterziehung und Steuerhehlerei eingeleitet",
-   "prefix": "HZA-AC",
-   "place": "Aachen, Selfkant",
-   "teaser": "Der Aachener Zoll hat am 18. November 2026 insgesamt 90.000 unversteuerte Zigaretten und 50 nicht verkehrsfähige E-Vapes aus dem Verkehr gezogen. Zuvor hatte die Bundespolizei Aachen das Fahrzeug, in dem sich zwei Männer …",
-   "source": "Hauptzollamt Aachen",
-   "published": "2026-11-27T15:42:38Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/121239/6399552"
-  },
-  {
-   "title": "Kempen-St. Hubert: Unfall mit drei beteiligten Autos",
-   "prefix": "POL-VIE",
-   "place": "Kempen-St. Hubert",
-   "teaser": "Auf der Tönisberger Straße zwischen St. Hubert und der B9 hat sich am Freitag gegen 14.40 Uhr ein Unfall ereignet, an dem drei Autos beteiligt waren. Ein 55-jähriger Krefelder hatte von der Tönisberger Straße aus nach …",
-   "source": "Kreispolizeibehörde Viersen",
-   "published": "2026-11-27T15:15:58Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65857/6399542"
-  },
-  {
-   "title": "Drei Autos bei Unfall beschädigt",
-   "prefix": "POL-HX",
-   "place": "Warburg",
-   "teaser": "Drei Autos wurden bei einem Unfall auf der B241 zwischen Warburg-Hohenwepel und Borgentreich beschädigt. Eine Person wurde leicht verletzt. Am Freitag, 27. November, fuhr ein 53-Jähriger mit einem Mitsubishi über die B24 von …",
-   "source": "Kreispolizeibehörde Höxter",
-   "published": "2026-11-27T15:14:20Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/65848/6399540"
-  },
-  {
-   "title": "Nachtrag zu: Erfolgreiche Großrazzia gegen illegales Glücksspiel",
-   "prefix": "POL-BI",
-   "place": "Bielefeld",
-   "teaser": "HC/Bielefeld - Minden-Lübbecke - Herford - Gütersloh - Paderborn - Soest - Niedersachsen - Die zwei Hauptbeschuldigten, ein 55-jähriger Rödinghausener mit türkischer Staatsangehörigkeit und ein 47-jähriger Löhner mit …",
-   "source": "Polizei Bielefeld",
-   "published": "2026-11-27T14:49:54Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12522/6399532"
-  },
-  {
-   "title": "Streit mit Abschleppdienst eskaliert: 37-Jähriger unter Drogeneinfluss",
-   "prefix": "POL-MG",
-   "place": "Mönchengladbach",
-   "teaser": "Am Freitag, 27. November, kam es gegen 10 Uhr auf dem Parkplatz einer Schule an der Balderichstraße zu einem Vorfall im Zusammenhang mit einem Abschleppvorgang, bei dem mehrere Personen leicht verletzt wurden. Nach ersten …",
-   "source": "Polizei Mönchengladbach",
-   "published": "2026-11-27T14:49:17Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/30127/6399531"
-  },
-  {
-   "title": "Öffentlichkeitsfahndung: Schockanruf - Wer kennt diesen Geldabholer?",
-   "prefix": "POL-BI",
-   "place": "Bielefeld",
-   "teaser": "FR / Bielefeld / Sieker - Die Kriminalpolizei bittet die Öffentlichkeit um Mithilfe, bei der Identifizierung eines gesuchten Betrügers. Nach einem Schockanruf, wollte er Geld bei einer Seniorin abholen. Am Dienstag, 01.09.2026, …",
-   "source": "Polizei Bielefeld",
-   "published": "2026-11-27T14:44:04Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/12522/6399528"
-  },
-  {
-   "title": "W Verkehrsunfall mit Personenschaden - Polizei sucht Zeugen",
-   "prefix": "POL-W",
-   "place": "Wuppertal",
-   "teaser": "Am 19.11.2026, gegen 18:07 Uhr, kam es im Kreuzungsbereich Heckinghauser Straße zur Albertstraße in Wuppertal zu einem Verkehrsunfall mit Personenschaden. Nach bisherigen Erkenntnissen wollte ein Fußgänger die Fahrbahn bei …",
-   "source": "Polizei Wuppertal",
-   "published": "2026-11-27T14:33:05Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/11811/6399522"
-  },
-  {
-   "title": "Vierlinden: Polizei Duisburg: Raubüberfall auf Gaststätte - Zwei Tatverdächtige gefasst",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Zwei Männer haben am späten Donnerstagabend (26. November, 23:26 Uhr) eine Gaststätte am Franz-Lenze-Platz überfallen. Unter Vorhalt einer Schusswaffe forderten einer von ihnen den Inhaber auf, Bargeld herauszugeben. Als dieser …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-27T14:27:09Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6399521"
+   "title": "Verkehrsunfall mit einer verletzten Person",
+   "prefix": "POL-UN",
+   "place": "Kamen",
+   "teaser": "Am frühen Samstagmorgen gegen 05:00 Uhr kam es auf der Rottumer Straße zu einem Verkehrsunfall mit einer verletzten Person, Ein 25 jähriger Kamener befuhr mit seinem Pkw Mini die Rottumer Straße und kam in einer Kurve nach links …",
+   "source": "Kreispolizeibehörde Unna",
+   "published": "2026-11-28T06:49:26Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65856/6399626"
   }
  ]
 }
