@@ -1,8 +1,26 @@
 {
  "source": "presseportal.de / news aktuell",
  "feed": "https://www.presseportal.de/rss/polizei/laender/9.rss2",
- "checked": "2026-11-27T23:38:02Z",
+ "checked": "2026-11-28T04:56:59Z",
  "items": [
+  {
+   "title": "Fußgängerin (82) bei Zusammenstoß mit E-Scooter-Fahrerin schwer verletzt",
+   "prefix": "POL-BO",
+   "place": "Bochum",
+   "teaser": "Bei einem Verkehrsunfall am Freitagmittag, 27. November, in Bochum-Werne ist eine Fußgängerin (82) schwer verletzt worden. Eine 14-jährige Bochumerin befuhr gegen 13.05 Uhr auf einem E-Scooter den Gehweg des Werner Hellweges in …",
+   "source": "Polizei Bochum",
+   "published": "2026-11-28T03:46:42Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/11530/6399605"
+  },
+  {
+   "title": "Verkehrsunfall mit Sachschaden. Pkw auf Dach in Straßengraben.",
+   "prefix": "POL-SI",
+   "place": "57271 Hilchenbach",
+   "teaser": "Am 27.11.2026, gegen 22:30 Uhr, befuhr ein 43-jähriger Pkw-Fahrer die B62 aus Richtung Erndtebrück in Richtung Hilchenbach. Zwischen den Ortsteilen Altenteich und Hilchenbach Lützel kam der Pkw des 43-Jährigen in einer …",
+   "source": "Kreispolizeibehörde Siegen-Wittgenstein",
+   "published": "2026-11-27T23:53:00Z",
+   "link": "https://www.presseportal.de/blaulicht/pm/65854/6399596"
+  },
   {
    "title": "Verkehrsunfall zwischen PKW und Straßenbahn",
    "prefix": "FW-BO",
@@ -119,24 +137,6 @@
    "source": "Polizei Duisburg",
    "published": "2026-11-27T14:27:09Z",
    "link": "https://www.presseportal.de/blaulicht/pm/50510/6399521"
-  },
-  {
-   "title": "Hochfeld: Polizei nimmt mutmaßlichen Dealer fest",
-   "prefix": "POL-DU",
-   "place": "Duisburg",
-   "teaser": "Am Donnerstagmittag (26. November, 13:45 Uhr) zog ein Fußgänger (24), der auf der Siechenhausstraße unterwegs war, das Interesse von Polizisten auf sich, weil von dem Mann der Geruch von Marihuana ausging. Bevor sie den …",
-   "source": "Polizei Duisburg",
-   "published": "2026-11-27T14:23:58Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/50510/6399518"
-  },
-  {
-   "title": "Friedrichstadt - 10-Jähriger wird von Auto angefahren - Fahrzeugführer flüchtet vom Unfallort - Polizei sucht Zeugen",
-   "prefix": "POL-D",
-   "place": "Düsseldorf",
-   "teaser": "Mittwoch, 25. November 2026, 14:45 Uhr Der unbekannte Fahrer eines weißen PKW fuhr am vergangenen Mittwochnachmittag an der Kreuzung Hüttenstraße/ Helmholtzstraße einen 10-Jährigen Fahrradfahrer an. Der Schüler stürzte zu …",
-   "source": "Polizei Düsseldorf",
-   "published": "2026-11-27T14:22:01Z",
-   "link": "https://www.presseportal.de/blaulicht/pm/13248/6399516"
   }
  ]
 }
